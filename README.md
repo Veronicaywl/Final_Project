@@ -1,5 +1,8 @@
 # Final_Project
 
+
+This is a practice push - Joon Su choi
+
 ## Project topic 
 ReadMe practice
 
@@ -9,3 +12,4 @@ ReadMe practice
 Practice push.
 
 Nishat's comment
+
