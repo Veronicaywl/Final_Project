@@ -1,0 +1,14 @@
+Focus on higher population areas
+
+Maybe NY/LA which are higher populations
+
+Aggregating the data
+
+Sufficient number of observations for ML: 10,000 data points per group
+
+Decision Tree: What factors causing lung cancer
+
+A heat map for death rate changes over years selected (visualization)
+
+Model could predict death or rate of cancer for that particular year or geographic region
+
