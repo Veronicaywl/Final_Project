@@ -7,6 +7,11 @@ According to the World Health Organization (WHO), Cancer is one of the leading c
 ## Description of the source of data:
 We looked at datasets on lung cancer provided by CDC, NIH, and Kaggle to name a few. We settled on this dataset provided at data.world for it contains many of the variables we were interested in, such as smoking, anxiety, peer pressure, alcohol consumption, that we wish to look at in order to figure out the predictability of developing lung cancer based on these variables. 
 
+## Description of the communication process:
+We used several modes of communication to maintain efficient communication throughout. We used an initial meeting on Zoom to lay out our base plan for the project (potential topics, division of roles and responsibilities, ways to communicate as the project progresses) and created a shared Google Drive, where we shared potential datasets, word documents to jot down our initial plans, and related files. We used Slack to troubleshoot and communicate in between our Zoom meetings.
+
+
+
 ## Questions to Answer with the Data
 
 Finding correlation of lung cancer with income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density, other factors (These factors are subject to change with datasets we find).
