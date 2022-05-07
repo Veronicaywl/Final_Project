@@ -9,22 +9,3 @@
 * From all the features,we will choose the features that we believed would have the highest correlation with lung cancer..
 * The data will be split into training and test data using the train_test_split function. We will use the default 75% to 25% split.
  
-
-
-
-Practice run
-
-
-This is a practice push - Joon Su choi
-
-## Project topic 
-ReadMe practice
-
-## This is a branch test
-
-
-Practice push.
-
-Nishat's comment
-
-Nishat's 2nd comment
