@@ -1,6 +1,9 @@
 # Final_Project
 
 
+Practice run
+
+
 This is a practice push - Joon Su choi
 
 ## Project topic 
