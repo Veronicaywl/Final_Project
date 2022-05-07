@@ -18,6 +18,11 @@ Finding correlation of lung cancer with income, health coverage, air pollution, 
 * From all the features,we will choose the features that we believed would have the highest correlation with lung cancer..
 * The data will be split into training and test data using the train_test_split function. We will use the default 75% to 25% split.
  
+
+ Our sample size, as of yet, is small at 310. In order to overcomeissues that may arise out of a small sample size, we will run a SMOTEENN resampling model on it. SMOTEENN oversamples the data points, before undersampling to reach a sizeable sample size. This should give us a good sample size. 
+Next, we run the fitting process on the training data (75%), followed by a testing of this model we created, using the testing data (25%).
+
+
 ## Visualization
 A heat map for death rate changes over years selected. Showing the death rate amoung population with lung cancer in local area. 
 - Creating a heatmap and story for presentation with Tableau
