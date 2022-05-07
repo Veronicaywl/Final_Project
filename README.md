@@ -20,9 +20,14 @@ Finding correlation of lung cancer with income, health coverage, air pollution, 
 * Train a machine learning model with existing datasets and predict the possibility of developing lung cancer.
 * Model could predict death or rate of cancer for that particular year or geographic region
 * The preliminary data includes columns that describe different factors that can influence lung cancer.  
-
 * These features include the labeled input data that would include income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density  etc.
 * From all the features,we will choose the features that we believed would have the highest correlation with lung cancer..
+
+
+We will determine which features have the most impact on the outcome by ranking the features using the feature_importances_ attribute, and then sorting them in a descending order. 
+This will rank the features, starting with those that have the highest impact down to those which have the lowest or no impact on our outcome variable.
+
+
 * The data will be split into training and test data using the train_test_split function. We will use the default 75% to 25% split.
  
 
@@ -58,16 +63,16 @@ A heat map for death rate changes over years selected. Showing the death rate am
 
 
 The presentation should tell a cohesive story about the project and include the following:
-Selected topic
-Reason the topic was selected
-Description of the source of data
-Questions the team hopes to answer with the data
-Description of the data exploration phase of the project
-Description of the analysis phase of the project
-Technologies, languages, tools, and algorithms used throughout the project
-Result of analysis
-Recommendation for future analysis
-Anything the team would have done differently
+- Selected topic
+- Reason the topic was selected
+- Description of the source of data
+- Questions the team hopes to answer with the data
+- Description of the data exploration phase of the project
+- Description of the analysis phase of the project
+- Technologies, languages, tools, and algorithms used throughout the project
+- Result of analysis
+- Recommendation for future analysis
+- Anything the team would have done differently
 
 Location: New York
 Possible Topics: Cancer (Lung Cancer)
