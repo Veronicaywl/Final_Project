@@ -4,6 +4,8 @@
 ## Reason for selected topic: 
 According to the World Health Organization (WHO), Cancer is one of the leading causes of death in the world. In tuhe United States, it is the second leading case of death just behind heart disease; where 1 in every 4 deaths is due to Cancer (CDC). Lung Cancer is the third most common Cancer in the United States (CDC).
 
+## Description of the source of data:
+We looked at datasets on lung cancer provided by CDC, NIH, and Kaggle to name a few. We settled on this dataset provided at data.world for it contains many of the variables we were interested in, such as smoking, anxiety, peer pressure, alcohol consumption, that we wish to look at in order to figure out the predictability of developing lung cancer based on these variables. 
 
 ## Questions to Answer with the Data
 
