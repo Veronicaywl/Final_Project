@@ -2,7 +2,7 @@
 ### Selected topic:Cancer (Lung Cancer)
 
 ## Reason for selected topic: 
-According to the World Health Organization (WHO), Cancer is one of the leading causes of death in the world. In tuhe United States, it is the second leading case of death just behind heart disease; where 1 in every 4 deaths is due to Cancer (CDC). Lung Cancer is the third most common Cancer in the United States (CDC).
+According to the World Health Organization (WHO), Cancer is one of the leading causes of death in the world. In the United States, it is the second leading case of death just behind heart disease; where 1 in every 4 deaths is due to Cancer (CDC). Lung Cancer is the third most common Cancer in the United States (CDC).
 
 ## Description of the source of data:
 We looked at datasets on lung cancer provided by CDC, NIH, and Kaggle to name a few. We settled on this dataset provided at data.world for it contains many of the variables we were interested in, such as smoking, anxiety, peer pressure, alcohol consumption, that we wish to look at in order to figure out the predictability of developing lung cancer based on these variables. 
@@ -15,6 +15,9 @@ We used several modes of communication to maintain efficient communication throu
 ## Questions to Answer with the Data
 
 Finding correlation of lung cancer with income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density, other factors (These factors are subject to change with datasets we find).
+
+## Database
+ A sample database was created (sample_database) using postgreSQL. A sample dataset (sample.csv) was generated with the following specific attributes pulled from the original dataset: Gender, Age, Smoking, Alcohol Consuming, and Lung Cancer diagnosis.
 
 ## Machine learning model:
 * Train a machine learning model with existing datasets and predict the possibility of developing lung cancer.
