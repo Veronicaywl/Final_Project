@@ -22,6 +22,11 @@ Finding correlation of lung cancer with income, health coverage, air pollution, 
  Our sample size, as of yet, is small at 310. In order to overcomeissues that may arise out of a small sample size, we will run a SMOTEENN resampling model on it. SMOTEENN oversamples the data points, before undersampling to reach a sizeable sample size. This should give us a good sample size. 
 Next, we run the fitting process on the training data (75%), followed by a testing of this model we created, using the testing data (25%).
 
+ 
+FINAL FORM IS THE ONE BELOW:
+ Our sample size, as of yet, is small at 310. In order to overcome the issues that may arise out of a small sample size during our analysis, we will run a SMOTEENN resampling model on it. SMOTEENN oversamples the data points (via the SMOTE algorithm), before undersampling (via the EEN algorithm)to reach a sizeable sample size. The SMOTE (Synthetic Minority Oversampling Technique) algorithm oversamples the minority class in our dataset. The EEN (Edited Nearest Neighbors) algorithm undersamples by editing out the data points that happen to fall into both classes in our dataset. This should give us a good sample size. 
+ Next, we run the fitting process on the training data (75% of our resampled data) to create our machine learning model. This is followed by a testing of this model, using the testing data (25% of our resampled data).
+
 
 ## Visualization
 A heat map for death rate changes over years selected. Showing the death rate amoung population with lung cancer in local area. 
