@@ -64,6 +64,16 @@ A heat map for death rate changes over years selected. Showing the death rate am
 - CSS
 - Heroku
 
+Other things for consideration:
+data_Location: New York
 
+Categories: income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density
+Sufficient number of observations for ML: 1,000+  data points per group
+
+Decision Tree: What factors causing lung cancer
+
+A heat map for death rate changes over years selected (visualization)
+
+Model could predict death or rate of cancer for that particular year or geographic region
 
 
