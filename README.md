@@ -44,7 +44,7 @@ A heat map for death rate changes over years selected. Showing the death rate am
 - Visualized the code with html, javascript and css. 
 
 
- Tools:
+### Tools:
 - Creating Database
 - PostgreSQL
 - Amazon Web Services (AWS)
@@ -64,21 +64,9 @@ A heat map for death rate changes over years selected. Showing the death rate am
 - CSS
 - Heroku
 
+Other things for consideration:
+data_Location: New York
 
-The presentation should tell a cohesive story about the project and include the following:
-- Selected topic
-- Reason the topic was selected
-- Description of the source of data
-- Questions the team hopes to answer with the data
-- Description of the data exploration phase of the project
-- Description of the analysis phase of the project
-- Technologies, languages, tools, and algorithms used throughout the project
-- Result of analysis
-- Recommendation for future analysis
-- Anything the team would have done differently
-
-Location: New York
-Possible Topics: Cancer (Lung Cancer)
 Categories: income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density
 Sufficient number of observations for ML: 1,000+  data points per group
 
