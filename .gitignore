@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*DOHMH_New_York_City_Restaurant_Inspection_Results.csv
 # C extensions
 *.so
 
