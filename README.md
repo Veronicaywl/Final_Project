@@ -1,20 +1,22 @@
 # Final_Project
-### Selected topic:NYC Restaurant Analysis
+### Selected topic: NYC Restaurant Analysis
 
 ### Reason for selected topic: 
-In this project, we would like to find out the correlation with the higher income area should received a better health inspection grade. 
+In this project, we came out with a hypothesis that if there are any correlation with the higher income areas should received a better health inspection grade. We would like to find out if the incomes level within an area may effect the the health inspection grade for the local restaurant. 
 
 ## Description of the source of data:
-We looked at datasets on lung cancer provided by CDC, NIH, and Kaggle to name a few. We settled on this dataset provided at data.world for it contains many of the variables we were interested in, such as smoking, anxiety, peer pressure, alcohol consumption, that we wish to look at in order to figure out the predictability of developing lung cancer based on these variables. 
+We looked at datasets on NYC DOH Restaurant Inspections provided by Kaggle. We settled on this dataset provided at kaggle for it contains many of the variables we were interested in, such as DBA, borough, cuisine description, and grade that we wish to look at in order to figure out the predictability of developing restaurant inspection grade based on these variables. 
+
+Data Resources: [NYC Restaurant Inspection](https://www.kaggle.com/datasets/new-york-city/nyc-inspections?select=DOHMH_New_York_City_Restaurant_Inspection_Results.csv) & 
+[NYC- Precovid Restaurant Data](https://www.kaggle.com/datasets/nathaliekelley/nyc-precovid-restaurant-data?select=Pre_restaurants.csv)
 
 ## Description of the communication process:
 We used several modes of communication to maintain efficient communication throughout. We used an initial meeting on Zoom to lay out our base plan for the project (potential topics, division of roles and responsibilities, ways to communicate as the project progresses) and created a shared Google Drive, where we shared potential datasets, word documents to jot down our initial plans, and related files. We used Slack to troubleshoot and communicate in between our Zoom meetings.
 
 
-
 ## Questions to Answer with the Data
 
-Finding correlation of lung cancer with income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density, other factors (These factors are subject to change with datasets we find).
+Finding correlation of the higher income areas would received a better health inspection grade.
 
 ## Database
  A sample database was created (sample_database) using postgreSQL. A sample dataset (sample.csv) was generated with the following specific attributes pulled from the original dataset: Gender, Age, Smoking, Alcohol Consuming, and Lung Cancer diagnosis.
@@ -39,9 +41,10 @@ This will rank the features, starting with those that have the highest impact do
 
 
 ## Visualization
-A heat map for death rate changes over years selected. Showing the death rate amoung population with lung cancer in local area. 
+Plot a geo map for income level areas and showing the grades that spreading  amoung in the local area. 
 - Creating a heatmap and story for presentation with Tableau
 - Visualized the code with html, javascript and css. 
+- Ploting graph to show the correlations between income level and health inspection grades. 
 
 
 ### Tools:
