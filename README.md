@@ -22,6 +22,7 @@ Finding correlation of the higher income areas would received a better health in
  A sample database was created (sample_database) using postgreSQL. A sample dataset (sample.csv) was generated with the following specific attributes pulled from the original dataset: Gender, Age, Smoking, Alcohol Consuming, and Lung Cancer diagnosis.
 
 ## Machine learning model:
+# THIS will be updated.
 * Train a machine learning model with existing datasets and predict the possibility of developing lung cancer.
 * Model could predict death or rate of cancer for that particular year or geographic region
 * The preliminary data includes columns that describe different factors that can influence lung cancer.  
