@@ -17,6 +17,7 @@ We used several modes of communication to maintain efficient communication throu
 Finding correlation of lung cancer with income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density, other factors (These factors are subject to change with datasets we find).
 
 ## Machine learning model:
+# THIS will be updated.
 * Train a machine learning model with existing datasets and predict the possibility of developing lung cancer.
 * Model could predict death or rate of cancer for that particular year or geographic region
 * The preliminary data includes columns that describe different factors that can influence lung cancer.  
