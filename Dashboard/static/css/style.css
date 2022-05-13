@@ -1,8 +1,9 @@
-.jumbotron {
-    background-image: url("static/images/inspection-grades.jpg");
-    background-size: 80%;
+body {
+
+    color: #f7f7f7;
+  }
+  .jumbotron {
+    background-image: url("../images/rivercafe-nyc-2020.jpeg");
+    background-size: 100% 100%;
     text-align: center;
-    font-weight: bold;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:antiquewhite;
   }
