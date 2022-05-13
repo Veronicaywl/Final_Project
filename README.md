@@ -14,6 +14,7 @@ Data Resources: [NYC Restaurant Inspection](https://www.kaggle.com/datasets/new-
 We used several modes of communication to maintain efficient communication throughout. We used an initial meeting on Zoom to lay out our base plan for the project (potential topics, division of roles and responsibilities, ways to communicate as the project progresses) and created a shared Google Drive, where we shared potential datasets, word documents to jot down our initial plans, and related files. We used Slack to troubleshoot and communicate in between our Zoom meetings.
 
 
+
 ## Questions to Answer with the Data
 
 Finding correlation of the higher income areas would received a better health inspection grade.
@@ -22,6 +23,7 @@ Finding correlation of the higher income areas would received a better health in
  A sample database was created (sample_database) using postgreSQL. A sample dataset (sample.csv) was generated with the following specific attributes pulled from the original dataset: Gender, Age, Smoking, Alcohol Consuming, and Lung Cancer diagnosis.
 
 ## Machine learning model:
+# THIS will be updated.
 * Train a machine learning model with existing datasets and predict the possibility of developing lung cancer.
 * Model could predict death or rate of cancer for that particular year or geographic region
 * The preliminary data includes columns that describe different factors that can influence lung cancer.  
@@ -67,16 +69,14 @@ Plot a geo map for income level areas and showing the grades that spreading  amo
 - CSS
 - Heroku
 
-Other things for consideration:
-data_Location: New York
 
-Categories: income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density
-Sufficient number of observations for ML: 1,000+  data points per group
+### Google slides link :
+link goes here: https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit?usp=sharing
 
-Decision Tree: What factors causing lung cancer
 
-A heat map for death rate changes over years selected (visualization)
+### Dashboard link : 
+link goes here: https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit?usp=sharing
 
-Model could predict death or rate of cancer for that particular year or geographic region
+
 
 
