@@ -19,15 +19,12 @@ We used several modes of communication to maintain efficient communication throu
 Finding correlation of the higher income areas would received a better health inspection grade.
 
 ## Database
- A sample database was created (sample_database) using postgreSQL. A sample dataset (sample.csv) was generated with the following specific attributes pulled from the original dataset: Gender, Age, Smoking, Alcohol Consuming, and Lung Cancer diagnosis.
+ A database containing the data from a restaurant inspection dataset and a income level dataset was created using postgreSQL. The dataset was generated with the following specific attributes pulled from the original datasets: Borough, income level, DBA, street, grade date, latitude, longitude, and income level.
 
 ## Machine learning model:
 # THIS will be updated.
-* Train a machine learning model with existing datasets and predict the possibility of developing lung cancer.
-* Model could predict death or rate of cancer for that particular year or geographic region
-* The preliminary data includes columns that describe different factors that can influence lung cancer.  
-* These features include the labeled input data that would include income, health coverage, air pollution, neighborhoods, smoking, alcohol, population density  etc.
-* From all the features,we will choose the features that we believed would have the highest correlation with lung cancer..
+* Train a machine learning model with the merged dataset to observe if there is a correlation between the inspection grade of restaurants with the income level of the neighborhoods.
+* This is a supervised machine learning model.
 
 
 We will determine which features have the most impact on the outcome by ranking the features using the feature_importances_ attribute, and then sorting them in a descending order. 
