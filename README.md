@@ -1,6 +1,5 @@
 # Final_Project
 ### Selected topic: NYC Restaurant Analysis
-
 ### Reason for selected topic: 
 In this project, we came out with a hypothesis that if there are any correlation with the higher income areas should received a better health inspection grade. We would like to find out if the incomes level within an area may effect the the health inspection grade for the local restaurant. 
 
