@@ -1,0 +1,16 @@
+--VIEW INCOME and INSPECTION TABLES
+SELECT * FROM income3;
+SELECT * FROM inspection3;
+
+--JOIN TABLES
+SELECT c."INCOME_LEVEL", c."DBA", c."STREET", s."CUISINE_DESCRIPTION", s."SCORE", s."GRADE"
+INTO NewTable4
+FROM income3 c
+JOIN inspection3 s
+ON c."DBA" = s."DBA" and c."STREET" = s."STREET";
+	
+--VIEW JOINED TABLE
+SELECT * FROM newtable4;
+
+--VIEW ROW COUNT OF JOINED TABLE
+SELECT count(*) FROM newtable4;
