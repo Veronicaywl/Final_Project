@@ -22,7 +22,9 @@ Finding correlation of the higher income areas would received a better health in
  A database containing the data from a restaurant inspection dataset and a income level dataset was created using postgreSQL. The dataset was generated with the following specific attributes pulled from the original datasets: Borough, income level, DBA, street, grade date, latitude, longitude, and income level.
 
 ## Machine learning model:
-# THIS will be updated.
+
+# THIS will be updated SOON.
+
 * Train a machine learning model with the merged dataset to observe if there is a correlation between the inspection grade of restaurants with the income level of the neighborhoods.
 * This is a supervised machine learning model.
 
