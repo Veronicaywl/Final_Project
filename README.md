@@ -23,7 +23,7 @@ Finding correlation of the higher income areas would received a better health in
 
 ## Machine learning model:
 
-# THIS will be updated SOOOON.
+# THIS will be updated SOOONNNNN.
 
 * Train a machine learning model with the merged dataset to observe if there is a correlation between the inspection grade of restaurants with the income level of the neighborhoods.
 * This is a supervised machine learning model.
