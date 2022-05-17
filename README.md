@@ -75,6 +75,7 @@ link goes here: https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnj
 ### Dashboard link : 
 link goes here: https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit?usp=sharing
 
-
+### Reference Resources
+[Letter Grading for Restaurant](https://www1.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page); 
 
 
