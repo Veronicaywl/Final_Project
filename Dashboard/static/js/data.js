@@ -1,4 +1,4 @@
-var data = 
+var data =
 [
   {
     zipcode: "10001",
@@ -6,9 +6,8 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.826923076923077",
+    score: "8.83",
   },
-
   {
     zipcode: "10001",
     income_level: "high income",
@@ -39,7 +38,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "10001",
@@ -63,7 +62,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Korean",
-    score: "9.61111111111111",
+    score: "9.61",
   },
   {
     zipcode: "10001",
@@ -87,7 +86,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "7.909090909090909",
+    score: "7.91",
   },
   {
     zipcode: "10001",
@@ -103,7 +102,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Portuguese",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10001",
@@ -119,7 +118,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10001",
@@ -127,7 +126,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10001",
@@ -175,7 +174,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Korean",
-    score: "22.666666666666668",
+    score: "22.67",
   },
   {
     zipcode: "10001",
@@ -215,7 +214,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.916666666666666",
+    score: "9.92",
   },
   {
     zipcode: "10001",
@@ -223,7 +222,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10001",
@@ -239,7 +238,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10001",
@@ -263,7 +262,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10001",
@@ -311,7 +310,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "28.33333333333333",
+    score: "28.33",
   },
   {
     zipcode: "10001",
@@ -327,7 +326,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "7.612903225806452",
+    score: "7.61",
   },
   {
     zipcode: "10002",
@@ -343,7 +342,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "9.590909090909092",
+    score: "9.59",
   },
   {
     zipcode: "10002",
@@ -367,7 +366,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10002",
@@ -375,7 +374,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "10.294117647058824",
+    score: "10.29",
   },
   {
     zipcode: "10002",
@@ -439,7 +438,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10002",
@@ -519,7 +518,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.264516129032256",
+    score: "9.26",
   },
   {
     zipcode: "10003",
@@ -527,7 +526,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "9.375",
+    score: "9.38",
   },
   {
     zipcode: "10003",
@@ -543,7 +542,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bangladeshi",
-    score: "8.166666666666666",
+    score: "8.17",
   },
   {
     zipcode: "10003",
@@ -551,7 +550,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Barbecue",
-    score: "9.22222222222222",
+    score: "9.22",
   },
   {
     zipcode: "10003",
@@ -560,7 +559,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "10003",
@@ -568,7 +567,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.551020408163265",
+    score: "7.55",
   },
   {
     zipcode: "10003",
@@ -584,7 +583,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "11.22222222222222",
+    score: "11.22",
   },
   {
     zipcode: "10003",
@@ -600,7 +599,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Eastern European",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10003",
@@ -616,7 +615,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "9.77777777777778",
+    score: "9.78",
   },
   {
     zipcode: "10003",
@@ -624,7 +623,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hotdogs",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10003",
@@ -640,7 +639,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "7.769230769230769",
+    score: "7.77",
   },
   {
     zipcode: "10003",
@@ -664,7 +663,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.976744186046512",
+    score: "9.98",
   },
   {
     zipcode: "10003",
@@ -689,7 +688,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10003",
@@ -705,7 +704,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.823529411764708",
+    score: "9.82",
   },
   {
     zipcode: "10003",
@@ -713,7 +712,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Moroccan",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10003",
@@ -729,7 +728,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.647058823529411",
+    score: "10.65",
   },
   {
     zipcode: "10003",
@@ -761,7 +760,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10003",
@@ -793,7 +792,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "10.583333333333334",
+    score: "10.58",
   },
   {
     zipcode: "10003",
@@ -825,7 +824,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "21.666666666666668",
+    score: "21.67",
   },
   {
     zipcode: "10003",
@@ -858,7 +857,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "19.714285714285715",
+    score: "19.71",
   },
   {
     zipcode: "10003",
@@ -898,7 +897,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "23.33333333333333",
+    score: "23.33",
   },
   {
     zipcode: "10003",
@@ -946,7 +945,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "22.33333333333333",
+    score: "22.33",
   },
   {
     zipcode: "10003",
@@ -1058,7 +1057,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.930232558139535",
+    score: "8.93",
   },
   {
     zipcode: "10003",
@@ -1075,7 +1074,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10003",
@@ -1107,7 +1106,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10003",
@@ -1147,7 +1146,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "10003",
@@ -1180,7 +1179,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "22.33333333333333",
+    score: "22.33",
   },
   {
     zipcode: "10003",
@@ -1204,7 +1203,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.972222222222221",
+    score: "8.97",
   },
   {
     zipcode: "10003",
@@ -1212,7 +1211,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10003",
@@ -1228,7 +1227,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "8.941176470588236",
+    score: "8.94",
   },
   {
     zipcode: "10003",
@@ -1236,7 +1235,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bangladeshi",
-    score: "8.166666666666666",
+    score: "8.17",
   },
   {
     zipcode: "10003",
@@ -1245,7 +1244,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "6.111111111111111",
+    score: "6.11",
   },
   {
     zipcode: "10003",
@@ -1253,7 +1252,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.522727272727272",
+    score: "7.52",
   },
   {
     zipcode: "10003",
@@ -1261,7 +1260,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "8.733333333333333",
+    score: "8.73",
   },
   {
     zipcode: "10003",
@@ -1269,7 +1268,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10003",
@@ -1285,7 +1284,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10003",
@@ -1293,7 +1292,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Greek",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10003",
@@ -1309,7 +1308,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hotdogs",
-    score: "8.285714285714286",
+    score: "8.29",
   },
   {
     zipcode: "10003",
@@ -1317,7 +1316,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.125",
+    score: "8.12",
   },
   {
     zipcode: "10003",
@@ -1325,7 +1324,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "9.375",
+    score: "9.38",
   },
   {
     zipcode: "10003",
@@ -1341,7 +1340,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.51063829787234",
+    score: "9.51",
   },
   {
     zipcode: "10003",
@@ -1382,7 +1381,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10003",
@@ -1398,7 +1397,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.81578947368421",
+    score: "9.82",
   },
   {
     zipcode: "10003",
@@ -1454,7 +1453,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.625",
+    score: "7.62",
   },
   {
     zipcode: "10003",
@@ -1462,7 +1461,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "3.6666666666666665",
+    score: "3.67",
   },
   {
     zipcode: "10003",
@@ -1478,7 +1477,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tapas",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10003",
@@ -1518,7 +1517,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "19.6875",
+    score: "19.69",
   },
   {
     zipcode: "10003",
@@ -1558,7 +1557,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "21.666666666666668",
+    score: "21.67",
   },
   {
     zipcode: "10003",
@@ -1606,7 +1605,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10003",
@@ -1614,7 +1613,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "19.210526315789476",
+    score: "19.21",
   },
   {
     zipcode: "10003",
@@ -1654,7 +1653,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "10003",
@@ -1806,7 +1805,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "7.454545454545454",
+    score: "7.45",
   },
   {
     zipcode: "10004",
@@ -1928,7 +1927,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Armenian",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10005",
@@ -1944,7 +1943,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Japanese",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10005",
@@ -2000,7 +1999,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "10.13888888888889",
+    score: "10.14",
   },
   {
     zipcode: "10006",
@@ -2008,7 +2007,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "6.571428571428571",
+    score: "6.57",
   },
   {
     zipcode: "10006",
@@ -2024,7 +2023,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "10006",
@@ -2032,7 +2031,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10006",
@@ -2048,7 +2047,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "9.571428571428571",
+    score: "9.57",
   },
   {
     zipcode: "10006",
@@ -2064,7 +2063,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10006",
@@ -2072,7 +2071,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "10006",
@@ -2120,7 +2119,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.052631578947368",
+    score: "9.05",
   },
   {
     zipcode: "10007",
@@ -2128,7 +2127,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10007",
@@ -2144,7 +2143,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bangladeshi",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10007",
@@ -2152,7 +2151,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.84375",
+    score: "7.84",
   },
   {
     zipcode: "10007",
@@ -2184,7 +2183,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "9.615384615384617",
+    score: "9.62",
   },
   {
     zipcode: "10007",
@@ -2264,7 +2263,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "10007",
@@ -2296,7 +2295,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "8.285714285714286",
+    score: "8.29",
   },
   {
     zipcode: "10007",
@@ -2304,7 +2303,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "23.666666666666668",
+    score: "23.67",
   },
   {
     zipcode: "10007",
@@ -2312,7 +2311,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Bangladeshi",
-    score: "15.666666666666666",
+    score: "15.67",
   },
   {
     zipcode: "10007",
@@ -2480,7 +2479,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10007",
@@ -2520,7 +2519,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.642857142857142",
+    score: "9.64",
   },
   {
     zipcode: "10009",
@@ -2528,7 +2527,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "10009",
@@ -2536,7 +2535,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "10009",
@@ -2544,7 +2543,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "10.555555555555555",
+    score: "10.56",
   },
   {
     zipcode: "10009",
@@ -2576,7 +2575,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "10.833333333333334",
+    score: "10.83",
   },
   {
     zipcode: "10009",
@@ -2593,7 +2592,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10009",
@@ -2609,7 +2608,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Middle Eastern",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10009",
@@ -2625,7 +2624,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10009",
@@ -2665,7 +2664,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "23.666666666666668",
+    score: "23.67",
   },
   {
     zipcode: "10009",
@@ -2738,7 +2737,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.669421487603303",
+    score: "9.67",
   },
   {
     zipcode: "10009",
@@ -2746,7 +2745,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "10009",
@@ -2754,7 +2753,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Australian",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10009",
@@ -2762,7 +2761,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10009",
@@ -2771,7 +2770,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "10009",
@@ -2811,7 +2810,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.083333333333334",
+    score: "9.08",
   },
   {
     zipcode: "10009",
@@ -2819,7 +2818,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "10009",
@@ -2827,7 +2826,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Eastern European",
-    score: "9.22222222222222",
+    score: "9.22",
   },
   {
     zipcode: "10009",
@@ -2843,7 +2842,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.772727272727272",
+    score: "9.77",
   },
   {
     zipcode: "10009",
@@ -2859,7 +2858,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Greek",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10009",
@@ -2867,7 +2866,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "8.214285714285714",
+    score: "8.21",
   },
   {
     zipcode: "10009",
@@ -2883,7 +2882,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "8.909090909090908",
+    score: "8.91",
   },
   {
     zipcode: "10009",
@@ -2891,7 +2890,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.782608695652174",
+    score: "9.78",
   },
   {
     zipcode: "10009",
@@ -2899,7 +2898,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "9.807692307692308",
+    score: "9.81",
   },
   {
     zipcode: "10009",
@@ -2907,7 +2906,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10009",
@@ -2916,7 +2915,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "8.702702702702704",
+    score: "8.7",
   },
   {
     zipcode: "10009",
@@ -2924,7 +2923,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "9.555555555555555",
+    score: "9.56",
   },
   {
     zipcode: "10009",
@@ -2932,7 +2931,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "10009",
@@ -2940,7 +2939,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Middle Eastern",
-    score: "9.842105263157896",
+    score: "9.84",
   },
   {
     zipcode: "10009",
@@ -2948,7 +2947,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Moroccan",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "10009",
@@ -2964,7 +2963,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "8.91304347826087",
+    score: "8.91",
   },
   {
     zipcode: "10009",
@@ -2980,7 +2979,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Russian",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10009",
@@ -2988,7 +2987,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10009",
@@ -3020,7 +3019,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "10.647058823529411",
+    score: "10.65",
   },
   {
     zipcode: "10009",
@@ -3028,7 +3027,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tapas",
-    score: "10.11111111111111",
+    score: "10.11",
   },
   {
     zipcode: "10009",
@@ -3036,7 +3035,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "3.6666666666666665",
+    score: "3.67",
   },
   {
     zipcode: "10009",
@@ -3044,7 +3043,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "10009",
@@ -3052,7 +3051,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Vegetarian",
-    score: "7.444444444444445",
+    score: "7.44",
   },
   {
     zipcode: "10009",
@@ -3068,7 +3067,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "19.97142857142857",
+    score: "19.97",
   },
   {
     zipcode: "10009",
@@ -3085,7 +3084,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10009",
@@ -3141,7 +3140,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "10009",
@@ -3182,7 +3181,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "20.875",
+    score: "20.88",
   },
   {
     zipcode: "10009",
@@ -3206,7 +3205,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Middle Eastern",
-    score: "17.666666666666668",
+    score: "17.67",
   },
   {
     zipcode: "10009",
@@ -3382,7 +3381,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.77450980392157",
+    score: "8.77",
   },
   {
     zipcode: "10010",
@@ -3390,7 +3389,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "9.636363636363637",
+    score: "9.64",
   },
   {
     zipcode: "10010",
@@ -3398,7 +3397,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.767441860465116",
+    score: "7.77",
   },
   {
     zipcode: "10010",
@@ -3406,7 +3405,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "9.909090909090908",
+    score: "9.91",
   },
   {
     zipcode: "10010",
@@ -3430,7 +3429,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10010",
@@ -3438,7 +3437,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "10010",
@@ -3470,7 +3469,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10010",
@@ -3478,7 +3477,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10010",
@@ -3486,7 +3485,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "8.541666666666666",
+    score: "8.54",
   },
   {
     zipcode: "10010",
@@ -3510,7 +3509,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.571428571428571",
+    score: "9.57",
   },
   {
     zipcode: "10010",
@@ -3518,7 +3517,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10010",
@@ -3534,7 +3533,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "9.647058823529411",
+    score: "9.65",
   },
   {
     zipcode: "10010",
@@ -3622,7 +3621,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "15.666666666666666",
+    score: "15.67",
   },
   {
     zipcode: "10010",
@@ -3662,7 +3661,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "10010",
@@ -3734,7 +3733,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.458333333333334",
+    score: "9.46",
   },
   {
     zipcode: "10010",
@@ -3742,7 +3741,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "9.636363636363637",
+    score: "9.64",
   },
   {
     zipcode: "10010",
@@ -3750,7 +3749,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10010",
@@ -3838,7 +3837,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10010",
@@ -3846,7 +3845,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10010",
@@ -3878,7 +3877,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "22.33333333333333",
+    score: "22.33",
   },
   {
     zipcode: "10010",
@@ -3910,7 +3909,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.352941176470588",
+    score: "7.35",
   },
   {
     zipcode: "10011",
@@ -3942,7 +3941,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "7.857142857142857",
+    score: "7.86",
   },
   {
     zipcode: "10011",
@@ -3990,7 +3989,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.833333333333334",
+    score: "10.83",
   },
   {
     zipcode: "10011",
@@ -4022,7 +4021,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "16.333333333333332",
+    score: "16.33",
   },
   {
     zipcode: "10011",
@@ -4094,7 +4093,7 @@ var data =
     grade: "P",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "10011",
@@ -4134,7 +4133,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.758620689655173",
+    score: "8.76",
   },
   {
     zipcode: "10011",
@@ -4158,7 +4157,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.875",
+    score: "7.88",
   },
   {
     zipcode: "10011",
@@ -4174,7 +4173,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.285714285714286",
+    score: "8.29",
   },
   {
     zipcode: "10011",
@@ -4214,7 +4213,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10011",
@@ -4230,7 +4229,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "10011",
@@ -4310,7 +4309,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.209523809523809",
+    score: "9.21",
   },
   {
     zipcode: "10012",
@@ -4318,7 +4317,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "8.375",
+    score: "8.38",
   },
   {
     zipcode: "10012",
@@ -4334,7 +4333,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.627906976744186",
+    score: "7.63",
   },
   {
     zipcode: "10012",
@@ -4342,7 +4341,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "8.714285714285714",
+    score: "8.71",
   },
   {
     zipcode: "10012",
@@ -4358,7 +4357,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "8.166666666666666",
+    score: "8.17",
   },
   {
     zipcode: "10012",
@@ -4366,7 +4365,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "7.555555555555555",
+    score: "7.56",
   },
   {
     zipcode: "10012",
@@ -4382,7 +4381,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.46341463414634",
+    score: "9.46",
   },
   {
     zipcode: "10012",
@@ -4398,7 +4397,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10012",
@@ -4415,7 +4414,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "10012",
@@ -4423,7 +4422,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "8.583333333333334",
+    score: "8.58",
   },
   {
     zipcode: "10012",
@@ -4455,7 +4454,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza/Italian",
-    score: "9.3125",
+    score: "9.31",
   },
   {
     zipcode: "10012",
@@ -4471,7 +4470,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "10.714285714285714",
+    score: "10.71",
   },
   {
     zipcode: "10012",
@@ -4479,7 +4478,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "9.875",
+    score: "9.88",
   },
   {
     zipcode: "10012",
@@ -4487,7 +4486,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "10.285714285714286",
+    score: "10.29",
   },
   {
     zipcode: "10012",
@@ -4495,7 +4494,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Turkish",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10012",
@@ -4696,7 +4695,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.151079136690647",
+    score: "9.15",
   },
   {
     zipcode: "10013",
@@ -4704,7 +4703,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "9.210526315789474",
+    score: "9.21",
   },
   {
     zipcode: "10013",
@@ -4712,7 +4711,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "9.140625",
+    score: "9.14",
   },
   {
     zipcode: "10013",
@@ -4720,7 +4719,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.569444444444445",
+    score: "7.57",
   },
   {
     zipcode: "10013",
@@ -4736,7 +4735,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.724137931034482",
+    score: "9.72",
   },
   {
     zipcode: "10013",
@@ -4752,7 +4751,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Continental",
-    score: "10.375",
+    score: "10.38",
   },
   {
     zipcode: "10013",
@@ -4760,7 +4759,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "10.409090909090908",
+    score: "10.41",
   },
   {
     zipcode: "10013",
@@ -4792,7 +4791,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "German",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10013",
@@ -4800,7 +4799,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Greek",
-    score: "10.625",
+    score: "10.62",
   },
   {
     zipcode: "10013",
@@ -4808,7 +4807,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "9.428571428571429",
+    score: "9.43",
   },
   {
     zipcode: "10013",
@@ -4832,7 +4831,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.554878048780488",
+    score: "9.55",
   },
   {
     zipcode: "10013",
@@ -4848,7 +4847,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "7.944444444444445",
+    score: "7.94",
   },
   {
     zipcode: "10013",
@@ -4865,7 +4864,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.705882352941176",
+    score: "10.71",
   },
   {
     zipcode: "10013",
@@ -4873,7 +4872,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10013",
@@ -4881,7 +4880,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "10013",
@@ -4905,7 +4904,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.705882352941176",
+    score: "10.71",
   },
   {
     zipcode: "10013",
@@ -4921,7 +4920,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "9.071428571428571",
+    score: "9.07",
   },
   {
     zipcode: "10013",
@@ -4929,7 +4928,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "8.090909090909092",
+    score: "8.09",
   },
   {
     zipcode: "10013",
@@ -4953,7 +4952,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "10013",
@@ -4977,7 +4976,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Vegetarian",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10013",
@@ -4985,7 +4984,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "10013",
@@ -5009,7 +5008,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "21.33333333333333",
+    score: "21.33",
   },
   {
     zipcode: "10013",
@@ -5025,7 +5024,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "20.53846153846154",
+    score: "20.54",
   },
   {
     zipcode: "10013",
@@ -5081,7 +5080,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "22.666666666666668",
+    score: "22.67",
   },
   {
     zipcode: "10013",
@@ -5089,7 +5088,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "20.11111111111111",
+    score: "20.11",
   },
   {
     zipcode: "10013",
@@ -5097,7 +5096,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "18.428571428571427",
+    score: "18.43",
   },
   {
     zipcode: "10013",
@@ -5154,7 +5153,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "22.285714285714285",
+    score: "22.29",
   },
   {
     zipcode: "10013",
@@ -5178,7 +5177,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "32.46153846153846",
+    score: "32.46",
   },
   {
     zipcode: "10013",
@@ -5186,7 +5185,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "27.33333333333333",
+    score: "27.33",
   },
   {
     zipcode: "10013",
@@ -5218,7 +5217,7 @@ var data =
     grade: "P",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "10013",
@@ -5234,7 +5233,7 @@ var data =
     grade: "P",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "3.4285714285714284",
+    score: "3.43",
   },
   {
     zipcode: "10013",
@@ -5323,7 +5322,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10014",
@@ -5331,7 +5330,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.298387096774194",
+    score: "9.3",
   },
   {
     zipcode: "10014",
@@ -5339,7 +5338,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10014",
@@ -5380,7 +5379,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10014",
@@ -5396,7 +5395,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "7.166666666666667",
+    score: "7.17",
   },
   {
     zipcode: "10014",
@@ -5420,7 +5419,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "7.428571428571429",
+    score: "7.43",
   },
   {
     zipcode: "10014",
@@ -5428,7 +5427,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10014",
@@ -5452,7 +5451,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.083333333333334",
+    score: "9.08",
   },
   {
     zipcode: "10014",
@@ -5460,7 +5459,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "9.23076923076923",
+    score: "9.23",
   },
   {
     zipcode: "10014",
@@ -5485,7 +5484,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "11.142857142857142",
+    score: "11.14",
   },
   {
     zipcode: "10014",
@@ -5493,7 +5492,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "7.625",
+    score: "7.62",
   },
   {
     zipcode: "10014",
@@ -5501,7 +5500,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.166666666666666",
+    score: "9.17",
   },
   {
     zipcode: "10014",
@@ -5525,7 +5524,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10014",
@@ -5541,7 +5540,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10014",
@@ -5549,7 +5548,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "7.727272727272727",
+    score: "7.73",
   },
   {
     zipcode: "10014",
@@ -5565,7 +5564,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "10014",
@@ -5621,7 +5620,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10014",
@@ -5749,7 +5748,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.364197530864198",
+    score: "9.36",
   },
   {
     zipcode: "10016",
@@ -5765,7 +5764,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "9.538461538461538",
+    score: "9.54",
   },
   {
     zipcode: "10016",
@@ -5806,7 +5805,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "6.238095238095238",
+    score: "6.24",
   },
   {
     zipcode: "10016",
@@ -5822,7 +5821,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.72222222222222",
+    score: "9.72",
   },
   {
     zipcode: "10016",
@@ -5830,7 +5829,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Japanese",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10016",
@@ -5854,7 +5853,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "10016",
@@ -5870,7 +5869,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "9.133333333333333",
+    score: "9.13",
   },
   {
     zipcode: "10016",
@@ -5878,7 +5877,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10016",
@@ -5886,7 +5885,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "9.829268292682928",
+    score: "9.83",
   },
   {
     zipcode: "10016",
@@ -5894,7 +5893,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "10.263157894736842",
+    score: "10.26",
   },
   {
     zipcode: "10016",
@@ -5902,7 +5901,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "10.458333333333334",
+    score: "10.46",
   },
   {
     zipcode: "10016",
@@ -5910,7 +5909,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "9.523809523809524",
+    score: "9.52",
   },
   {
     zipcode: "10016",
@@ -5918,7 +5917,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "8.571428571428571",
+    score: "8.57",
   },
   {
     zipcode: "10016",
@@ -5926,7 +5925,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Korean",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "10016",
@@ -5943,7 +5942,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10016",
@@ -5951,7 +5950,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "10.578947368421051",
+    score: "10.58",
   },
   {
     zipcode: "10016",
@@ -5959,7 +5958,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Middle Eastern",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10016",
@@ -5967,7 +5966,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pakistani",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10016",
@@ -5983,7 +5982,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza/Italian",
-    score: "10.615384615384617",
+    score: "10.62",
   },
   {
     zipcode: "10016",
@@ -5999,7 +5998,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "6.727272727272728",
+    score: "6.73",
   },
   {
     zipcode: "10016",
@@ -6023,7 +6022,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Soups & Sandwiches",
-    score: "8.714285714285714",
+    score: "8.71",
   },
   {
     zipcode: "10016",
@@ -6047,7 +6046,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "11.714285714285714",
+    score: "11.71",
   },
   {
     zipcode: "10016",
@@ -6055,7 +6054,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Turkish",
-    score: "7.444444444444445",
+    score: "7.44",
   },
   {
     zipcode: "10016",
@@ -6063,7 +6062,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "18.526315789473685",
+    score: "18.53",
   },
   {
     zipcode: "10016",
@@ -6127,7 +6126,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "16.666666666666668",
+    score: "16.67",
   },
   {
     zipcode: "10016",
@@ -6167,7 +6166,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "10016",
@@ -6175,7 +6174,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "10016",
@@ -6264,7 +6263,7 @@ var data =
     grade: "P",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "3.333333333333333",
+    score: "3.33",
   },
   {
     zipcode: "10016",
@@ -6321,7 +6320,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.784313725490197",
+    score: "9.78",
   },
   {
     zipcode: "10016",
@@ -6329,7 +6328,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10016",
@@ -6353,7 +6352,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "11.857142857142858",
+    score: "11.86",
   },
   {
     zipcode: "10016",
@@ -6369,7 +6368,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "10016",
@@ -6377,7 +6376,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10016",
@@ -6393,7 +6392,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10016",
@@ -6401,7 +6400,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "10016",
@@ -6409,7 +6408,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "10016",
@@ -6425,7 +6424,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10016",
@@ -6449,7 +6448,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10016",
@@ -6465,7 +6464,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.142857142857143",
+    score: "7.14",
   },
   {
     zipcode: "10016",
@@ -6489,7 +6488,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10016",
@@ -6513,7 +6512,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "10016",
@@ -6609,7 +6608,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.0078125",
+    score: "9.01",
   },
   {
     zipcode: "10017",
@@ -6625,7 +6624,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "6.135922330097087",
+    score: "6.14",
   },
   {
     zipcode: "10017",
@@ -6641,7 +6640,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10017",
@@ -6657,7 +6656,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "10.133333333333333",
+    score: "10.13",
   },
   {
     zipcode: "10017",
@@ -6665,7 +6664,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "7.583333333333333",
+    score: "7.58",
   },
   {
     zipcode: "10017",
@@ -6681,7 +6680,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "German",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10017",
@@ -6689,7 +6688,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Greek",
-    score: "9.88888888888889",
+    score: "9.89",
   },
   {
     zipcode: "10017",
@@ -6705,7 +6704,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "9.862068965517242",
+    score: "9.86",
   },
   {
     zipcode: "10017",
@@ -6713,7 +6712,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "9.647058823529411",
+    score: "9.65",
   },
   {
     zipcode: "10017",
@@ -6721,7 +6720,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.974358974358974",
+    score: "9.97",
   },
   {
     zipcode: "10017",
@@ -6729,7 +6728,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "9.607843137254902",
+    score: "9.61",
   },
   {
     zipcode: "10017",
@@ -6737,7 +6736,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "9.555555555555555",
+    score: "9.56",
   },
   {
     zipcode: "10017",
@@ -6754,7 +6753,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10017",
@@ -6762,7 +6761,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "9.846153846153848",
+    score: "9.85",
   },
   {
     zipcode: "10017",
@@ -6770,7 +6769,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "8.470588235294118",
+    score: "8.47",
   },
   {
     zipcode: "10017",
@@ -6778,7 +6777,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.4375",
+    score: "9.44",
   },
   {
     zipcode: "10017",
@@ -6794,7 +6793,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Salads",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10017",
@@ -6802,7 +6801,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.478260869565218",
+    score: "7.48",
   },
   {
     zipcode: "10017",
@@ -6826,7 +6825,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Soups & Sandwiches",
-    score: "8.909090909090908",
+    score: "8.91",
   },
   {
     zipcode: "10017",
@@ -6834,7 +6833,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10017",
@@ -6842,7 +6841,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "9.73076923076923",
+    score: "9.73",
   },
   {
     zipcode: "10017",
@@ -6850,7 +6849,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "10017",
@@ -6858,7 +6857,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Turkish",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10017",
@@ -6882,7 +6881,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "21.33333333333333",
+    score: "21.33",
   },
   {
     zipcode: "10017",
@@ -6906,7 +6905,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "20.88888888888889",
+    score: "20.89",
   },
   {
     zipcode: "10017",
@@ -6970,7 +6969,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "10017",
@@ -6986,7 +6985,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "36.42857142857143",
+    score: "36.43",
   },
   {
     zipcode: "10017",
@@ -7090,7 +7089,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.86046511627907",
+    score: "8.86",
   },
   {
     zipcode: "10017",
@@ -7122,7 +7121,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "German",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10017",
@@ -7147,7 +7146,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10017",
@@ -7155,7 +7154,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10017",
@@ -7163,7 +7162,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.875",
+    score: "9.88",
   },
   {
     zipcode: "10017",
@@ -7171,7 +7170,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Salads",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10017",
@@ -7179,7 +7178,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10017",
@@ -7187,7 +7186,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "10017",
@@ -7195,7 +7194,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Soups & Sandwiches",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10017",
@@ -7259,7 +7258,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10017",
@@ -7347,7 +7346,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.0188679245283",
+    score: "9.02",
   },
   {
     zipcode: "10018",
@@ -7387,7 +7386,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10018",
@@ -7395,7 +7394,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10018",
@@ -7419,7 +7418,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "10.384615384615383",
+    score: "10.38",
   },
   {
     zipcode: "10018",
@@ -7443,7 +7442,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10018",
@@ -7588,7 +7587,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.461538461538462",
+    score: "8.46",
   },
   {
     zipcode: "10018",
@@ -7596,7 +7595,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10018",
@@ -7620,7 +7619,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10018",
@@ -7756,7 +7755,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.569230769230769",
+    score: "8.57",
   },
   {
     zipcode: "10019",
@@ -7788,7 +7787,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "2.6666666666666665",
+    score: "2.67",
   },
   {
     zipcode: "10019",
@@ -7844,7 +7843,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "8.545454545454545",
+    score: "8.55",
   },
   {
     zipcode: "10019",
@@ -7852,7 +7851,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10019",
@@ -7868,7 +7867,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Other",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10019",
@@ -7892,7 +7891,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "5.166666666666667",
+    score: "5.17",
   },
   {
     zipcode: "10019",
@@ -7956,7 +7955,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "39.66666666666666",
+    score: "39.67",
   },
   {
     zipcode: "10019",
@@ -8004,7 +8003,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.440677966101696",
+    score: "9.44",
   },
   {
     zipcode: "10019",
@@ -8036,7 +8035,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "10.466666666666669",
+    score: "10.47",
   },
   {
     zipcode: "10019",
@@ -8044,7 +8043,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Continental",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10019",
@@ -8060,7 +8059,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Greek",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10019",
@@ -8068,7 +8067,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "10.22222222222222",
+    score: "10.22",
   },
   {
     zipcode: "10019",
@@ -8076,7 +8075,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10019",
@@ -8092,7 +8091,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10019",
@@ -8117,7 +8116,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "7.416666666666667",
+    score: "7.42",
   },
   {
     zipcode: "10019",
@@ -8125,7 +8124,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Peruvian",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "10019",
@@ -8157,7 +8156,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "7.875",
+    score: "7.88",
   },
   {
     zipcode: "10019",
@@ -8165,7 +8164,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "10.076923076923077",
+    score: "10.08",
   },
   {
     zipcode: "10019",
@@ -8262,7 +8261,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10019",
@@ -8310,7 +8309,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "5.15625",
+    score: "5.16",
   },
   {
     zipcode: "10020",
@@ -8366,7 +8365,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10020",
@@ -8390,7 +8389,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.06122448979592",
+    score: "9.06",
   },
   {
     zipcode: "10021",
@@ -8406,7 +8405,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Barbecue",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10021",
@@ -8414,7 +8413,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.794871794871795",
+    score: "7.79",
   },
   {
     zipcode: "10021",
@@ -8422,7 +8421,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.076923076923077",
+    score: "9.08",
   },
   {
     zipcode: "10021",
@@ -8430,7 +8429,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "11.22222222222222",
+    score: "11.22",
   },
   {
     zipcode: "10021",
@@ -8446,7 +8445,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.18918918918919",
+    score: "9.19",
   },
   {
     zipcode: "10021",
@@ -8454,7 +8453,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "11.285714285714286",
+    score: "11.29",
   },
   {
     zipcode: "10021",
@@ -8470,7 +8469,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10021",
@@ -8478,7 +8477,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "9.076923076923077",
+    score: "9.08",
   },
   {
     zipcode: "10021",
@@ -8486,7 +8485,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.725806451612904",
+    score: "9.73",
   },
   {
     zipcode: "10021",
@@ -8494,7 +8493,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "10.6875",
+    score: "10.69",
   },
   {
     zipcode: "10021",
@@ -8510,7 +8509,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "10.454545454545457",
+    score: "10.45",
   },
   {
     zipcode: "10021",
@@ -8518,7 +8517,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10021",
@@ -8526,7 +8525,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "5.833333333333333",
+    score: "5.83",
   },
   {
     zipcode: "10021",
@@ -8558,7 +8557,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10021",
@@ -8582,7 +8581,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "19.77777777777778",
+    score: "19.78",
   },
   {
     zipcode: "10021",
@@ -8646,7 +8645,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "10021",
@@ -8662,7 +8661,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "30.666666666666668",
+    score: "30.67",
   },
   {
     zipcode: "10021",
@@ -8710,7 +8709,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Barbecue",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10021",
@@ -8734,7 +8733,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "10.285714285714286",
+    score: "10.29",
   },
   {
     zipcode: "10021",
@@ -8766,7 +8765,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10021",
@@ -8782,7 +8781,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "20.666666666666668",
+    score: "20.67",
   },
   {
     zipcode: "10021",
@@ -8790,7 +8789,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "30.666666666666668",
+    score: "30.67",
   },
   {
     zipcode: "10021",
@@ -8806,7 +8805,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10021",
@@ -8814,7 +8813,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "6.888888888888889",
+    score: "6.89",
   },
   {
     zipcode: "10021",
@@ -8830,7 +8829,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "11.285714285714286",
+    score: "11.29",
   },
   {
     zipcode: "10021",
@@ -8838,7 +8837,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10021",
@@ -8846,7 +8845,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "10021",
@@ -8862,7 +8861,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "2.333333333333333",
+    score: "2.33",
   },
   {
     zipcode: "10021",
@@ -8902,7 +8901,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.11139896373057",
+    score: "9.11",
   },
   {
     zipcode: "10022",
@@ -8918,7 +8917,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Australian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10022",
@@ -8934,7 +8933,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "8.76923076923077",
+    score: "8.77",
   },
   {
     zipcode: "10022",
@@ -8951,7 +8950,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "6.735294117647059",
+    score: "6.74",
   },
   {
     zipcode: "10022",
@@ -8959,7 +8958,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "10.304347826086955",
+    score: "10.3",
   },
   {
     zipcode: "10022",
@@ -8983,7 +8982,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "8.846153846153847",
+    score: "8.85",
   },
   {
     zipcode: "10022",
@@ -8991,7 +8990,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.612244897959185",
+    score: "9.61",
   },
   {
     zipcode: "10022",
@@ -8999,7 +8998,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Greek",
-    score: "8.714285714285714",
+    score: "8.71",
   },
   {
     zipcode: "10022",
@@ -9007,7 +9006,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "10.555555555555555",
+    score: "10.56",
   },
   {
     zipcode: "10022",
@@ -9031,7 +9030,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "9.411764705882351",
+    score: "9.41",
   },
   {
     zipcode: "10022",
@@ -9039,7 +9038,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "9.095238095238097",
+    score: "9.1",
   },
   {
     zipcode: "10022",
@@ -9047,7 +9046,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "10.108108108108109",
+    score: "10.11",
   },
   {
     zipcode: "10022",
@@ -9055,7 +9054,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "9.542372881355933",
+    score: "9.54",
   },
   {
     zipcode: "10022",
@@ -9095,7 +9094,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.944444444444445",
+    score: "9.94",
   },
   {
     zipcode: "10022",
@@ -9103,7 +9102,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Middle Eastern",
-    score: "8.625",
+    score: "8.62",
   },
   {
     zipcode: "10022",
@@ -9111,7 +9110,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.785714285714286",
+    score: "10.79",
   },
   {
     zipcode: "10022",
@@ -9127,7 +9126,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Salads",
-    score: "8.642857142857142",
+    score: "8.64",
   },
   {
     zipcode: "10022",
@@ -9135,7 +9134,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.842105263157895",
+    score: "7.84",
   },
   {
     zipcode: "10022",
@@ -9143,7 +9142,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "9.142857142857142",
+    score: "9.14",
   },
   {
     zipcode: "10022",
@@ -9151,7 +9150,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Scandinavian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10022",
@@ -9207,7 +9206,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Turkish",
-    score: "9.8125",
+    score: "9.81",
   },
   {
     zipcode: "10022",
@@ -9223,7 +9222,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "19.64102564102564",
+    score: "19.64",
   },
   {
     zipcode: "10022",
@@ -9287,7 +9286,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "22.666666666666668",
+    score: "22.67",
   },
   {
     zipcode: "10022",
@@ -9391,7 +9390,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "31.666666666666668",
+    score: "31.67",
   },
   {
     zipcode: "10022",
@@ -9423,7 +9422,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "44.333333333333336",
+    score: "44.33",
   },
   {
     zipcode: "10022",
@@ -9527,7 +9526,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.491228070175438",
+    score: "8.49",
   },
   {
     zipcode: "10022",
@@ -9559,7 +9558,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10022",
@@ -9575,7 +9574,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "10.555555555555555",
+    score: "10.56",
   },
   {
     zipcode: "10022",
@@ -9599,7 +9598,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10022",
@@ -9623,7 +9622,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Salads",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10022",
@@ -9631,7 +9630,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.571428571428571",
+    score: "7.57",
   },
   {
     zipcode: "10022",
@@ -9655,7 +9654,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "19.22222222222222",
+    score: "19.22",
   },
   {
     zipcode: "10022",
@@ -9807,7 +9806,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "12.666666666666666",
+    score: "12.67",
   },
   {
     zipcode: "10022",
@@ -9863,7 +9862,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.595238095238095",
+    score: "8.6",
   },
   {
     zipcode: "10023",
@@ -9887,7 +9886,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.418604651162791",
+    score: "8.42",
   },
   {
     zipcode: "10023",
@@ -9895,7 +9894,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "10.571428571428571",
+    score: "10.57",
   },
   {
     zipcode: "10023",
@@ -9935,7 +9934,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "7.875",
+    score: "7.88",
   },
   {
     zipcode: "10023",
@@ -9943,7 +9942,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "11.571428571428571",
+    score: "11.57",
   },
   {
     zipcode: "10023",
@@ -9959,7 +9958,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "8.775",
+    score: "8.78",
   },
   {
     zipcode: "10023",
@@ -9967,7 +9966,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "10.933333333333334",
+    score: "10.93",
   },
   {
     zipcode: "10023",
@@ -9975,7 +9974,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "8.375",
+    score: "8.38",
   },
   {
     zipcode: "10023",
@@ -9992,7 +9991,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10023",
@@ -10000,7 +9999,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "9.22222222222222",
+    score: "9.22",
   },
   {
     zipcode: "10023",
@@ -10008,7 +10007,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "10.235294117647058",
+    score: "10.24",
   },
   {
     zipcode: "10023",
@@ -10032,7 +10031,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "8.11111111111111",
+    score: "8.11",
   },
   {
     zipcode: "10023",
@@ -10048,7 +10047,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Salads",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10023",
@@ -10128,7 +10127,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "10023",
@@ -10321,7 +10320,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.464566929133856",
+    score: "9.46",
   },
   {
     zipcode: "10024",
@@ -10329,7 +10328,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "11.571428571428571",
+    score: "11.57",
   },
   {
     zipcode: "10024",
@@ -10337,7 +10336,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10024",
@@ -10345,7 +10344,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "9.1875",
+    score: "9.19",
   },
   {
     zipcode: "10024",
@@ -10353,7 +10352,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.023809523809524",
+    score: "8.02",
   },
   {
     zipcode: "10024",
@@ -10385,7 +10384,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Japanese",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10024",
@@ -10393,7 +10392,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "9.692307692307692",
+    score: "9.69",
   },
   {
     zipcode: "10024",
@@ -10401,7 +10400,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "10024",
@@ -10409,7 +10408,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.166666666666666",
+    score: "9.17",
   },
   {
     zipcode: "10024",
@@ -10425,7 +10424,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "10.11111111111111",
+    score: "10.11",
   },
   {
     zipcode: "10024",
@@ -10441,7 +10440,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "8.285714285714286",
+    score: "8.29",
   },
   {
     zipcode: "10024",
@@ -10449,7 +10448,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "10024",
@@ -10457,7 +10456,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.404761904761903",
+    score: "9.4",
   },
   {
     zipcode: "10024",
@@ -10465,7 +10464,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "10.444444444444445",
+    score: "10.44",
   },
   {
     zipcode: "10024",
@@ -10473,7 +10472,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "10.1875",
+    score: "10.19",
   },
   {
     zipcode: "10024",
@@ -10481,7 +10480,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "5.875",
+    score: "5.88",
   },
   {
     zipcode: "10024",
@@ -10490,7 +10489,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.375",
+    score: "10.38",
   },
   {
     zipcode: "10024",
@@ -10498,7 +10497,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "10.357142857142858",
+    score: "10.36",
   },
   {
     zipcode: "10024",
@@ -10514,7 +10513,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.117647058823527",
+    score: "10.12",
   },
   {
     zipcode: "10024",
@@ -10578,7 +10577,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "6.625",
+    score: "6.62",
   },
   {
     zipcode: "10024",
@@ -10586,7 +10585,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "10024",
@@ -10594,7 +10593,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Vegetarian",
-    score: "9.428571428571429",
+    score: "9.43",
   },
   {
     zipcode: "10024",
@@ -10634,7 +10633,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "18.571428571428573",
+    score: "18.57",
   },
   {
     zipcode: "10024",
@@ -10706,7 +10705,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "19.166666666666668",
+    score: "19.17",
   },
   {
     zipcode: "10024",
@@ -10763,7 +10762,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "31.166666666666668",
+    score: "31.17",
   },
   {
     zipcode: "10024",
@@ -10868,7 +10867,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.474747474747474",
+    score: "9.47",
   },
   {
     zipcode: "10025",
@@ -10876,7 +10875,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Armenian",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10025",
@@ -10892,7 +10891,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "10.384615384615383",
+    score: "10.38",
   },
   {
     zipcode: "10025",
@@ -10900,7 +10899,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "8.615384615384615",
+    score: "8.62",
   },
   {
     zipcode: "10025",
@@ -10917,7 +10916,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "6.472727272727273",
+    score: "6.47",
   },
   {
     zipcode: "10025",
@@ -10925,7 +10924,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Caribbean",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10025",
@@ -10933,7 +10932,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10025",
@@ -10941,7 +10940,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "10.421052631578949",
+    score: "10.42",
   },
   {
     zipcode: "10025",
@@ -10949,7 +10948,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Cuban",
-    score: "11.857142857142858",
+    score: "11.86",
   },
   {
     zipcode: "10025",
@@ -10957,7 +10956,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "9.846153846153848",
+    score: "9.85",
   },
   {
     zipcode: "10025",
@@ -10989,7 +10988,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.923076923076923",
+    score: "9.92",
   },
   {
     zipcode: "10025",
@@ -11005,7 +11004,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "6.157894736842105",
+    score: "6.16",
   },
   {
     zipcode: "10025",
@@ -11021,7 +11020,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.533333333333331",
+    score: "9.53",
   },
   {
     zipcode: "10025",
@@ -11029,7 +11028,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "9.266666666666667",
+    score: "9.27",
   },
   {
     zipcode: "10025",
@@ -11037,7 +11036,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "10.181818181818182",
+    score: "10.18",
   },
   {
     zipcode: "10025",
@@ -11045,7 +11044,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10025",
@@ -11053,7 +11052,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Korean",
-    score: "11.285714285714286",
+    score: "11.29",
   },
   {
     zipcode: "10025",
@@ -11078,7 +11077,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.310344827586206",
+    score: "9.31",
   },
   {
     zipcode: "10025",
@@ -11086,7 +11085,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Middle Eastern",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "10025",
@@ -11110,7 +11109,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.181818181818182",
+    score: "9.18",
   },
   {
     zipcode: "10025",
@@ -11118,7 +11117,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza/Italian",
-    score: "10.285714285714286",
+    score: "10.29",
   },
   {
     zipcode: "10025",
@@ -11134,7 +11133,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.3076923076923075",
+    score: "7.31",
   },
   {
     zipcode: "10025",
@@ -11166,7 +11165,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10025",
@@ -11182,7 +11181,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10025",
@@ -11222,7 +11221,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "10025",
@@ -11230,7 +11229,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "15.333333333333334",
+    score: "15.33",
   },
   {
     zipcode: "10025",
@@ -11254,7 +11253,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "20.714285714285715",
+    score: "20.71",
   },
   {
     zipcode: "10025",
@@ -11302,7 +11301,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10025",
@@ -11310,7 +11309,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "20.666666666666668",
+    score: "20.67",
   },
   {
     zipcode: "10025",
@@ -11319,7 +11318,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "10025",
@@ -11642,7 +11641,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.538461538461538",
+    score: "7.54",
   },
   {
     zipcode: "10027",
@@ -11682,7 +11681,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10027",
@@ -11698,7 +11697,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.444444444444445",
+    score: "9.44",
   },
   {
     zipcode: "10027",
@@ -11714,7 +11713,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10027",
@@ -11746,7 +11745,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "7.857142857142857",
+    score: "7.86",
   },
   {
     zipcode: "10027",
@@ -11890,7 +11889,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.248366013071896",
+    score: "9.25",
   },
   {
     zipcode: "10028",
@@ -11898,7 +11897,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "9.266666666666667",
+    score: "9.27",
   },
   {
     zipcode: "10028",
@@ -11906,7 +11905,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10028",
@@ -11915,7 +11914,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10028",
@@ -11923,7 +11922,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10028",
@@ -11947,7 +11946,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Continental",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10028",
@@ -11955,7 +11954,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "7.416666666666667",
+    score: "7.42",
   },
   {
     zipcode: "10028",
@@ -11995,7 +11994,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10028",
@@ -12019,7 +12018,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Indian",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10028",
@@ -12027,7 +12026,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "9.818181818181818",
+    score: "9.82",
   },
   {
     zipcode: "10028",
@@ -12043,7 +12042,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "8.941176470588236",
+    score: "8.94",
   },
   {
     zipcode: "10028",
@@ -12051,7 +12050,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "9.117647058823527",
+    score: "9.12",
   },
   {
     zipcode: "10028",
@@ -12067,7 +12066,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "10.363636363636363",
+    score: "10.36",
   },
   {
     zipcode: "10028",
@@ -12075,7 +12074,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.423076923076923",
+    score: "9.42",
   },
   {
     zipcode: "10028",
@@ -12091,7 +12090,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.625",
+    score: "7.62",
   },
   {
     zipcode: "10028",
@@ -12115,7 +12114,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "10.857142857142858",
+    score: "10.86",
   },
   {
     zipcode: "10028",
@@ -12131,7 +12130,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "20.83333333333333",
+    score: "20.83",
   },
   {
     zipcode: "10028",
@@ -12347,7 +12346,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "3.333333333333333",
+    score: "3.33",
   },
   {
     zipcode: "10028",
@@ -12355,7 +12354,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Continental",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10028",
@@ -12379,7 +12378,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10028",
@@ -12387,7 +12386,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10028",
@@ -12411,7 +12410,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "11.285714285714286",
+    score: "11.29",
   },
   {
     zipcode: "10028",
@@ -12419,7 +12418,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "3.6666666666666665",
+    score: "3.67",
   },
   {
     zipcode: "10028",
@@ -12443,7 +12442,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10028",
@@ -12507,7 +12506,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.112903225806452",
+    score: "9.11",
   },
   {
     zipcode: "10029",
@@ -12531,7 +12530,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "7.642857142857143",
+    score: "7.64",
   },
   {
     zipcode: "10029",
@@ -12539,7 +12538,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.125",
+    score: "8.12",
   },
   {
     zipcode: "10029",
@@ -12555,7 +12554,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "10029",
@@ -12563,7 +12562,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.678571428571429",
+    score: "9.68",
   },
   {
     zipcode: "10029",
@@ -12571,7 +12570,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Japanese",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10029",
@@ -12595,7 +12594,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "9.454545454545457",
+    score: "9.45",
   },
   {
     zipcode: "10029",
@@ -12611,7 +12610,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10029",
@@ -12636,7 +12635,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.545454545454543",
+    score: "9.55",
   },
   {
     zipcode: "10029",
@@ -12676,7 +12675,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.4375",
+    score: "9.44",
   },
   {
     zipcode: "10029",
@@ -12692,7 +12691,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.357142857142857",
+    score: "7.36",
   },
   {
     zipcode: "10029",
@@ -12700,7 +12699,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "12.666666666666666",
+    score: "12.67",
   },
   {
     zipcode: "10029",
@@ -12708,7 +12707,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10029",
@@ -12732,7 +12731,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "10029",
@@ -12813,7 +12812,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "17.875",
+    score: "17.88",
   },
   {
     zipcode: "10029",
@@ -12821,7 +12820,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "21.181818181818183",
+    score: "21.18",
   },
   {
     zipcode: "10029",
@@ -12837,7 +12836,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Polynesian",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10029",
@@ -12990,7 +12989,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "10029",
@@ -13006,7 +13005,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Japanese",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10029",
@@ -13039,7 +13038,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "8.727272727272727",
+    score: "8.73",
   },
   {
     zipcode: "10029",
@@ -13055,7 +13054,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10029",
@@ -13137,7 +13136,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10029",
@@ -13153,7 +13152,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Polynesian",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10029",
@@ -13177,7 +13176,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "11.571428571428571",
+    score: "11.57",
   },
   {
     zipcode: "10031",
@@ -13185,7 +13184,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "9.555555555555555",
+    score: "9.56",
   },
   {
     zipcode: "10031",
@@ -13193,7 +13192,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.833333333333333",
+    score: "7.83",
   },
   {
     zipcode: "10031",
@@ -13209,7 +13208,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "8.733333333333333",
+    score: "8.73",
   },
   {
     zipcode: "10031",
@@ -13257,7 +13256,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10031",
@@ -13322,7 +13321,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10031",
@@ -13338,7 +13337,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "11.454545454545457",
+    score: "11.45",
   },
   {
     zipcode: "10031",
@@ -13346,7 +13345,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10031",
@@ -13451,7 +13450,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "16.333333333333332",
+    score: "16.33",
   },
   {
     zipcode: "10031",
@@ -13467,7 +13466,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "20.666666666666668",
+    score: "20.67",
   },
   {
     zipcode: "10031",
@@ -13596,7 +13595,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "10.125",
+    score: "10.12",
   },
   {
     zipcode: "10032",
@@ -13612,7 +13611,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.444444444444445",
+    score: "7.44",
   },
   {
     zipcode: "10032",
@@ -13620,7 +13619,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "10032",
@@ -13628,7 +13627,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.928571428571429",
+    score: "9.93",
   },
   {
     zipcode: "10032",
@@ -13636,7 +13635,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Cuban",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10032",
@@ -13644,7 +13643,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "10032",
@@ -13652,7 +13651,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10032",
@@ -13660,7 +13659,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "10032",
@@ -13668,7 +13667,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Korean",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10032",
@@ -13677,7 +13676,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.72972972972973",
+    score: "9.73",
   },
   {
     zipcode: "10032",
@@ -13685,7 +13684,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "10.857142857142858",
+    score: "10.86",
   },
   {
     zipcode: "10032",
@@ -13693,7 +13692,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.043478260869565",
+    score: "9.04",
   },
   {
     zipcode: "10032",
@@ -13709,7 +13708,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10032",
@@ -13725,7 +13724,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "8.857142857142858",
+    score: "8.86",
   },
   {
     zipcode: "10032",
@@ -13733,7 +13732,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10032",
@@ -13749,7 +13748,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "10032",
@@ -13765,7 +13764,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "19.428571428571427",
+    score: "19.43",
   },
   {
     zipcode: "10032",
@@ -13774,7 +13773,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "19.454545454545453",
+    score: "19.45",
   },
   {
     zipcode: "10032",
@@ -13806,7 +13805,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "17.666666666666668",
+    score: "17.67",
   },
   {
     zipcode: "10032",
@@ -13831,7 +13830,7 @@ var data =
     grade: "C",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "25.33333333333333",
+    score: "25.33",
   },
   {
     zipcode: "10032",
@@ -13921,7 +13920,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10032",
@@ -14001,7 +14000,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "9.076923076923077",
+    score: "9.08",
   },
   {
     zipcode: "10033",
@@ -14042,7 +14041,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.842105263157896",
+    score: "10.84",
   },
   {
     zipcode: "10033",
@@ -14066,7 +14065,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Soups & Sandwiches",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10033",
@@ -14074,7 +14073,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "8.222222222222221",
+    score: "8.22",
   },
   {
     zipcode: "10033",
@@ -14082,7 +14081,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tapas",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10033",
@@ -14212,7 +14211,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "5.714285714285714",
+    score: "5.71",
   },
   {
     zipcode: "10034",
@@ -14228,7 +14227,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10034",
@@ -14236,7 +14235,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10034",
@@ -14261,7 +14260,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "10034",
@@ -14277,7 +14276,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.090909090909092",
+    score: "10.09",
   },
   {
     zipcode: "10034",
@@ -14285,7 +14284,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza/Italian",
-    score: "9.166666666666666",
+    score: "9.17",
   },
   {
     zipcode: "10034",
@@ -14301,7 +14300,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "15.333333333333334",
+    score: "15.33",
   },
   {
     zipcode: "10034",
@@ -14359,7 +14358,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10034",
@@ -14384,7 +14383,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.363636363636363",
+    score: "10.36",
   },
   {
     zipcode: "10034",
@@ -14400,7 +14399,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Spanish",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10034",
@@ -14459,7 +14458,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.538461538461538",
+    score: "8.54",
   },
   {
     zipcode: "10035",
@@ -14475,7 +14474,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Caribbean",
-    score: "10.714285714285714",
+    score: "10.71",
   },
   {
     zipcode: "10035",
@@ -14483,7 +14482,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "8.909090909090908",
+    score: "8.91",
   },
   {
     zipcode: "10035",
@@ -14499,7 +14498,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "10035",
@@ -14507,7 +14506,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "9.22222222222222",
+    score: "9.22",
   },
   {
     zipcode: "10035",
@@ -14564,7 +14563,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pancakes/Waffles",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10035",
@@ -14701,7 +14700,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "10035",
@@ -14799,7 +14798,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10035",
@@ -14807,7 +14806,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "7.857142857142857",
+    score: "7.86",
   },
   {
     zipcode: "10035",
@@ -14823,7 +14822,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.341463414634147",
+    score: "8.34",
   },
   {
     zipcode: "10036",
@@ -14847,7 +14846,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10036",
@@ -14959,7 +14958,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.305555555555555",
+    score: "9.31",
   },
   {
     zipcode: "10036",
@@ -15000,7 +14999,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10036",
@@ -15008,7 +15007,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10036",
@@ -15024,7 +15023,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ethiopian",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10036",
@@ -15056,7 +15055,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10036",
@@ -15064,7 +15063,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Korean",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10036",
@@ -15089,7 +15088,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "9.428571428571429",
+    score: "9.43",
   },
   {
     zipcode: "10036",
@@ -15121,7 +15120,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10036",
@@ -15145,7 +15144,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "11.083333333333334",
+    score: "11.08",
   },
   {
     zipcode: "10036",
@@ -15185,7 +15184,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "10036",
@@ -15201,7 +15200,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "22.33333333333333",
+    score: "22.33",
   },
   {
     zipcode: "10036",
@@ -15337,7 +15336,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "4.625",
+    score: "4.62",
   },
   {
     zipcode: "10038",
@@ -15377,7 +15376,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "7.588235294117647",
+    score: "7.59",
   },
   {
     zipcode: "10038",
@@ -15385,7 +15384,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10038",
@@ -15409,7 +15408,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "10038",
@@ -15433,7 +15432,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Hamburgers",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10038",
@@ -15449,7 +15448,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Irish",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10038",
@@ -15490,7 +15489,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10038",
@@ -15522,7 +15521,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "11.166666666666666",
+    score: "11.17",
   },
   {
     zipcode: "10040",
@@ -15554,7 +15553,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese/Cuban",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10040",
@@ -15571,7 +15570,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10040",
@@ -15651,7 +15650,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10044",
@@ -15667,7 +15666,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza/Italian",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10044",
@@ -15675,7 +15674,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "5.428571428571429",
+    score: "5.43",
   },
   {
     zipcode: "10044",
@@ -15699,7 +15698,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chinese",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10044",
@@ -15715,7 +15714,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "5.428571428571429",
+    score: "5.43",
   },
   {
     zipcode: "10048",
@@ -15723,7 +15722,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10065",
@@ -15731,7 +15730,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.746835443037975",
+    score: "8.75",
   },
   {
     zipcode: "10065",
@@ -15771,7 +15770,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.848484848484849",
+    score: "7.85",
   },
   {
     zipcode: "10065",
@@ -15779,7 +15778,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Chicken",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10065",
@@ -15787,7 +15786,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "10.583333333333334",
+    score: "10.58",
   },
   {
     zipcode: "10065",
@@ -15795,7 +15794,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10065",
@@ -15803,7 +15802,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.51219512195122",
+    score: "9.51",
   },
   {
     zipcode: "10065",
@@ -15827,7 +15826,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "9.466666666666669",
+    score: "9.47",
   },
   {
     zipcode: "10065",
@@ -15843,7 +15842,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.408163265306122",
+    score: "9.41",
   },
   {
     zipcode: "10065",
@@ -15851,7 +15850,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "8.952380952380953",
+    score: "8.95",
   },
   {
     zipcode: "10065",
@@ -15884,7 +15883,7 @@ var data =
     borough: "MANHATTAN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "10065",
@@ -15900,7 +15899,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10065",
@@ -15908,7 +15907,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.705882352941176",
+    score: "9.71",
   },
   {
     zipcode: "10065",
@@ -15932,7 +15931,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10065",
@@ -15940,7 +15939,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Soups & Sandwiches",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10065",
@@ -15964,7 +15963,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10065",
@@ -15972,7 +15971,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10065",
@@ -15996,7 +15995,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Asian",
-    score: "23.33333333333333",
+    score: "23.33",
   },
   {
     zipcode: "10065",
@@ -16020,7 +16019,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "21.666666666666668",
+    score: "21.67",
   },
   {
     zipcode: "10065",
@@ -16068,7 +16067,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "19.571428571428573",
+    score: "19.57",
   },
   {
     zipcode: "10065",
@@ -16076,7 +16075,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "19.83333333333333",
+    score: "19.83",
   },
   {
     zipcode: "10065",
@@ -16197,7 +16196,7 @@ var data =
     grade: "P",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "4.333333333333333",
+    score: "4.33",
   },
   {
     zipcode: "10065",
@@ -16229,7 +16228,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.208333333333334",
+    score: "9.21",
   },
   {
     zipcode: "10065",
@@ -16253,7 +16252,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.428571428571429",
+    score: "9.43",
   },
   {
     zipcode: "10065",
@@ -16270,7 +16269,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Tex-Mex",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10065",
@@ -16318,7 +16317,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.545454545454545",
+    score: "8.55",
   },
   {
     zipcode: "10065",
@@ -16342,7 +16341,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Delicatessen",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10065",
@@ -16350,7 +16349,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10065",
@@ -16390,7 +16389,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "8.625",
+    score: "8.62",
   },
   {
     zipcode: "10065",
@@ -16407,7 +16406,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10065",
@@ -16415,7 +16414,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.875",
+    score: "9.88",
   },
   {
     zipcode: "10065",
@@ -16423,7 +16422,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10065",
@@ -16439,7 +16438,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10065",
@@ -16536,7 +16535,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.964912280701755",
+    score: "8.96",
   },
   {
     zipcode: "10075",
@@ -16552,7 +16551,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bagels/Pretzels",
-    score: "10.714285714285714",
+    score: "10.71",
   },
   {
     zipcode: "10075",
@@ -16560,7 +16559,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Bakery",
-    score: "7.222222222222222",
+    score: "7.22",
   },
   {
     zipcode: "10075",
@@ -16608,7 +16607,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Greek",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10075",
@@ -16624,7 +16623,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "8.789473684210526",
+    score: "8.79",
   },
   {
     zipcode: "10075",
@@ -16632,7 +16631,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "10.176470588235292",
+    score: "10.18",
   },
   {
     zipcode: "10075",
@@ -16640,7 +16639,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Jewish/Kosher",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10075",
@@ -16648,7 +16647,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mediterranean",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10075",
@@ -16664,7 +16663,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "9.166666666666666",
+    score: "9.17",
   },
   {
     zipcode: "10075",
@@ -16672,7 +16671,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza/Italian",
-    score: "10.285714285714286",
+    score: "10.29",
   },
   {
     zipcode: "10075",
@@ -16688,7 +16687,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10075",
@@ -16712,7 +16711,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Vegetarian",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10075",
@@ -16720,7 +16719,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "21.125",
+    score: "21.12",
   },
   {
     zipcode: "10075",
@@ -16880,7 +16879,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "10075",
@@ -16896,7 +16895,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Seafood",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10075",
@@ -16912,7 +16911,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.615384615384615",
+    score: "8.62",
   },
   {
     zipcode: "10075",
@@ -16936,7 +16935,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10075",
@@ -17016,7 +17015,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "10104",
@@ -17032,7 +17031,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "10104",
@@ -17064,7 +17063,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "6.875",
+    score: "6.88",
   },
   {
     zipcode: "10105",
@@ -17160,7 +17159,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "9.74390243902439",
+    score: "9.74",
   },
   {
     zipcode: "10128",
@@ -17200,7 +17199,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Donuts",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10128",
@@ -17208,7 +17207,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.555555555555555",
+    score: "9.56",
   },
   {
     zipcode: "10128",
@@ -17224,7 +17223,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Italian",
-    score: "9.038461538461538",
+    score: "9.04",
   },
   {
     zipcode: "10128",
@@ -17232,7 +17231,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "8.727272727272727",
+    score: "8.73",
   },
   {
     zipcode: "10128",
@@ -17256,7 +17255,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Mexican",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10128",
@@ -17272,7 +17271,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Pizza",
-    score: "10.653846153846152",
+    score: "10.65",
   },
   {
     zipcode: "10128",
@@ -17312,7 +17311,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10128",
@@ -17320,7 +17319,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Thai",
-    score: "9.11111111111111",
+    score: "9.11",
   },
   {
     zipcode: "10128",
@@ -17328,7 +17327,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "19.923076923076923",
+    score: "19.92",
   },
   {
     zipcode: "10128",
@@ -17368,7 +17367,7 @@ var data =
     grade: "B",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10128",
@@ -17504,7 +17503,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "10.058823529411764",
+    score: "10.06",
   },
   {
     zipcode: "10128",
@@ -17536,7 +17535,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Japanese",
-    score: "7.857142857142857",
+    score: "7.86",
   },
   {
     zipcode: "10128",
@@ -17552,7 +17551,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Steak",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10128",
@@ -17640,7 +17639,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10128",
@@ -17760,7 +17759,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10154",
@@ -17776,7 +17775,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "French",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10166",
@@ -17824,7 +17823,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "5.909090909090909",
+    score: "5.91",
   },
   {
     zipcode: "10168",
@@ -17848,7 +17847,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10169",
@@ -18056,7 +18055,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "4.333333333333333",
+    score: "4.33",
   },
   {
     zipcode: "10174",
@@ -18072,7 +18071,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10175",
@@ -18112,7 +18111,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Continental",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10179",
@@ -18120,7 +18119,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "10199",
@@ -18136,7 +18135,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "American",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10271",
@@ -18152,7 +18151,7 @@ var data =
     grade: "A",
     borough: "MANHATTAN",
     cuisine_description: "Salads",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10281",
@@ -18208,7 +18207,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Mexican",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10301",
@@ -18216,7 +18215,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Mexican",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10304",
@@ -18272,7 +18271,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Bakery",
-    score: "9.23076923076923",
+    score: "9.23",
   },
   {
     zipcode: "10305",
@@ -18280,7 +18279,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10305",
@@ -18288,7 +18287,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Chinese",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "10305",
@@ -18304,7 +18303,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Hamburgers",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "10305",
@@ -18312,7 +18311,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10305",
@@ -18320,7 +18319,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Italian",
-    score: "9.8125",
+    score: "9.81",
   },
   {
     zipcode: "10305",
@@ -18328,7 +18327,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Japanese",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10305",
@@ -18336,7 +18335,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Mexican",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10305",
@@ -18432,7 +18431,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Eastern European",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10306",
@@ -18440,7 +18439,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "American",
-    score: "9.428571428571429",
+    score: "9.43",
   },
   {
     zipcode: "10306",
@@ -18464,7 +18463,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Chinese",
-    score: "9.77777777777778",
+    score: "9.78",
   },
   {
     zipcode: "10306",
@@ -18472,7 +18471,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Donuts",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10306",
@@ -18480,7 +18479,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Hamburgers",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10306",
@@ -18576,7 +18575,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "American",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10307",
@@ -18608,7 +18607,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "American",
-    score: "8.714285714285714",
+    score: "8.71",
   },
   {
     zipcode: "10307",
@@ -18616,7 +18615,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10307",
@@ -18648,7 +18647,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Pizza",
-    score: "8.571428571428571",
+    score: "8.57",
   },
   {
     zipcode: "10307",
@@ -18656,7 +18655,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Pizza/Italian",
-    score: "10.833333333333334",
+    score: "10.83",
   },
   {
     zipcode: "10307",
@@ -18664,7 +18663,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Sandwiches",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10307",
@@ -18712,7 +18711,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Chicken",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10308",
@@ -18720,7 +18719,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Chinese",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10308",
@@ -18728,7 +18727,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Donuts",
-    score: "9.375",
+    score: "9.38",
   },
   {
     zipcode: "10308",
@@ -18736,7 +18735,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "10308",
@@ -18744,7 +18743,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Italian",
-    score: "10.916666666666666",
+    score: "10.92",
   },
   {
     zipcode: "10308",
@@ -18752,7 +18751,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Pizza",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10308",
@@ -18768,7 +18767,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Sandwiches",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10308",
@@ -18840,7 +18839,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "American",
-    score: "9.238095238095235",
+    score: "9.24",
   },
   {
     zipcode: "10309",
@@ -18856,7 +18855,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Bakery",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10309",
@@ -18872,7 +18871,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Chinese",
-    score: "10.857142857142858",
+    score: "10.86",
   },
   {
     zipcode: "10309",
@@ -18880,7 +18879,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Delicatessen",
-    score: "8.571428571428571",
+    score: "8.57",
   },
   {
     zipcode: "10309",
@@ -18944,7 +18943,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Other",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10309",
@@ -18960,7 +18959,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Pizza/Italian",
-    score: "10.727272727272728",
+    score: "10.73",
   },
   {
     zipcode: "10309",
@@ -18968,7 +18967,7 @@ var data =
     grade: "B",
     borough: "STATEN ISLAND",
     cuisine_description: "American",
-    score: "20.375",
+    score: "20.38",
   },
   {
     zipcode: "10309",
@@ -19080,7 +19079,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Chicken",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10310",
@@ -19120,7 +19119,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Chinese",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "10312",
@@ -19136,7 +19135,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Italian",
-    score: "11.285714285714286",
+    score: "11.29",
   },
   {
     zipcode: "10312",
@@ -19144,7 +19143,7 @@ var data =
     grade: "A",
     borough: "STATEN ISLAND",
     cuisine_description: "Japanese",
-    score: "11.11111111111111",
+    score: "11.11",
   },
   {
     zipcode: "10312",
@@ -19208,7 +19207,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10451",
@@ -19216,7 +19215,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "10451",
@@ -19248,7 +19247,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "10.289473684210526",
+    score: "10.29",
   },
   {
     zipcode: "10451",
@@ -19272,7 +19271,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "8.857142857142858",
+    score: "8.86",
   },
   {
     zipcode: "10451",
@@ -19288,7 +19287,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Donuts",
-    score: "6.538461538461538",
+    score: "6.54",
   },
   {
     zipcode: "10451",
@@ -19296,7 +19295,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "6.375",
+    score: "6.38",
   },
   {
     zipcode: "10451",
@@ -19304,7 +19303,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10451",
@@ -19329,7 +19328,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "8.764705882352942",
+    score: "8.76",
   },
   {
     zipcode: "10451",
@@ -19337,7 +19336,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza/Italian",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "10451",
@@ -19345,7 +19344,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Sandwiches",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10451",
@@ -19465,7 +19464,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Bakery",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "10452",
@@ -19473,7 +19472,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "9.307692307692308",
+    score: "9.31",
   },
   {
     zipcode: "10452",
@@ -19481,7 +19480,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "10.27777777777778",
+    score: "10.28",
   },
   {
     zipcode: "10452",
@@ -19497,7 +19496,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "8.095238095238095",
+    score: "8.1",
   },
   {
     zipcode: "10452",
@@ -19514,7 +19513,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.63888888888889",
+    score: "9.64",
   },
   {
     zipcode: "10452",
@@ -19530,7 +19529,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "8.789473684210526",
+    score: "8.79",
   },
   {
     zipcode: "10452",
@@ -19562,7 +19561,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Seafood",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "10452",
@@ -19570,7 +19569,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "10.4375",
+    score: "10.44",
   },
   {
     zipcode: "10452",
@@ -19611,7 +19610,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "10452",
@@ -19693,7 +19692,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "7.769230769230769",
+    score: "7.77",
   },
   {
     zipcode: "10453",
@@ -19709,7 +19708,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "8.904761904761905",
+    score: "8.9",
   },
   {
     zipcode: "10453",
@@ -19750,7 +19749,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.028571428571428",
+    score: "9.03",
   },
   {
     zipcode: "10453",
@@ -19758,7 +19757,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "10.416666666666666",
+    score: "10.42",
   },
   {
     zipcode: "10453",
@@ -19774,7 +19773,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza/Italian",
-    score: "8.125",
+    score: "8.12",
   },
   {
     zipcode: "10453",
@@ -19782,7 +19781,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "9.818181818181818",
+    score: "9.82",
   },
   {
     zipcode: "10453",
@@ -19790,7 +19789,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Tex-Mex",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10453",
@@ -19880,7 +19879,7 @@ var data =
     grade: "C",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "28.666666666666668",
+    score: "28.67",
   },
   {
     zipcode: "10453",
@@ -19912,7 +19911,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10454",
@@ -19928,7 +19927,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "9.818181818181818",
+    score: "9.82",
   },
   {
     zipcode: "10454",
@@ -19952,7 +19951,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "8.869565217391305",
+    score: "8.87",
   },
   {
     zipcode: "10454",
@@ -19985,7 +19984,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "8.526315789473685",
+    score: "8.53",
   },
   {
     zipcode: "10454",
@@ -20009,7 +20008,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "10.117647058823527",
+    score: "10.12",
   },
   {
     zipcode: "10454",
@@ -20025,7 +20024,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "9.454545454545457",
+    score: "9.45",
   },
   {
     zipcode: "10454",
@@ -20090,7 +20089,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Pizza/Italian",
-    score: "16.333333333333332",
+    score: "16.33",
   },
   {
     zipcode: "10454",
@@ -20179,7 +20178,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "8.933333333333334",
+    score: "8.93",
   },
   {
     zipcode: "10455",
@@ -20203,7 +20202,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10455",
@@ -20211,7 +20210,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "9.944444444444445",
+    score: "9.94",
   },
   {
     zipcode: "10455",
@@ -20235,7 +20234,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "9.444444444444445",
+    score: "9.44",
   },
   {
     zipcode: "10455",
@@ -20268,7 +20267,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "9.628571428571428",
+    score: "9.63",
   },
   {
     zipcode: "10455",
@@ -20276,7 +20275,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Other",
-    score: "2.6666666666666665",
+    score: "2.67",
   },
   {
     zipcode: "10455",
@@ -20292,7 +20291,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "8.590909090909092",
+    score: "8.59",
   },
   {
     zipcode: "10455",
@@ -20300,7 +20299,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza/Italian",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10455",
@@ -20324,7 +20323,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10455",
@@ -20340,7 +20339,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "21.33333333333333",
+    score: "21.33",
   },
   {
     zipcode: "10455",
@@ -20365,7 +20364,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "19.714285714285715",
+    score: "19.71",
   },
   {
     zipcode: "10455",
@@ -20381,7 +20380,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "19.83333333333333",
+    score: "19.83",
   },
   {
     zipcode: "10455",
@@ -20495,7 +20494,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10456",
@@ -20503,7 +20502,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "African",
-    score: "10.571428571428571",
+    score: "10.57",
   },
   {
     zipcode: "10456",
@@ -20519,7 +20518,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "11.166666666666666",
+    score: "11.17",
   },
   {
     zipcode: "10456",
@@ -20551,7 +20550,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "African",
-    score: "9.08695652173913",
+    score: "9.09",
   },
   {
     zipcode: "10456",
@@ -20559,7 +20558,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "8.38888888888889",
+    score: "8.39",
   },
   {
     zipcode: "10456",
@@ -20567,7 +20566,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Bakery",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "10456",
@@ -20583,7 +20582,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Caribbean",
-    score: "9.875",
+    score: "9.88",
   },
   {
     zipcode: "10456",
@@ -20623,7 +20622,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "1.3333333333333333",
+    score: "1.33",
   },
   {
     zipcode: "10456",
@@ -20640,7 +20639,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "8.411764705882353",
+    score: "8.41",
   },
   {
     zipcode: "10456",
@@ -20648,7 +20647,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "11.076923076923077",
+    score: "11.08",
   },
   {
     zipcode: "10456",
@@ -20672,7 +20671,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Caribbean",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "10456",
@@ -20697,7 +20696,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "18.875",
+    score: "18.88",
   },
   {
     zipcode: "10456",
@@ -20778,7 +20777,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Donuts",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "10457",
@@ -20827,7 +20826,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "8.384615384615385",
+    score: "8.38",
   },
   {
     zipcode: "10457",
@@ -20859,7 +20858,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "8.307692307692308",
+    score: "8.31",
   },
   {
     zipcode: "10457",
@@ -20867,7 +20866,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Donuts",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "10457",
@@ -20875,7 +20874,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Fruits/Vegetables",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10457",
@@ -20883,7 +20882,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "8.352941176470589",
+    score: "8.35",
   },
   {
     zipcode: "10457",
@@ -20892,7 +20891,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.64516129032258",
+    score: "9.65",
   },
   {
     zipcode: "10457",
@@ -20900,7 +20899,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "10457",
@@ -20908,7 +20907,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "9.166666666666666",
+    score: "9.17",
   },
   {
     zipcode: "10457",
@@ -20924,7 +20923,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "9.925925925925926",
+    score: "9.93",
   },
   {
     zipcode: "10457",
@@ -20981,7 +20980,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "19.857142857142858",
+    score: "19.86",
   },
   {
     zipcode: "10457",
@@ -21047,7 +21046,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "8.789473684210526",
+    score: "8.79",
   },
   {
     zipcode: "10458",
@@ -21111,7 +21110,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Italian",
-    score: "10.375",
+    score: "10.38",
   },
   {
     zipcode: "10458",
@@ -21128,7 +21127,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "9.875",
+    score: "9.88",
   },
   {
     zipcode: "10458",
@@ -21160,7 +21159,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "18.83333333333333",
+    score: "18.83",
   },
   {
     zipcode: "10458",
@@ -21200,7 +21199,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Italian",
-    score: "21.375",
+    score: "21.38",
   },
   {
     zipcode: "10458",
@@ -21274,7 +21273,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10459",
@@ -21282,7 +21281,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "9.363636363636363",
+    score: "9.36",
   },
   {
     zipcode: "10459",
@@ -21290,7 +21289,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Bakery",
-    score: "8.222222222222221",
+    score: "8.22",
   },
   {
     zipcode: "10459",
@@ -21298,7 +21297,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "8.846153846153847",
+    score: "8.85",
   },
   {
     zipcode: "10459",
@@ -21306,7 +21305,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "9.095238095238097",
+    score: "9.1",
   },
   {
     zipcode: "10459",
@@ -21331,7 +21330,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.4375",
+    score: "9.44",
   },
   {
     zipcode: "10459",
@@ -21339,7 +21338,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10459",
@@ -21395,7 +21394,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "16.666666666666668",
+    score: "16.67",
   },
   {
     zipcode: "10459",
@@ -21436,7 +21435,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "10459",
@@ -21509,7 +21508,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "6.634146341463414",
+    score: "6.63",
   },
   {
     zipcode: "10460",
@@ -21517,7 +21516,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10460",
@@ -21533,7 +21532,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "8.090909090909092",
+    score: "8.09",
   },
   {
     zipcode: "10460",
@@ -21541,7 +21540,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Donuts",
-    score: "7.818181818181818",
+    score: "7.82",
   },
   {
     zipcode: "10460",
@@ -21566,7 +21565,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "11.307692307692308",
+    score: "11.31",
   },
   {
     zipcode: "10460",
@@ -21582,7 +21581,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "9.62962962962963",
+    score: "9.63",
   },
   {
     zipcode: "10460",
@@ -21679,7 +21678,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "10.461538461538462",
+    score: "10.46",
   },
   {
     zipcode: "10461",
@@ -21687,7 +21686,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Bakery",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10461",
@@ -21719,7 +21718,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "8.695652173913043",
+    score: "8.7",
   },
   {
     zipcode: "10461",
@@ -21727,7 +21726,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Delicatessen",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10461",
@@ -21735,7 +21734,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Donuts",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "10461",
@@ -21743,7 +21742,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "7.285714285714286",
+    score: "7.29",
   },
   {
     zipcode: "10461",
@@ -21767,7 +21766,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Italian",
-    score: "8.368421052631579",
+    score: "8.37",
   },
   {
     zipcode: "10461",
@@ -21776,7 +21775,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "10461",
@@ -21792,7 +21791,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza/Italian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10461",
@@ -21816,7 +21815,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Thai",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10461",
@@ -21898,7 +21897,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "10.047619047619047",
+    score: "10.05",
   },
   {
     zipcode: "10462",
@@ -21930,7 +21929,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "8.11111111111111",
+    score: "8.11",
   },
   {
     zipcode: "10462",
@@ -21955,7 +21954,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10462",
@@ -21963,7 +21962,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10462",
@@ -21971,7 +21970,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Sandwiches",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10462",
@@ -21979,7 +21978,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Seafood",
-    score: "4.333333333333333",
+    score: "4.33",
   },
   {
     zipcode: "10462",
@@ -22092,7 +22091,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "9.38095238095238",
+    score: "9.38",
   },
   {
     zipcode: "10463",
@@ -22140,7 +22139,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Greek",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10463",
@@ -22173,7 +22172,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.214285714285714",
+    score: "9.21",
   },
   {
     zipcode: "10463",
@@ -22197,7 +22196,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10463",
@@ -22279,7 +22278,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "11.428571428571429",
+    score: "11.43",
   },
   {
     zipcode: "10464",
@@ -22287,7 +22286,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "French",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10464",
@@ -22295,7 +22294,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "10464",
@@ -22311,7 +22310,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Sandwiches",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10464",
@@ -22319,7 +22318,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Seafood",
-    score: "9.11111111111111",
+    score: "9.11",
   },
   {
     zipcode: "10464",
@@ -22375,7 +22374,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "10.714285714285714",
+    score: "10.71",
   },
   {
     zipcode: "10465",
@@ -22391,7 +22390,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "9.77777777777778",
+    score: "9.78",
   },
   {
     zipcode: "10465",
@@ -22415,7 +22414,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Delicatessen",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10465",
@@ -22439,7 +22438,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "5.428571428571429",
+    score: "5.43",
   },
   {
     zipcode: "10465",
@@ -22471,7 +22470,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10465",
@@ -22480,7 +22479,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10465",
@@ -22488,7 +22487,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "10465",
@@ -22560,7 +22559,7 @@ var data =
     grade: "B",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "16.333333333333332",
+    score: "16.33",
   },
   {
     zipcode: "10465",
@@ -22616,7 +22615,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Caribbean",
-    score: "8.636363636363637",
+    score: "8.64",
   },
   {
     zipcode: "10466",
@@ -22673,7 +22672,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "10467",
@@ -22681,7 +22680,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "10467",
@@ -22689,7 +22688,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Sandwiches",
-    score: "3.333333333333333",
+    score: "3.33",
   },
   {
     zipcode: "10467",
@@ -22697,7 +22696,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "10.571428571428571",
+    score: "10.57",
   },
   {
     zipcode: "10467",
@@ -22705,7 +22704,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Tex-Mex",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "10467",
@@ -22738,7 +22737,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "10.875",
+    score: "10.88",
   },
   {
     zipcode: "10468",
@@ -22754,7 +22753,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Bakery",
-    score: "8.375",
+    score: "8.38",
   },
   {
     zipcode: "10468",
@@ -22778,7 +22777,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Donuts",
-    score: "6.875",
+    score: "6.88",
   },
   {
     zipcode: "10468",
@@ -22794,7 +22793,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "10468",
@@ -22819,7 +22818,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "8.9375",
+    score: "8.94",
   },
   {
     zipcode: "10468",
@@ -22827,7 +22826,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "8.285714285714286",
+    score: "8.29",
   },
   {
     zipcode: "10468",
@@ -22973,7 +22972,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chicken",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10469",
@@ -22981,7 +22980,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "10469",
@@ -22989,7 +22988,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Pizza",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "10469",
@@ -23045,7 +23044,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "10471",
@@ -23062,7 +23061,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Mexican",
-    score: "7.833333333333333",
+    score: "7.83",
   },
   {
     zipcode: "10471",
@@ -23144,7 +23143,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "8.181818181818182",
+    score: "8.18",
   },
   {
     zipcode: "10472",
@@ -23152,7 +23151,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Bakery",
-    score: "9.727272727272728",
+    score: "9.73",
   },
   {
     zipcode: "10472",
@@ -23176,7 +23175,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Chinese",
-    score: "7.785714285714286",
+    score: "7.79",
   },
   {
     zipcode: "10472",
@@ -23192,7 +23191,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "10472",
@@ -23225,7 +23224,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Spanish",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "10472",
@@ -23266,7 +23265,7 @@ var data =
     borough: "BRONX",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "21.166666666666668",
+    score: "21.17",
   },
   {
     zipcode: "10472",
@@ -23331,7 +23330,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Donuts",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "10473",
@@ -23339,7 +23338,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Hamburgers",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "10473",
@@ -23347,7 +23346,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "Sandwiches",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "10473",
@@ -23363,7 +23362,7 @@ var data =
     grade: "A",
     borough: "BRONX",
     cuisine_description: "American",
-    score: "9.117647058823527",
+    score: "9.12",
   },
   {
     zipcode: "10474",
@@ -23573,7 +23572,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11101",
@@ -23581,7 +23580,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11101",
@@ -23589,7 +23588,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "10.454545454545457",
+    score: "10.45",
   },
   {
     zipcode: "11101",
@@ -23606,7 +23605,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11101",
@@ -23638,7 +23637,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.274131274131276",
+    score: "9.27",
   },
   {
     zipcode: "11101",
@@ -23646,7 +23645,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Armenian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11101",
@@ -23678,7 +23677,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Brazilian",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "11101",
@@ -23686,7 +23685,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.512820512820513",
+    score: "7.51",
   },
   {
     zipcode: "11101",
@@ -23702,7 +23701,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chicken",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11101",
@@ -23710,7 +23709,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.827586206896552",
+    score: "9.83",
   },
   {
     zipcode: "11101",
@@ -23734,7 +23733,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "10.088888888888889",
+    score: "10.09",
   },
   {
     zipcode: "11101",
@@ -23742,7 +23741,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "7.304347826086956",
+    score: "7.3",
   },
   {
     zipcode: "11101",
@@ -23750,7 +23749,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Eastern European",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11101",
@@ -23758,7 +23757,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "French",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11101",
@@ -23774,7 +23773,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "9.076923076923077",
+    score: "9.08",
   },
   {
     zipcode: "11101",
@@ -23782,7 +23781,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11101",
@@ -23790,7 +23789,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "9.125",
+    score: "9.12",
   },
   {
     zipcode: "11101",
@@ -23798,7 +23797,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Irish",
-    score: "9.142857142857142",
+    score: "9.14",
   },
   {
     zipcode: "11101",
@@ -23806,7 +23805,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "9.52777777777778",
+    score: "9.53",
   },
   {
     zipcode: "11101",
@@ -23822,7 +23821,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Jewish/Kosher",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11101",
@@ -23847,7 +23846,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.387096774193548",
+    score: "10.39",
   },
   {
     zipcode: "11101",
@@ -23855,7 +23854,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mediterranean",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "11101",
@@ -23863,7 +23862,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "9.61111111111111",
+    score: "9.61",
   },
   {
     zipcode: "11101",
@@ -23895,7 +23894,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.625",
+    score: "8.62",
   },
   {
     zipcode: "11101",
@@ -23903,7 +23902,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "7.153846153846154",
+    score: "7.15",
   },
   {
     zipcode: "11101",
@@ -23911,7 +23910,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "11101",
@@ -23919,7 +23918,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "9.571428571428571",
+    score: "9.57",
   },
   {
     zipcode: "11101",
@@ -23927,7 +23926,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "9.083333333333334",
+    score: "9.08",
   },
   {
     zipcode: "11101",
@@ -23935,7 +23934,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "11101",
@@ -23943,7 +23942,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "19.444444444444443",
+    score: "19.44",
   },
   {
     zipcode: "11101",
@@ -23991,7 +23990,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Continental",
-    score: "21.33333333333333",
+    score: "21.33",
   },
   {
     zipcode: "11101",
@@ -23999,7 +23998,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "20.571428571428573",
+    score: "20.57",
   },
   {
     zipcode: "11101",
@@ -24112,7 +24111,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "17.666666666666668",
+    score: "17.67",
   },
   {
     zipcode: "11101",
@@ -24226,7 +24225,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.470588235294118",
+    score: "9.47",
   },
   {
     zipcode: "11102",
@@ -24242,7 +24241,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11102",
@@ -24274,7 +24273,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11102",
@@ -24378,7 +24377,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.870967741935484",
+    score: "8.87",
   },
   {
     zipcode: "11103",
@@ -24467,7 +24466,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11103",
@@ -24475,7 +24474,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mediterranean",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11103",
@@ -24483,7 +24482,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "11103",
@@ -24491,7 +24490,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "7.857142857142857",
+    score: "7.86",
   },
   {
     zipcode: "11103",
@@ -24499,7 +24498,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11103",
@@ -24620,7 +24619,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.622222222222222",
+    score: "9.62",
   },
   {
     zipcode: "11103",
@@ -24636,7 +24635,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11103",
@@ -24645,7 +24644,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "11103",
@@ -24653,7 +24652,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11103",
@@ -24661,7 +24660,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chicken",
-    score: "10.77777777777778",
+    score: "10.78",
   },
   {
     zipcode: "11103",
@@ -24677,7 +24676,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "6.461538461538462",
+    score: "6.46",
   },
   {
     zipcode: "11103",
@@ -24685,7 +24684,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Egyptian",
-    score: "8.909090909090908",
+    score: "8.91",
   },
   {
     zipcode: "11103",
@@ -24733,7 +24732,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11103",
@@ -24742,7 +24741,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11103",
@@ -24750,7 +24749,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mediterranean",
-    score: "9.3125",
+    score: "9.31",
   },
   {
     zipcode: "11103",
@@ -24758,7 +24757,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "11103",
@@ -24766,7 +24765,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Middle Eastern",
-    score: "9.555555555555555",
+    score: "9.56",
   },
   {
     zipcode: "11103",
@@ -24774,7 +24773,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Moroccan",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "11103",
@@ -24782,7 +24781,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.23076923076923",
+    score: "8.23",
   },
   {
     zipcode: "11103",
@@ -24952,7 +24951,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "8.375",
+    score: "8.38",
   },
   {
     zipcode: "11104",
@@ -24968,7 +24967,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "8.454545454545455",
+    score: "8.45",
   },
   {
     zipcode: "11104",
@@ -24977,7 +24976,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "9.142857142857142",
+    score: "9.14",
   },
   {
     zipcode: "11104",
@@ -25009,7 +25008,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "7.111111111111111",
+    score: "7.11",
   },
   {
     zipcode: "11104",
@@ -25033,7 +25032,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Irish",
-    score: "10.272727272727272",
+    score: "10.27",
   },
   {
     zipcode: "11104",
@@ -25041,7 +25040,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "9.8125",
+    score: "9.81",
   },
   {
     zipcode: "11104",
@@ -25049,7 +25048,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "8.88888888888889",
+    score: "8.89",
   },
   {
     zipcode: "11104",
@@ -25074,7 +25073,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.615384615384617",
+    score: "9.62",
   },
   {
     zipcode: "11104",
@@ -25082,7 +25081,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "7.857142857142857",
+    score: "7.86",
   },
   {
     zipcode: "11104",
@@ -25098,7 +25097,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.461538461538462",
+    score: "8.46",
   },
   {
     zipcode: "11104",
@@ -25106,7 +25105,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "8.571428571428571",
+    score: "8.57",
   },
   {
     zipcode: "11104",
@@ -25130,7 +25129,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "10.615384615384617",
+    score: "10.62",
   },
   {
     zipcode: "11104",
@@ -25138,7 +25137,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11104",
@@ -25146,7 +25145,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Turkish",
-    score: "6.833333333333333",
+    score: "6.83",
   },
   {
     zipcode: "11104",
@@ -25203,7 +25202,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "22.666666666666668",
+    score: "22.67",
   },
   {
     zipcode: "11104",
@@ -25309,7 +25308,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Afghan",
-    score: "12.666666666666666",
+    score: "12.67",
   },
   {
     zipcode: "11105",
@@ -25317,7 +25316,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.266666666666667",
+    score: "8.27",
   },
   {
     zipcode: "11105",
@@ -25341,7 +25340,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.444444444444445",
+    score: "7.44",
   },
   {
     zipcode: "11105",
@@ -25349,7 +25348,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.461538461538462",
+    score: "9.46",
   },
   {
     zipcode: "11105",
@@ -25365,7 +25364,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "11105",
@@ -25373,7 +25372,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "10.11111111111111",
+    score: "10.11",
   },
   {
     zipcode: "11105",
@@ -25405,7 +25404,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Irish",
-    score: "7.166666666666667",
+    score: "7.17",
   },
   {
     zipcode: "11105",
@@ -25413,7 +25412,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "7.3076923076923075",
+    score: "7.31",
   },
   {
     zipcode: "11105",
@@ -25446,7 +25445,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Middle Eastern",
-    score: "9.22222222222222",
+    score: "9.22",
   },
   {
     zipcode: "11105",
@@ -25454,7 +25453,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11105",
@@ -25462,7 +25461,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "11105",
@@ -25470,7 +25469,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Salads",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11105",
@@ -25687,7 +25686,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.818181818181818",
+    score: "9.82",
   },
   {
     zipcode: "11106",
@@ -25703,7 +25702,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bagels/Pretzels",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "11106",
@@ -25719,7 +25718,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Barbecue",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11106",
@@ -25767,7 +25766,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "7.428571428571429",
+    score: "7.43",
   },
   {
     zipcode: "11106",
@@ -25775,7 +25774,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11106",
@@ -25799,7 +25798,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Irish",
-    score: "10.285714285714286",
+    score: "10.29",
   },
   {
     zipcode: "11106",
@@ -25807,7 +25806,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "8.764705882352942",
+    score: "8.76",
   },
   {
     zipcode: "11106",
@@ -25815,7 +25814,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "8.083333333333334",
+    score: "8.08",
   },
   {
     zipcode: "11106",
@@ -25856,7 +25855,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "11106",
@@ -25888,7 +25887,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "9.76923076923077",
+    score: "9.77",
   },
   {
     zipcode: "11106",
@@ -25896,7 +25895,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "21.666666666666668",
+    score: "21.67",
   },
   {
     zipcode: "11106",
@@ -26058,7 +26057,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.761904761904763",
+    score: "8.76",
   },
   {
     zipcode: "11106",
@@ -26082,7 +26081,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "5.833333333333333",
+    score: "5.83",
   },
   {
     zipcode: "11106",
@@ -26098,7 +26097,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "10.125",
+    score: "10.12",
   },
   {
     zipcode: "11106",
@@ -26114,7 +26113,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "6.166666666666667",
+    score: "6.17",
   },
   {
     zipcode: "11106",
@@ -26138,7 +26137,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "8.642857142857142",
+    score: "8.64",
   },
   {
     zipcode: "11106",
@@ -26162,7 +26161,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "10.625",
+    score: "10.62",
   },
   {
     zipcode: "11106",
@@ -26171,7 +26170,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.27777777777778",
+    score: "10.28",
   },
   {
     zipcode: "11106",
@@ -26179,7 +26178,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "9.454545454545457",
+    score: "9.45",
   },
   {
     zipcode: "11106",
@@ -26187,7 +26186,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.153846153846153",
+    score: "8.15",
   },
   {
     zipcode: "11106",
@@ -26195,7 +26194,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "7.833333333333333",
+    score: "7.83",
   },
   {
     zipcode: "11106",
@@ -26219,7 +26218,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "11106",
@@ -26364,7 +26363,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.655172413793103",
+    score: "8.66",
   },
   {
     zipcode: "11201",
@@ -26372,7 +26371,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11201",
@@ -26380,7 +26379,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.416666666666667",
+    score: "7.42",
   },
   {
     zipcode: "11201",
@@ -26388,7 +26387,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Continental",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11201",
@@ -26396,7 +26395,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "English",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11201",
@@ -26412,7 +26411,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "11201",
@@ -26428,7 +26427,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "10.375",
+    score: "10.38",
   },
   {
     zipcode: "11201",
@@ -26436,7 +26435,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Japanese",
-    score: "11.444444444444445",
+    score: "11.44",
   },
   {
     zipcode: "11201",
@@ -26461,7 +26460,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Middle Eastern",
-    score: "10.125",
+    score: "10.12",
   },
   {
     zipcode: "11201",
@@ -26469,7 +26468,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "8.857142857142858",
+    score: "8.86",
   },
   {
     zipcode: "11201",
@@ -26477,7 +26476,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11201",
@@ -26582,7 +26581,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11203",
@@ -26598,7 +26597,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "10.785714285714286",
+    score: "10.79",
   },
   {
     zipcode: "11203",
@@ -26670,7 +26669,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "10.181818181818182",
+    score: "10.18",
   },
   {
     zipcode: "11204",
@@ -26678,7 +26677,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "4.857142857142857",
+    score: "4.86",
   },
   {
     zipcode: "11204",
@@ -26686,7 +26685,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "9.142857142857142",
+    score: "9.14",
   },
   {
     zipcode: "11204",
@@ -26718,7 +26717,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11205",
@@ -26743,7 +26742,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "11205",
@@ -26817,7 +26816,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "11205",
@@ -26890,7 +26889,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11205",
@@ -26938,7 +26937,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.135135135135137",
+    score: "9.14",
   },
   {
     zipcode: "11206",
@@ -26954,7 +26953,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "8.444444444444445",
+    score: "8.44",
   },
   {
     zipcode: "11206",
@@ -26995,7 +26994,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11206",
@@ -27011,7 +27010,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "10.125",
+    score: "10.12",
   },
   {
     zipcode: "11206",
@@ -27111,7 +27110,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.88888888888889",
+    score: "9.89",
   },
   {
     zipcode: "11207",
@@ -27136,7 +27135,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "11.375",
+    score: "11.38",
   },
   {
     zipcode: "11207",
@@ -27160,7 +27159,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11207",
@@ -27242,7 +27241,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "10.058823529411764",
+    score: "10.06",
   },
   {
     zipcode: "11207",
@@ -27298,7 +27297,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "10.727272727272728",
+    score: "10.73",
   },
   {
     zipcode: "11208",
@@ -27306,7 +27305,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "10.166666666666666",
+    score: "10.17",
   },
   {
     zipcode: "11208",
@@ -27330,7 +27329,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Donuts",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11208",
@@ -27371,7 +27370,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "10.588235294117649",
+    score: "10.59",
   },
   {
     zipcode: "11208",
@@ -27379,7 +27378,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Spanish",
-    score: "8.235294117647058",
+    score: "8.24",
   },
   {
     zipcode: "11208",
@@ -27477,7 +27476,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.095588235294118",
+    score: "9.1",
   },
   {
     zipcode: "11209",
@@ -27534,7 +27533,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "9.170731707317072",
+    score: "9.17",
   },
   {
     zipcode: "11209",
@@ -27558,7 +27557,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Donuts",
-    score: "5.8125",
+    score: "5.81",
   },
   {
     zipcode: "11209",
@@ -27574,7 +27573,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "German",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11209",
@@ -27582,7 +27581,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Greek",
-    score: "10.833333333333334",
+    score: "10.83",
   },
   {
     zipcode: "11209",
@@ -27598,7 +27597,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11209",
@@ -27606,7 +27605,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Indian",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "11209",
@@ -27622,7 +27621,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "10.214285714285714",
+    score: "10.21",
   },
   {
     zipcode: "11209",
@@ -27630,7 +27629,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Japanese",
-    score: "10.615384615384617",
+    score: "10.62",
   },
   {
     zipcode: "11209",
@@ -27671,7 +27670,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Middle Eastern",
-    score: "9.862068965517242",
+    score: "9.86",
   },
   {
     zipcode: "11209",
@@ -27687,7 +27686,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "9.25925925925926",
+    score: "9.26",
   },
   {
     zipcode: "11209",
@@ -27695,7 +27694,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza/Italian",
-    score: "9.894736842105264",
+    score: "9.89",
   },
   {
     zipcode: "11209",
@@ -27703,7 +27702,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Sandwiches",
-    score: "6.222222222222222",
+    score: "6.22",
   },
   {
     zipcode: "11209",
@@ -27727,7 +27726,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11209",
@@ -27751,7 +27750,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "18.875",
+    score: "18.88",
   },
   {
     zipcode: "11209",
@@ -27839,7 +27838,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Pizza/Italian",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "11209",
@@ -27983,7 +27982,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "9.571428571428571",
+    score: "9.57",
   },
   {
     zipcode: "11209",
@@ -28000,7 +27999,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "5.857142857142857",
+    score: "5.86",
   },
   {
     zipcode: "11209",
@@ -28008,7 +28007,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "9.058823529411764",
+    score: "9.06",
   },
   {
     zipcode: "11209",
@@ -28032,7 +28031,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Greek",
-    score: "10.833333333333334",
+    score: "10.83",
   },
   {
     zipcode: "11209",
@@ -28040,7 +28039,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11209",
@@ -28048,7 +28047,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11209",
@@ -28056,7 +28055,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Indian",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "11209",
@@ -28080,7 +28079,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Japanese",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11209",
@@ -28112,7 +28111,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Middle Eastern",
-    score: "10.133333333333333",
+    score: "10.13",
   },
   {
     zipcode: "11209",
@@ -28120,7 +28119,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "9.909090909090908",
+    score: "9.91",
   },
   {
     zipcode: "11209",
@@ -28136,7 +28135,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Sandwiches",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "11209",
@@ -28160,7 +28159,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11209",
@@ -28168,7 +28167,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "17.666666666666668",
+    score: "17.67",
   },
   {
     zipcode: "11209",
@@ -28344,7 +28343,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "9.166666666666666",
+    score: "9.17",
   },
   {
     zipcode: "11210",
@@ -28360,7 +28359,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "9.20689655172414",
+    score: "9.21",
   },
   {
     zipcode: "11210",
@@ -28441,7 +28440,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "17.428571428571427",
+    score: "17.43",
   },
   {
     zipcode: "11210",
@@ -28449,7 +28448,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11210",
@@ -28531,7 +28530,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.267857142857142",
+    score: "9.27",
   },
   {
     zipcode: "11211",
@@ -28555,7 +28554,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.555555555555555",
+    score: "8.56",
   },
   {
     zipcode: "11211",
@@ -28571,7 +28570,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "9.055555555555555",
+    score: "9.06",
   },
   {
     zipcode: "11211",
@@ -28579,7 +28578,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Donuts",
-    score: "7.142857142857143",
+    score: "7.14",
   },
   {
     zipcode: "11211",
@@ -28595,7 +28594,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11211",
@@ -28603,7 +28602,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Indian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11211",
@@ -28644,7 +28643,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.296296296296296",
+    score: "10.3",
   },
   {
     zipcode: "11211",
@@ -28660,7 +28659,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "11211",
@@ -28684,7 +28683,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza/Italian",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "11211",
@@ -28716,7 +28715,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Tex-Mex",
-    score: "9.444444444444445",
+    score: "9.44",
   },
   {
     zipcode: "11211",
@@ -28732,7 +28731,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "15.333333333333334",
+    score: "15.33",
   },
   {
     zipcode: "11211",
@@ -28765,7 +28764,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "21.714285714285715",
+    score: "21.71",
   },
   {
     zipcode: "11211",
@@ -28837,7 +28836,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.454545454545457",
+    score: "9.45",
   },
   {
     zipcode: "11211",
@@ -28845,7 +28844,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11211",
@@ -28861,7 +28860,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.857142857142858",
+    score: "8.86",
   },
   {
     zipcode: "11211",
@@ -28869,7 +28868,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "10.058823529411764",
+    score: "10.06",
   },
   {
     zipcode: "11211",
@@ -28917,7 +28916,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "11211",
@@ -28989,7 +28988,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.909090909090908",
+    score: "9.91",
   },
   {
     zipcode: "11213",
@@ -28997,7 +28996,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "11213",
@@ -29053,7 +29052,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "11213",
@@ -29101,7 +29100,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "4.666666666666667",
+    score: "4.67",
   },
   {
     zipcode: "11214",
@@ -29117,7 +29116,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Russian",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "11214",
@@ -29133,7 +29132,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.907801418439716",
+    score: "8.91",
   },
   {
     zipcode: "11215",
@@ -29157,7 +29156,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "8.529411764705882",
+    score: "8.53",
   },
   {
     zipcode: "11215",
@@ -29174,7 +29173,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11215",
@@ -29198,7 +29197,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "9.551724137931034",
+    score: "9.55",
   },
   {
     zipcode: "11215",
@@ -29214,7 +29213,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Delicatessen",
-    score: "10.22222222222222",
+    score: "10.22",
   },
   {
     zipcode: "11215",
@@ -29222,7 +29221,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Donuts",
-    score: "7.125",
+    score: "7.12",
   },
   {
     zipcode: "11215",
@@ -29254,7 +29253,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11215",
@@ -29262,7 +29261,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Indian",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "11215",
@@ -29270,7 +29269,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Irish",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11215",
@@ -29278,7 +29277,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "10.586206896551724",
+    score: "10.59",
   },
   {
     zipcode: "11215",
@@ -29295,7 +29294,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "8.777777777777779",
+    score: "8.78",
   },
   {
     zipcode: "11215",
@@ -29303,7 +29302,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mediterranean",
-    score: "7.833333333333333",
+    score: "7.83",
   },
   {
     zipcode: "11215",
@@ -29375,7 +29374,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "9.909090909090908",
+    score: "9.91",
   },
   {
     zipcode: "11215",
@@ -29391,7 +29390,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11215",
@@ -29399,7 +29398,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "23.22222222222222",
+    score: "23.22",
   },
   {
     zipcode: "11215",
@@ -29415,7 +29414,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "19.83333333333333",
+    score: "19.83",
   },
   {
     zipcode: "11215",
@@ -29599,7 +29598,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.565217391304348",
+    score: "9.57",
   },
   {
     zipcode: "11215",
@@ -29607,7 +29606,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11215",
@@ -29655,7 +29654,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11215",
@@ -29751,7 +29750,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "11215",
@@ -29807,7 +29806,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Donuts",
-    score: "12.333333333333334",
+    score: "12.33",
   },
   {
     zipcode: "11216",
@@ -29815,7 +29814,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11216",
@@ -29831,7 +29830,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "8.818181818181818",
+    score: "8.82",
   },
   {
     zipcode: "11216",
@@ -29911,7 +29910,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.953488372093023",
+    score: "8.95",
   },
   {
     zipcode: "11217",
@@ -29943,7 +29942,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "4.888888888888889",
+    score: "4.89",
   },
   {
     zipcode: "11217",
@@ -29967,7 +29966,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "7.888888888888889",
+    score: "7.89",
   },
   {
     zipcode: "11217",
@@ -29975,7 +29974,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11217",
@@ -29991,7 +29990,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "8.235294117647058",
+    score: "8.24",
   },
   {
     zipcode: "11217",
@@ -29999,7 +29998,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Japanese",
-    score: "8.142857142857142",
+    score: "8.14",
   },
   {
     zipcode: "11217",
@@ -30016,7 +30015,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "11217",
@@ -30056,7 +30055,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza/Italian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11217",
@@ -30064,7 +30063,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Sandwiches",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11217",
@@ -30080,7 +30079,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Spanish",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11217",
@@ -30088,7 +30087,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "9.142857142857142",
+    score: "9.14",
   },
   {
     zipcode: "11217",
@@ -30104,7 +30103,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11217",
@@ -30145,7 +30144,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "11217",
@@ -30153,7 +30152,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "11217",
@@ -30210,7 +30209,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.77777777777778",
+    score: "9.78",
   },
   {
     zipcode: "11217",
@@ -30259,7 +30258,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11217",
@@ -30300,7 +30299,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "6.213592233009709",
+    score: "6.21",
   },
   {
     zipcode: "11217",
@@ -30324,7 +30323,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "1.3333333333333333",
+    score: "1.33",
   },
   {
     zipcode: "11217",
@@ -30341,7 +30340,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "2.083333333333333",
+    score: "2.08",
   },
   {
     zipcode: "11217",
@@ -30349,7 +30348,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "6.947368421052632",
+    score: "6.95",
   },
   {
     zipcode: "11217",
@@ -30357,7 +30356,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "9.692307692307692",
+    score: "9.69",
   },
   {
     zipcode: "11217",
@@ -30421,7 +30420,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "6.793103448275862",
+    score: "6.79",
   },
   {
     zipcode: "11217",
@@ -30429,7 +30428,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hotdogs",
-    score: "4.923076923076923",
+    score: "4.92",
   },
   {
     zipcode: "11217",
@@ -30477,7 +30476,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Jewish/Kosher",
-    score: "1.6666666666666667",
+    score: "1.67",
   },
   {
     zipcode: "11217",
@@ -30486,7 +30485,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "4.555555555555555",
+    score: "4.56",
   },
   {
     zipcode: "11217",
@@ -30526,7 +30525,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "11217",
@@ -30558,7 +30557,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Steak",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "11217",
@@ -30566,7 +30565,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Tex-Mex",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11217",
@@ -30574,7 +30573,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11217",
@@ -30582,7 +30581,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Vegetarian",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11217",
@@ -30590,7 +30589,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "20.285714285714285",
+    score: "20.29",
   },
   {
     zipcode: "11217",
@@ -30727,7 +30726,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11218",
@@ -30791,7 +30790,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bagels/Pretzels",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11219",
@@ -30799,7 +30798,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11219",
@@ -30823,7 +30822,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11219",
@@ -30831,7 +30830,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Jewish/Kosher",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11219",
@@ -30840,7 +30839,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11219",
@@ -30880,7 +30879,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.136363636363637",
+    score: "9.14",
   },
   {
     zipcode: "11220",
@@ -30888,7 +30887,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "9.473684210526317",
+    score: "9.47",
   },
   {
     zipcode: "11220",
@@ -30912,7 +30911,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "11220",
@@ -30928,7 +30927,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Delicatessen",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11220",
@@ -30944,7 +30943,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Hamburgers",
-    score: "8.142857142857142",
+    score: "8.14",
   },
   {
     zipcode: "11220",
@@ -30952,7 +30951,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11220",
@@ -30960,7 +30959,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Irish",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11220",
@@ -30977,7 +30976,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.055555555555555",
+    score: "10.06",
   },
   {
     zipcode: "11220",
@@ -30985,7 +30984,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "9.710526315789474",
+    score: "9.71",
   },
   {
     zipcode: "11220",
@@ -31009,7 +31008,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "8.89655172413793",
+    score: "8.9",
   },
   {
     zipcode: "11220",
@@ -31065,7 +31064,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "19.166666666666668",
+    score: "19.17",
   },
   {
     zipcode: "11220",
@@ -31090,7 +31089,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "20.125",
+    score: "20.12",
   },
   {
     zipcode: "11220",
@@ -31098,7 +31097,7 @@ var data =
     grade: "C",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "25.666666666666668",
+    score: "25.67",
   },
   {
     zipcode: "11220",
@@ -31131,7 +31130,7 @@ var data =
     grade: "C",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "24.166666666666668",
+    score: "24.17",
   },
   {
     zipcode: "11220",
@@ -31219,7 +31218,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Irish",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11220",
@@ -31268,7 +31267,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza/Italian",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11221",
@@ -31350,7 +31349,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11221",
@@ -31423,7 +31422,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.153846153846153",
+    score: "8.15",
   },
   {
     zipcode: "11222",
@@ -31527,7 +31526,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Delicatessen",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11222",
@@ -31543,7 +31542,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11222",
@@ -31591,7 +31590,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11224",
@@ -31616,7 +31615,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11225",
@@ -31632,7 +31631,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "11225",
@@ -31640,7 +31639,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.272727272727272",
+    score: "7.27",
   },
   {
     zipcode: "11225",
@@ -31648,7 +31647,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "10.774193548387096",
+    score: "10.77",
   },
   {
     zipcode: "11225",
@@ -31672,7 +31671,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Donuts",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11225",
@@ -31688,7 +31687,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Indian",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11225",
@@ -31704,7 +31703,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11225",
@@ -31721,7 +31720,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "9.77777777777778",
+    score: "9.78",
   },
   {
     zipcode: "11225",
@@ -31809,7 +31808,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.125",
+    score: "9.12",
   },
   {
     zipcode: "11226",
@@ -31825,7 +31824,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "9.891304347826088",
+    score: "9.89",
   },
   {
     zipcode: "11226",
@@ -31833,7 +31832,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chicken",
-    score: "7.555555555555555",
+    score: "7.56",
   },
   {
     zipcode: "11226",
@@ -31841,7 +31840,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "8.444444444444445",
+    score: "8.44",
   },
   {
     zipcode: "11226",
@@ -31849,7 +31848,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Donuts",
-    score: "6.636363636363637",
+    score: "6.64",
   },
   {
     zipcode: "11226",
@@ -31865,7 +31864,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Indian",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11226",
@@ -31882,7 +31881,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11226",
@@ -31906,7 +31905,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "8.777777777777779",
+    score: "8.78",
   },
   {
     zipcode: "11226",
@@ -31930,7 +31929,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Spanish",
-    score: "10.375",
+    score: "10.38",
   },
   {
     zipcode: "11226",
@@ -31938,7 +31937,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Vegetarian",
-    score: "11.833333333333334",
+    score: "11.83",
   },
   {
     zipcode: "11226",
@@ -31962,7 +31961,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "20.83333333333333",
+    score: "20.83",
   },
   {
     zipcode: "11226",
@@ -31970,7 +31969,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "11226",
@@ -32070,7 +32069,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "10.411764705882351",
+    score: "10.41",
   },
   {
     zipcode: "11232",
@@ -32094,7 +32093,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Delicatessen",
-    score: "11.714285714285714",
+    score: "11.71",
   },
   {
     zipcode: "11232",
@@ -32111,7 +32110,7 @@ var data =
     borough: "BROOKLYN",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11232",
@@ -32119,7 +32118,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "10.363636363636363",
+    score: "10.36",
   },
   {
     zipcode: "11232",
@@ -32167,7 +32166,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "11232",
@@ -32200,7 +32199,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Peruvian",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "11232",
@@ -32216,7 +32215,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Spanish",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "11232",
@@ -32264,7 +32263,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Delicatessen",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11232",
@@ -32289,7 +32288,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Spanish",
-    score: "19.33333333333333",
+    score: "19.33",
   },
   {
     zipcode: "11232",
@@ -32313,7 +32312,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "12.666666666666666",
+    score: "12.67",
   },
   {
     zipcode: "11232",
@@ -32345,7 +32344,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11233",
@@ -32457,7 +32456,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "10.125",
+    score: "10.12",
   },
   {
     zipcode: "11234",
@@ -32505,7 +32504,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "Pizza/Italian",
-    score: "16.666666666666668",
+    score: "16.67",
   },
   {
     zipcode: "11234",
@@ -32553,7 +32552,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chinese",
-    score: "8.166666666666666",
+    score: "8.17",
   },
   {
     zipcode: "11236",
@@ -32641,7 +32640,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11238",
@@ -32649,7 +32648,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.458333333333334",
+    score: "9.46",
   },
   {
     zipcode: "11238",
@@ -32665,7 +32664,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "10.285714285714286",
+    score: "10.29",
   },
   {
     zipcode: "11238",
@@ -32737,7 +32736,7 @@ var data =
     grade: "C",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "33.333333333333336",
+    score: "33.33",
   },
   {
     zipcode: "11238",
@@ -32769,7 +32768,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.285714285714286",
+    score: "7.29",
   },
   {
     zipcode: "11238",
@@ -32777,7 +32776,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "8.818181818181818",
+    score: "8.82",
   },
   {
     zipcode: "11238",
@@ -32841,7 +32840,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "9.272727272727272",
+    score: "9.27",
   },
   {
     zipcode: "11238",
@@ -32857,7 +32856,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "10.875",
+    score: "10.88",
   },
   {
     zipcode: "11238",
@@ -32873,7 +32872,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "17.333333333333332",
+    score: "17.33",
   },
   {
     zipcode: "11238",
@@ -33001,7 +33000,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.971751412429379",
+    score: "8.97",
   },
   {
     zipcode: "11238",
@@ -33017,7 +33016,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Bakery",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11238",
@@ -33025,7 +33024,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.363636363636363",
+    score: "7.36",
   },
   {
     zipcode: "11238",
@@ -33033,7 +33032,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Caribbean",
-    score: "8.5625",
+    score: "8.56",
   },
   {
     zipcode: "11238",
@@ -33041,7 +33040,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Chicken",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11238",
@@ -33057,7 +33056,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "French",
-    score: "11.22222222222222",
+    score: "11.22",
   },
   {
     zipcode: "11238",
@@ -33065,7 +33064,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.571428571428571",
+    score: "8.57",
   },
   {
     zipcode: "11238",
@@ -33073,7 +33072,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Indian",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "11238",
@@ -33081,7 +33080,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "8.689655172413794",
+    score: "8.69",
   },
   {
     zipcode: "11238",
@@ -33089,7 +33088,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Japanese",
-    score: "10.823529411764708",
+    score: "10.82",
   },
   {
     zipcode: "11238",
@@ -33122,7 +33121,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mexican",
-    score: "10.11111111111111",
+    score: "10.11",
   },
   {
     zipcode: "11238",
@@ -33146,7 +33145,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Pizza",
-    score: "9.954545454545457",
+    score: "9.95",
   },
   {
     zipcode: "11238",
@@ -33186,7 +33185,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Tex-Mex",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11238",
@@ -33194,7 +33193,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Thai",
-    score: "10.88888888888889",
+    score: "10.89",
   },
   {
     zipcode: "11238",
@@ -33218,7 +33217,7 @@ var data =
     grade: "B",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "18.347826086956523",
+    score: "18.35",
   },
   {
     zipcode: "11238",
@@ -33402,7 +33401,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "8.166666666666666",
+    score: "8.17",
   },
   {
     zipcode: "11249",
@@ -33418,7 +33417,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Italian",
-    score: "9.11111111111111",
+    score: "9.11",
   },
   {
     zipcode: "11249",
@@ -33434,7 +33433,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "Mediterranean",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11249",
@@ -33458,7 +33457,7 @@ var data =
     grade: "A",
     borough: "BROOKLYN",
     cuisine_description: "American",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "11249",
@@ -33522,7 +33521,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.77777777777778",
+    score: "9.78",
   },
   {
     zipcode: "11354",
@@ -33530,7 +33529,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "9.555555555555555",
+    score: "9.56",
   },
   {
     zipcode: "11354",
@@ -33538,7 +33537,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "7.533333333333333",
+    score: "7.53",
   },
   {
     zipcode: "11354",
@@ -33555,7 +33554,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.142857142857143",
+    score: "7.14",
   },
   {
     zipcode: "11354",
@@ -33579,7 +33578,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11354",
@@ -33587,7 +33586,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "8.777777777777779",
+    score: "8.78",
   },
   {
     zipcode: "11354",
@@ -33611,7 +33610,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "9.555555555555555",
+    score: "9.56",
   },
   {
     zipcode: "11354",
@@ -33627,7 +33626,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11354",
@@ -33651,7 +33650,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "20.53846153846154",
+    score: "20.54",
   },
   {
     zipcode: "11354",
@@ -33683,7 +33682,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "36.888888888888886",
+    score: "36.89",
   },
   {
     zipcode: "11354",
@@ -33707,7 +33706,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.51851851851852",
+    score: "9.52",
   },
   {
     zipcode: "11354",
@@ -33715,7 +33714,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "9.529411764705882",
+    score: "9.53",
   },
   {
     zipcode: "11354",
@@ -33723,7 +33722,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "8.625",
+    score: "8.62",
   },
   {
     zipcode: "11354",
@@ -33740,7 +33739,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.18421052631579",
+    score: "8.18",
   },
   {
     zipcode: "11354",
@@ -33748,7 +33747,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chicken",
-    score: "9.272727272727272",
+    score: "9.27",
   },
   {
     zipcode: "11354",
@@ -33756,7 +33755,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.7012987012987",
+    score: "9.7",
   },
   {
     zipcode: "11354",
@@ -33764,7 +33763,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese/Japanese",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "11354",
@@ -33772,7 +33771,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11354",
@@ -33780,7 +33779,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "8.285714285714286",
+    score: "8.29",
   },
   {
     zipcode: "11354",
@@ -33788,7 +33787,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "8.777777777777779",
+    score: "8.78",
   },
   {
     zipcode: "11354",
@@ -33796,7 +33795,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "9.6875",
+    score: "9.69",
   },
   {
     zipcode: "11354",
@@ -33812,7 +33811,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "9.096774193548388",
+    score: "9.1",
   },
   {
     zipcode: "11354",
@@ -33829,7 +33828,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Other",
-    score: "10.285714285714286",
+    score: "10.29",
   },
   {
     zipcode: "11354",
@@ -33837,7 +33836,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pancakes/Waffles",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11354",
@@ -33845,7 +33844,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.375",
+    score: "8.38",
   },
   {
     zipcode: "11354",
@@ -33869,7 +33868,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "11.22222222222222",
+    score: "11.22",
   },
   {
     zipcode: "11354",
@@ -33910,7 +33909,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "21.63157894736842",
+    score: "21.63",
   },
   {
     zipcode: "11354",
@@ -33934,7 +33933,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "19.714285714285715",
+    score: "19.71",
   },
   {
     zipcode: "11354",
@@ -33958,7 +33957,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "36.333333333333336",
+    score: "36.33",
   },
   {
     zipcode: "11354",
@@ -33966,7 +33965,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "31.33333333333333",
+    score: "31.33",
   },
   {
     zipcode: "11354",
@@ -33974,7 +33973,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "27.818181818181817",
+    score: "27.82",
   },
   {
     zipcode: "11354",
@@ -33990,7 +33989,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "30.33333333333333",
+    score: "30.33",
   },
   {
     zipcode: "11354",
@@ -34070,7 +34069,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "9.275862068965518",
+    score: "9.28",
   },
   {
     zipcode: "11355",
@@ -34078,7 +34077,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.434782608695652",
+    score: "9.43",
   },
   {
     zipcode: "11355",
@@ -34111,7 +34110,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "11355",
@@ -34127,7 +34126,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "11355",
@@ -34135,7 +34134,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "9.454545454545457",
+    score: "9.45",
   },
   {
     zipcode: "11355",
@@ -34143,7 +34142,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11355",
@@ -34175,7 +34174,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "8.735294117647058",
+    score: "8.74",
   },
   {
     zipcode: "11355",
@@ -34192,7 +34191,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Middle Eastern",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11355",
@@ -34200,7 +34199,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Other",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11355",
@@ -34216,7 +34215,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "9.27777777777778",
+    score: "9.28",
   },
   {
     zipcode: "11355",
@@ -34232,7 +34231,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "8.142857142857142",
+    score: "8.14",
   },
   {
     zipcode: "11355",
@@ -34264,7 +34263,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Vietnamese/Cambodian/Malaysia",
-    score: "10.428571428571429",
+    score: "10.43",
   },
   {
     zipcode: "11355",
@@ -34280,7 +34279,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "11355",
@@ -34304,7 +34303,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "20.41935483870968",
+    score: "20.42",
   },
   {
     zipcode: "11355",
@@ -34320,7 +34319,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "21.181818181818183",
+    score: "21.18",
   },
   {
     zipcode: "11355",
@@ -34329,7 +34328,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "11355",
@@ -34434,7 +34433,7 @@ var data =
     grade: "P",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "5.166666666666667",
+    score: "5.17",
   },
   {
     zipcode: "11355",
@@ -34499,7 +34498,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11355",
@@ -34507,7 +34506,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.882352941176473",
+    score: "9.88",
   },
   {
     zipcode: "11355",
@@ -34524,7 +34523,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "8.428571428571429",
+    score: "8.43",
   },
   {
     zipcode: "11355",
@@ -34532,7 +34531,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "10.458333333333334",
+    score: "10.46",
   },
   {
     zipcode: "11355",
@@ -34548,7 +34547,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "8.25925925925926",
+    score: "8.26",
   },
   {
     zipcode: "11355",
@@ -34605,7 +34604,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "20.68421052631579",
+    score: "20.68",
   },
   {
     zipcode: "11355",
@@ -34613,7 +34612,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "20.125",
+    score: "20.12",
   },
   {
     zipcode: "11355",
@@ -34646,7 +34645,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "23.666666666666668",
+    score: "23.67",
   },
   {
     zipcode: "11355",
@@ -34712,7 +34711,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11356",
@@ -34744,7 +34743,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Filipino",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "11356",
@@ -34761,7 +34760,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.833333333333334",
+    score: "9.83",
   },
   {
     zipcode: "11356",
@@ -34777,7 +34776,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11356",
@@ -34785,7 +34784,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11356",
@@ -34793,7 +34792,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11356",
@@ -34850,7 +34849,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "10.571428571428571",
+    score: "10.57",
   },
   {
     zipcode: "11356",
@@ -34858,7 +34857,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "9.142857142857142",
+    score: "9.14",
   },
   {
     zipcode: "11356",
@@ -34866,7 +34865,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "6.875",
+    score: "6.88",
   },
   {
     zipcode: "11356",
@@ -34898,7 +34897,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "16.333333333333332",
+    score: "16.33",
   },
   {
     zipcode: "11356",
@@ -34930,7 +34929,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.090909090909092",
+    score: "9.09",
   },
   {
     zipcode: "11357",
@@ -34962,7 +34961,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11357",
@@ -34994,7 +34993,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11357",
@@ -35010,7 +35009,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "17.333333333333332",
+    score: "17.33",
   },
   {
     zipcode: "11357",
@@ -35026,7 +35025,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.971428571428572",
+    score: "8.97",
   },
   {
     zipcode: "11357",
@@ -35050,7 +35049,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.22222222222222",
+    score: "9.22",
   },
   {
     zipcode: "11357",
@@ -35074,7 +35073,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.115384615384617",
+    score: "9.12",
   },
   {
     zipcode: "11357",
@@ -35098,7 +35097,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "6.857142857142857",
+    score: "6.86",
   },
   {
     zipcode: "11357",
@@ -35114,7 +35113,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "8.916666666666666",
+    score: "8.92",
   },
   {
     zipcode: "11357",
@@ -35138,7 +35137,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "9.942857142857145",
+    score: "9.94",
   },
   {
     zipcode: "11357",
@@ -35146,7 +35145,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "11.166666666666666",
+    score: "11.17",
   },
   {
     zipcode: "11357",
@@ -35162,7 +35161,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.842105263157896",
+    score: "8.84",
   },
   {
     zipcode: "11357",
@@ -35178,7 +35177,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "7.285714285714286",
+    score: "7.29",
   },
   {
     zipcode: "11357",
@@ -35218,7 +35217,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "17.333333333333332",
+    score: "17.33",
   },
   {
     zipcode: "11357",
@@ -35266,7 +35265,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.894736842105264",
+    score: "8.89",
   },
   {
     zipcode: "11358",
@@ -35282,7 +35281,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.375",
+    score: "9.38",
   },
   {
     zipcode: "11358",
@@ -35298,7 +35297,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chicken",
-    score: "9.88888888888889",
+    score: "9.89",
   },
   {
     zipcode: "11358",
@@ -35322,7 +35321,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "5.375",
+    score: "5.38",
   },
   {
     zipcode: "11358",
@@ -35330,7 +35329,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "10.375",
+    score: "10.38",
   },
   {
     zipcode: "11358",
@@ -35338,7 +35337,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "6.142857142857143",
+    score: "6.14",
   },
   {
     zipcode: "11358",
@@ -35354,7 +35353,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "9.588235294117649",
+    score: "9.59",
   },
   {
     zipcode: "11358",
@@ -35443,7 +35442,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Tex-Mex",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11358",
@@ -35491,7 +35490,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "11358",
@@ -35499,7 +35498,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "21.923076923076923",
+    score: "21.92",
   },
   {
     zipcode: "11358",
@@ -35579,7 +35578,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.655172413793103",
+    score: "9.66",
   },
   {
     zipcode: "11360",
@@ -35603,7 +35602,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "11360",
@@ -35611,7 +35610,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "11360",
@@ -35627,7 +35626,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "9.125",
+    score: "9.12",
   },
   {
     zipcode: "11360",
@@ -35699,7 +35698,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.445945945945946",
+    score: "9.45",
   },
   {
     zipcode: "11361",
@@ -35707,7 +35706,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "8.375",
+    score: "8.38",
   },
   {
     zipcode: "11361",
@@ -35715,7 +35714,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.6875",
+    score: "9.69",
   },
   {
     zipcode: "11361",
@@ -35723,7 +35722,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.928571428571429",
+    score: "7.93",
   },
   {
     zipcode: "11361",
@@ -35755,7 +35754,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "French",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "11361",
@@ -35763,7 +35762,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "9.8125",
+    score: "9.81",
   },
   {
     zipcode: "11361",
@@ -35771,7 +35770,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "8.076923076923077",
+    score: "8.08",
   },
   {
     zipcode: "11361",
@@ -35779,7 +35778,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "11361",
@@ -35787,7 +35786,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "9.285714285714286",
+    score: "9.29",
   },
   {
     zipcode: "11361",
@@ -35795,7 +35794,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Irish",
-    score: "10.444444444444445",
+    score: "10.44",
   },
   {
     zipcode: "11361",
@@ -35803,7 +35802,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "8.555555555555555",
+    score: "8.56",
   },
   {
     zipcode: "11361",
@@ -35827,7 +35826,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "9.714285714285714",
+    score: "9.71",
   },
   {
     zipcode: "11361",
@@ -35852,7 +35851,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Peruvian",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11361",
@@ -35860,7 +35859,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.147058823529411",
+    score: "8.15",
   },
   {
     zipcode: "11361",
@@ -35876,7 +35875,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "7.857142857142857",
+    score: "7.86",
   },
   {
     zipcode: "11361",
@@ -35900,7 +35899,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Tex-Mex",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "11361",
@@ -35908,7 +35907,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "9.214285714285714",
+    score: "9.21",
   },
   {
     zipcode: "11361",
@@ -35924,7 +35923,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "17.444444444444443",
+    score: "17.44",
   },
   {
     zipcode: "11361",
@@ -36100,7 +36099,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "6.333333333333333",
+    score: "6.33",
   },
   {
     zipcode: "11362",
@@ -36108,7 +36107,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11362",
@@ -36156,7 +36155,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "French",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11362",
@@ -36180,7 +36179,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "8.125",
+    score: "8.12",
   },
   {
     zipcode: "11362",
@@ -36188,7 +36187,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "8.416666666666666",
+    score: "8.42",
   },
   {
     zipcode: "11362",
@@ -36228,7 +36227,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11362",
@@ -36300,7 +36299,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Korean",
-    score: "21.666666666666668",
+    score: "21.67",
   },
   {
     zipcode: "11362",
@@ -36348,7 +36347,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11364",
@@ -36372,7 +36371,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11364",
@@ -36380,7 +36379,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "11364",
@@ -36388,7 +36387,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Delicatessen",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11364",
@@ -36452,7 +36451,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11365",
@@ -36476,7 +36475,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.571428571428571",
+    score: "8.57",
   },
   {
     zipcode: "11365",
@@ -36532,7 +36531,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Afghan",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "11367",
@@ -36540,7 +36539,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "7.3125",
+    score: "7.31",
   },
   {
     zipcode: "11367",
@@ -36548,7 +36547,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11367",
@@ -36556,7 +36555,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.428571428571429",
+    score: "9.43",
   },
   {
     zipcode: "11367",
@@ -36604,7 +36603,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Jewish/Kosher",
-    score: "10.32258064516129",
+    score: "10.32",
   },
   {
     zipcode: "11367",
@@ -36613,7 +36612,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11367",
@@ -36782,7 +36781,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11367",
@@ -36790,7 +36789,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "11367",
@@ -36846,7 +36845,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Jewish/Kosher",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "11367",
@@ -36870,7 +36869,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11368",
@@ -36878,7 +36877,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "8.11111111111111",
+    score: "8.11",
   },
   {
     zipcode: "11368",
@@ -36902,7 +36901,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Caribbean",
-    score: "12.666666666666666",
+    score: "12.67",
   },
   {
     zipcode: "11368",
@@ -36918,7 +36917,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.238095238095237",
+    score: "8.24",
   },
   {
     zipcode: "11368",
@@ -36942,7 +36941,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "8.083333333333334",
+    score: "8.08",
   },
   {
     zipcode: "11368",
@@ -36951,7 +36950,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.470588235294118",
+    score: "9.47",
   },
   {
     zipcode: "11368",
@@ -36959,7 +36958,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "10.357142857142858",
+    score: "10.36",
   },
   {
     zipcode: "11368",
@@ -36967,7 +36966,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Other",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11368",
@@ -36983,7 +36982,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "6.545454545454546",
+    score: "6.55",
   },
   {
     zipcode: "11368",
@@ -36991,7 +36990,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Seafood",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11368",
@@ -36999,7 +36998,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "9.181818181818182",
+    score: "9.18",
   },
   {
     zipcode: "11368",
@@ -37048,7 +37047,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "19.058823529411764",
+    score: "19.06",
   },
   {
     zipcode: "11368",
@@ -37056,7 +37055,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "19.625",
+    score: "19.62",
   },
   {
     zipcode: "11368",
@@ -37171,7 +37170,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11369",
@@ -37211,7 +37210,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.682926829268292",
+    score: "9.68",
   },
   {
     zipcode: "11372",
@@ -37219,7 +37218,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bagels/Pretzels",
-    score: "9.22222222222222",
+    score: "9.22",
   },
   {
     zipcode: "11372",
@@ -37251,7 +37250,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chicken",
-    score: "10.125",
+    score: "10.12",
   },
   {
     zipcode: "11372",
@@ -37259,7 +37258,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.875",
+    score: "8.88",
   },
   {
     zipcode: "11372",
@@ -37267,7 +37266,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese/Japanese",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11372",
@@ -37291,7 +37290,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "10.076923076923077",
+    score: "10.08",
   },
   {
     zipcode: "11372",
@@ -37299,7 +37298,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11372",
@@ -37307,7 +37306,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "5.888888888888889",
+    score: "5.89",
   },
   {
     zipcode: "11372",
@@ -37339,7 +37338,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11372",
@@ -37348,7 +37347,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.798245614035087",
+    score: "9.8",
   },
   {
     zipcode: "11372",
@@ -37396,7 +37395,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Peruvian",
-    score: "9.115384615384617",
+    score: "9.12",
   },
   {
     zipcode: "11372",
@@ -37404,7 +37403,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "9.63157894736842",
+    score: "9.63",
   },
   {
     zipcode: "11372",
@@ -37420,7 +37419,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "7.125",
+    score: "7.12",
   },
   {
     zipcode: "11372",
@@ -37436,7 +37435,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "9.589285714285714",
+    score: "9.59",
   },
   {
     zipcode: "11372",
@@ -37452,7 +37451,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "9.88888888888889",
+    score: "9.89",
   },
   {
     zipcode: "11372",
@@ -37460,7 +37459,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "20.83333333333333",
+    score: "20.83",
   },
   {
     zipcode: "11372",
@@ -37492,7 +37491,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "18.166666666666668",
+    score: "18.17",
   },
   {
     zipcode: "11372",
@@ -37533,7 +37532,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "19.142857142857142",
+    score: "19.14",
   },
   {
     zipcode: "11372",
@@ -37541,7 +37540,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "17.333333333333332",
+    score: "17.33",
   },
   {
     zipcode: "11372",
@@ -37574,7 +37573,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "29.83333333333333",
+    score: "29.83",
   },
   {
     zipcode: "11372",
@@ -37686,7 +37685,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "7.777777777777778",
+    score: "7.78",
   },
   {
     zipcode: "11373",
@@ -37702,7 +37701,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.363636363636363",
+    score: "9.36",
   },
   {
     zipcode: "11373",
@@ -37719,7 +37718,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.666666666666667",
+    score: "7.67",
   },
   {
     zipcode: "11373",
@@ -37727,7 +37726,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.63157894736842",
+    score: "9.63",
   },
   {
     zipcode: "11373",
@@ -37776,7 +37775,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "7.555555555555555",
+    score: "7.56",
   },
   {
     zipcode: "11373",
@@ -37792,7 +37791,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11373",
@@ -37800,7 +37799,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "9.954545454545457",
+    score: "9.95",
   },
   {
     zipcode: "11373",
@@ -37824,7 +37823,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "20.454545454545453",
+    score: "20.45",
   },
   {
     zipcode: "11373",
@@ -38012,7 +38011,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "7.777777777777778",
+    score: "7.78",
   },
   {
     zipcode: "11373",
@@ -38084,7 +38083,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.475",
+    score: "8.48",
   },
   {
     zipcode: "11373",
@@ -38108,7 +38107,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bagels/Pretzels",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "11373",
@@ -38116,7 +38115,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.866666666666667",
+    score: "9.87",
   },
   {
     zipcode: "11373",
@@ -38164,7 +38163,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "8.142857142857142",
+    score: "8.14",
   },
   {
     zipcode: "11373",
@@ -38212,7 +38211,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "8.066666666666666",
+    score: "8.07",
   },
   {
     zipcode: "11373",
@@ -38220,7 +38219,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11373",
@@ -38229,7 +38228,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "8.944444444444445",
+    score: "8.94",
   },
   {
     zipcode: "11373",
@@ -38245,7 +38244,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "5.833333333333333",
+    score: "5.83",
   },
   {
     zipcode: "11373",
@@ -38261,7 +38260,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches/Salads/Mixed Buffet",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11373",
@@ -38285,7 +38284,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Steak",
-    score: "7.111111111111111",
+    score: "7.11",
   },
   {
     zipcode: "11373",
@@ -38301,7 +38300,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "11373",
@@ -38397,7 +38396,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.789473684210526",
+    score: "9.79",
   },
   {
     zipcode: "11374",
@@ -38437,7 +38436,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "8.125",
+    score: "8.12",
   },
   {
     zipcode: "11374",
@@ -38453,7 +38452,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "11.166666666666666",
+    score: "11.17",
   },
   {
     zipcode: "11374",
@@ -38525,7 +38524,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Turkish",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11374",
@@ -38541,7 +38540,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "11374",
@@ -38581,7 +38580,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "35.333333333333336",
+    score: "35.33",
   },
   {
     zipcode: "11374",
@@ -38621,7 +38620,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.275229357798166",
+    score: "9.28",
   },
   {
     zipcode: "11375",
@@ -38637,7 +38636,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bagels/Pretzels",
-    score: "9.565217391304348",
+    score: "9.57",
   },
   {
     zipcode: "11375",
@@ -38645,7 +38644,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "9.47222222222222",
+    score: "9.47",
   },
   {
     zipcode: "11375",
@@ -38653,7 +38652,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "7.125",
+    score: "7.12",
   },
   {
     zipcode: "11375",
@@ -38661,7 +38660,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "9.733333333333333",
+    score: "9.73",
   },
   {
     zipcode: "11375",
@@ -38685,7 +38684,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "8.346153846153847",
+    score: "8.35",
   },
   {
     zipcode: "11375",
@@ -38709,7 +38708,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Greek",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11375",
@@ -38717,7 +38716,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "11375",
@@ -38741,7 +38740,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Irish",
-    score: "10.76923076923077",
+    score: "10.77",
   },
   {
     zipcode: "11375",
@@ -38749,7 +38748,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "9.513513513513514",
+    score: "9.51",
   },
   {
     zipcode: "11375",
@@ -38757,7 +38756,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "8.75609756097561",
+    score: "8.76",
   },
   {
     zipcode: "11375",
@@ -38774,7 +38773,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.76923076923077",
+    score: "9.77",
   },
   {
     zipcode: "11375",
@@ -38806,7 +38805,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Peruvian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11375",
@@ -38814,7 +38813,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "9.258064516129032",
+    score: "9.26",
   },
   {
     zipcode: "11375",
@@ -38822,7 +38821,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "8.352941176470589",
+    score: "8.35",
   },
   {
     zipcode: "11375",
@@ -38838,7 +38837,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Sandwiches",
-    score: "8.533333333333333",
+    score: "8.53",
   },
   {
     zipcode: "11375",
@@ -38854,7 +38853,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "10.142857142857142",
+    score: "10.14",
   },
   {
     zipcode: "11375",
@@ -38870,7 +38869,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Tex-Mex",
-    score: "9.363636363636363",
+    score: "9.36",
   },
   {
     zipcode: "11375",
@@ -38894,7 +38893,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "18.875",
+    score: "18.88",
   },
   {
     zipcode: "11375",
@@ -38918,7 +38917,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "French",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "11375",
@@ -38942,7 +38941,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Irish",
-    score: "17.666666666666668",
+    score: "17.67",
   },
   {
     zipcode: "11375",
@@ -38991,7 +38990,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Peruvian",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "11375",
@@ -38999,7 +38998,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "19.666666666666668",
+    score: "19.67",
   },
   {
     zipcode: "11375",
@@ -39039,7 +39038,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "29.666666666666668",
+    score: "29.67",
   },
   {
     zipcode: "11375",
@@ -39103,7 +39102,7 @@ var data =
     grade: "C",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "11375",
@@ -39207,7 +39206,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11377",
@@ -39312,7 +39311,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.818181818181818",
+    score: "8.82",
   },
   {
     zipcode: "11377",
@@ -39320,7 +39319,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "9.857142857142858",
+    score: "9.86",
   },
   {
     zipcode: "11377",
@@ -39328,7 +39327,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "4.333333333333333",
+    score: "4.33",
   },
   {
     zipcode: "11377",
@@ -39352,7 +39351,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.9375",
+    score: "8.94",
   },
   {
     zipcode: "11377",
@@ -39368,7 +39367,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "5.285714285714286",
+    score: "5.29",
   },
   {
     zipcode: "11377",
@@ -39376,7 +39375,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Filipino",
-    score: "7.375",
+    score: "7.38",
   },
   {
     zipcode: "11377",
@@ -39408,7 +39407,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Juice, Smoothies, Fruit Salads",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11377",
@@ -39417,7 +39416,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.875",
+    score: "9.88",
   },
   {
     zipcode: "11377",
@@ -39425,7 +39424,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "9.375",
+    score: "9.38",
   },
   {
     zipcode: "11377",
@@ -39441,7 +39440,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Other",
-    score: "8.375",
+    score: "8.38",
   },
   {
     zipcode: "11377",
@@ -39449,7 +39448,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "9.625",
+    score: "9.62",
   },
   {
     zipcode: "11377",
@@ -39481,7 +39480,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "9.125",
+    score: "9.12",
   },
   {
     zipcode: "11377",
@@ -39530,7 +39529,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "22.33333333333333",
+    score: "22.33",
   },
   {
     zipcode: "11377",
@@ -39595,7 +39594,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "10.066666666666666",
+    score: "10.07",
   },
   {
     zipcode: "11378",
@@ -39611,7 +39610,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.714285714285714",
+    score: "8.71",
   },
   {
     zipcode: "11378",
@@ -39643,7 +39642,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11378",
@@ -39715,7 +39714,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "10.066666666666666",
+    score: "10.07",
   },
   {
     zipcode: "11378",
@@ -39731,7 +39730,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.714285714285714",
+    score: "8.71",
   },
   {
     zipcode: "11378",
@@ -39763,7 +39762,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11378",
@@ -39795,7 +39794,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11378",
@@ -39851,7 +39850,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "7.1875",
+    score: "7.19",
   },
   {
     zipcode: "11379",
@@ -39867,7 +39866,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "10.555555555555555",
+    score: "10.56",
   },
   {
     zipcode: "11379",
@@ -39891,7 +39890,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "8.833333333333334",
+    score: "8.83",
   },
   {
     zipcode: "11379",
@@ -39899,7 +39898,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Italian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11379",
@@ -39923,7 +39922,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11379",
@@ -39931,7 +39930,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza/Italian",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11379",
@@ -39947,7 +39946,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Spanish",
-    score: "7.625",
+    score: "7.62",
   },
   {
     zipcode: "11379",
@@ -40003,7 +40002,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Bakery",
-    score: "7.6923076923076925",
+    score: "7.69",
   },
   {
     zipcode: "11385",
@@ -40019,7 +40018,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "9.333333333333334",
+    score: "9.33",
   },
   {
     zipcode: "11385",
@@ -40028,7 +40027,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
-    score: "9.529411764705882",
+    score: "9.53",
   },
   {
     zipcode: "11385",
@@ -40126,7 +40125,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "8.222222222222221",
+    score: "8.22",
   },
   {
     zipcode: "11385",
@@ -40190,7 +40189,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11385",
@@ -40270,7 +40269,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "10.727272727272728",
+    score: "10.73",
   },
   {
     zipcode: "11415",
@@ -40310,7 +40309,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11415",
@@ -40326,7 +40325,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Japanese",
-    score: "10.666666666666666",
+    score: "10.67",
   },
   {
     zipcode: "11415",
@@ -40366,7 +40365,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "20.33333333333333",
+    score: "20.33",
   },
   {
     zipcode: "11415",
@@ -40438,7 +40437,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "7.428571428571429",
+    score: "7.43",
   },
   {
     zipcode: "11416",
@@ -40446,7 +40445,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "5.333333333333333",
+    score: "5.33",
   },
   {
     zipcode: "11416",
@@ -40454,7 +40453,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Hamburgers",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11416",
@@ -40478,7 +40477,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "21.666666666666668",
+    score: "21.67",
   },
   {
     zipcode: "11416",
@@ -40486,7 +40485,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Ice Cream, Gelato, Yogurt, Ices",
-    score: "18.33333333333333",
+    score: "18.33",
   },
   {
     zipcode: "11416",
@@ -40558,7 +40557,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "11.333333333333334",
+    score: "11.33",
   },
   {
     zipcode: "11418",
@@ -40574,7 +40573,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11418",
@@ -40622,7 +40621,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11419",
@@ -40638,7 +40637,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Indian",
-    score: "9.428571428571429",
+    score: "9.43",
   },
   {
     zipcode: "11419",
@@ -40718,7 +40717,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Caribbean",
-    score: "9.875",
+    score: "9.88",
   },
   {
     zipcode: "11422",
@@ -40726,7 +40725,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chicken",
-    score: "8.333333333333334",
+    score: "8.33",
   },
   {
     zipcode: "11422",
@@ -40823,7 +40822,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Pizza",
-    score: "6.666666666666667",
+    score: "6.67",
   },
   {
     zipcode: "11429",
@@ -40855,7 +40854,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "10.72222222222222",
+    score: "10.72",
   },
   {
     zipcode: "11432",
@@ -41048,7 +41047,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "CafÃ©/Coffee/Tea",
-    score: "4.285714285714286",
+    score: "4.29",
   },
   {
     zipcode: "11432",
@@ -41056,7 +41055,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11433",
@@ -41112,7 +41111,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "10.375",
+    score: "10.38",
   },
   {
     zipcode: "11435",
@@ -41120,7 +41119,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11435",
@@ -41153,7 +41152,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Peruvian",
-    score: "8.666666666666666",
+    score: "8.67",
   },
   {
     zipcode: "11435",
@@ -41217,7 +41216,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11436",
@@ -41225,7 +41224,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11691",
@@ -41233,7 +41232,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Caribbean",
-    score: "11.285714285714286",
+    score: "11.29",
   },
   {
     zipcode: "11691",
@@ -41249,7 +41248,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "10.444444444444445",
+    score: "10.44",
   },
   {
     zipcode: "11691",
@@ -41265,7 +41264,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Caribbean",
-    score: "18.666666666666668",
+    score: "18.67",
   },
   {
     zipcode: "11691",
@@ -41305,7 +41304,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Donuts",
-    score: "6.636363636363637",
+    score: "6.64",
   },
   {
     zipcode: "11692",
@@ -41337,7 +41336,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Thai",
-    score: "10.333333333333334",
+    score: "10.33",
   },
   {
     zipcode: "11692",
@@ -41369,7 +41368,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Asian",
-    score: "7.333333333333333",
+    score: "7.33",
   },
   {
     zipcode: "11693",
@@ -41426,7 +41425,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mediterranean",
-    score: "5.666666666666667",
+    score: "5.67",
   },
   {
     zipcode: "11693",
@@ -41516,7 +41515,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "American",
-    score: "9.375",
+    score: "9.38",
   },
   {
     zipcode: "11694",
@@ -41541,7 +41540,7 @@ var data =
     borough: "QUEENS",
     cuisine_description:
       "Bottled beverages, including water, sodas, juices, etc.",
-    score: "9.666666666666666",
+    score: "9.67",
   },
   {
     zipcode: "11694",
@@ -41557,7 +41556,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "8.578947368421053",
+    score: "8.58",
   },
   {
     zipcode: "11694",
@@ -41622,7 +41621,7 @@ var data =
     grade: "A",
     borough: "QUEENS",
     cuisine_description: "Mexican",
-    score: "11.666666666666666",
+    score: "11.67",
   },
   {
     zipcode: "11694",
@@ -41662,7 +41661,7 @@ var data =
     grade: "B",
     borough: "QUEENS",
     cuisine_description: "Chinese",
-    score: "15.666666666666666",
+    score: "15.67",
   },
   {
     zipcode: "11694",
