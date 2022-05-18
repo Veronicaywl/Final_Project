@@ -13,7 +13,6 @@ Data Resources: [NYC Restaurant Inspection](https://www.kaggle.com/datasets/new-
 We used several modes of communication to maintain efficient communication throughout. We used an initial meeting on Zoom to lay out our base plan for the project (potential topics, division of roles and responsibilities, ways to communicate as the project progresses) and created a shared Google Drive, where we shared potential datasets, word documents to jot down our initial plans, and related files. We used Slack to troubleshoot and communicate in between our Zoom meetings.
 
 
-
 ## Questions to Answer with the Data
 
 Finding correlation of the higher income areas would received a better health inspection grade.
@@ -41,8 +40,9 @@ This will rank the features, starting with those that have the highest impact do
 
 
 ## Visualization
-Plot a geo map for income level areas and showing the grades that spreading  amoung in the local area. 
-- Creating a heatmap and story for presentation with Tableau
+Plot some useful maps based on income level in the areas and showing the grades that spreading amoung in the local area. 
+- Creating a heatmap showing the average scores by cuisine in different borough.
+- Plot a Geomap to indicate the grades that restaurants received in five borough.
 - Visualized the code with html, javascript and css. 
 - Ploting graph to show the correlations between income level and health inspection grades. 
 
@@ -72,12 +72,16 @@ Plot a geo map for income level areas and showing the grades that spreading  amo
 [Google Slides](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit?usp=sharing)
 
 
-### Dashboard link : 
+### Tableau link : 
 [Average Score by Grades](https://public.tableau.com/app/profile/yawen.liang/viz/NYCRestaurantAnalysis_16524727144810/AvgScorebyGrades#1)
 
 [GeoMap based on Income](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/GeoMap)
 
+[Heat Map](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/HeatMapbyCuisine?publish=yes)
+
 ### Reference Resources
-[Letter Grading for Restaurant](https://www1.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page); 
+[Letter Grading for Restaurant](https://www1.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page) ; 
+[Inspection Cycle Overview](https://www1.nyc.gov/assets/doh/downloads/pdf/rii/inspection-cycle-overview.pdf) ; 
+
 
 
