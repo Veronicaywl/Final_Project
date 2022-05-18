@@ -3,7 +3,7 @@ function init() {
     var selector = d3.select("#selDataset");
   
     // Use the list of sample names to populate the select options
-    d3.json("restaurantData.json").then((data) => {
+    d3.json("samples2.json").then((data) => {
       var sampleNames = data.names;
   
       sampleNames.forEach((sample) => {
@@ -31,9 +31,9 @@ function init() {
   }
   
   // Demographics Panel 
-  function buildMetadata(sample) {
-    d3.json("restaurantData.json").then((data) => {
-      var metadata = data.samples;
+  function buildMetadata(sample ){
+    d3.json("samples2.json").then((data) => {
+      var metadata = data.metadata;
       // Filter the data for the object with the desired sample number
       var resultArray = metadata.filter(sampleObj => sampleObj.zipcode == sample);
       var result = resultArray[0];
@@ -47,7 +47,7 @@ function init() {
       // Hint: Inside the loop, you will need to use d3 to append new
       // tags for each key-value in the metadata.
       Object.entries(result).forEach(([key, value]) => {
-        PANEL.append("h6").text(`${key.toUpperCase()}: ${value}`);
+        PANEL.append("h6").text(`${key.toLowerCase()}: ${value}`);
       });
   
     });
@@ -56,7 +56,7 @@ function init() {
   // 1. Create the buildCharts function.
   function buildCharts(sample) {
     // 2. Use d3.json to load and retrieve the samples.json file 
-    d3.json("restaurantData.json").then((data) => {
+    d3.json("samples2.json").then((data) => {
       // 3. Create a variable that holds the samples array. 
       console.log(data);
       var samplesArray = data.samples;
@@ -70,31 +70,30 @@ function init() {
       console.log(firstSample);
   
       // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
+      var Zipcode = firstSample.zipcode;
       var Score = firstSample.score;
-      var Income_level= firstSample.income_level;
-      var boroughName= firstSample.borough;
+      var Cuisine= firstSample.cuisine;
+      console.log(Zipcode);
       console.log(Score);
-      console.log(Income_level);
-      console.log(boroughName);
+      console.log(Cuisine);
       // 7. Create the yticks for the bar chart.
       // Hint: Get the the top 10 otu_ids and map them in descending order  
       //  so the otu_ids with the most bacteria are last. 
   
-      //var yticks = Zipcode.slice(0,10).map(id => "zipcode" + id).reverse();
+      var yticks = Score.slice(0,10).map(score => "score:" + score).reverse();
       console.log(yticks);
 
   
       // 8. Create the trace for the bar chart. 
       var barData = [{
-        x: boroughName,
-        //.slice(0,10).reverse(),
-        text: Zipcode,
-        //.slice(0,10).reverse(),
+        x: Cuisine.slice(0,10).reverse(),
+        text: Score.slice(0,10).reverse(),
+       
         type: "bar"
       }];
       // 9. Create the layout for the bar chart. 
       var barLayout = {
-        title: "Top 10 Bacteria Cultures Found",
+        title: "Top 10 Cuisine by score for selected Zip code",
         yaxis: {
           tickmode: "array",
           tickvals: [0,1,2,3,4,5,6,7,8,9],
@@ -107,7 +106,7 @@ function init() {
           xanchor: 'center',
           y: -0.25,
           yanchor: 'center',
-          text: 'The bar chart displays the top 10 bacterial species (OTUs)<br>with the number of samples found in human belly button',
+          text: 'The bar chart displays Top 10 Cuisine by score <br>for selected Zip code',
           showarrow: false
         }]
       };
@@ -130,13 +129,13 @@ function init() {
 
     // 1. Create the trace for the bubble chart.
     var bubbleData = [{
-      x: boroughName,
-      y: Zipcode,
-      text: otuLabels,
+      x: Cuisine,
+      y: Score,
+      text: Cuisine,
       mode: 'markers',
       marker:{
-        size: Zipcode,
-        color: boroughName,
+        size: Score,
+        color: Score,
         colorscale: "Earth"
       }
     }];
@@ -145,10 +144,10 @@ function init() {
 
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
-      title: 'Bacteria Cultures Per Sample',
+      title: 'Cuisine by score for selected Zip code',
       showlegend: false,
-      xaxis: {title: "OTU ID", automargin: true},
-      yaxis: {title: "sample values",automargin: true},
+      xaxis: {title: "Cuisine", automargin: true},
+      yaxis: {title: "Score",automargin: true},
       hovermode:'closest' 
     };
     console.log(bubbleLayout);
@@ -166,7 +165,7 @@ function init() {
 
 
     // 1. Create a variable that filters the metadata array for the object with the desired sample number.
-    var metadata_SelId = data.metadata.filter(data => data.id == sample);
+    var metadata_SelId = data.metadata.filter(data => data.zipcode == sample);
     console.log(metadata_SelId);  
 
     // Create a variable that holds the first sample in the array.
@@ -179,22 +178,22 @@ function init() {
 
 
     // 3. Create a variable that holds the washing frequency.
-    var washFreq = +metadata_SelId[0].wfreq;
+    var cuisineScore = +metadata_SelId[0].score;
     // Create the yticks for the bar chart.
 
     // Use Plotly to plot the bar data and layout.
-    Plotly.newPlot();
+    //Plotly.newPlot();
     
     // Use Plotly to plot the bubble data and layout.
-    Plotly.newPlot();
+    //Plotly.newPlot();
    
     
     // 4. Create the trace for the gauge chart.
     var gaugeData = [
       {
         domain: { x: [0, 1], y: [0, 1] },
-        value: washFreq,
-        title: { text: "<b>The Belly Button Washing Frequency</b><br>Scrubs per week"},
+        value: cuisineScore,
+        title: { text: "Cuisine score for <b>selected Zip code"},
         type: "indicator",
         mode: "gauge+number",
         gauge: {
@@ -225,7 +224,7 @@ function init() {
         xanchor: 'center',
         y: 0,
         yanchor: 'center',
-        text: "The gauge displays your belly button's weekly washing frequency",
+        text: "The gauge displays cuisine score for<br> selected Zip code",
         showarrow: false
       }]
      
