@@ -69,11 +69,13 @@ Plot a geo map for income level areas and showing the grades that spreading  amo
 
 
 ### Google slides link :
-link goes here: https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit?usp=sharing
+[Google Slides](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit?usp=sharing)
 
 
 ### Dashboard link : 
-link goes here: https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit?usp=sharing
+[Average Score by Grades](https://public.tableau.com/app/profile/yawen.liang/viz/NYCRestaurantAnalysis_16524727144810/AvgScorebyGrades#1)
+
+[GeoMap based on Income](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/GeoMap)
 
 ### Reference Resources
 [Letter Grading for Restaurant](https://www1.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page); 
