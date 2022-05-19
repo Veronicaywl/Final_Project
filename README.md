@@ -69,7 +69,7 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 
 ### Google slides link :
-[Google Slides](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db848aba_0_10)
 
 
 ### Tableau link : 
