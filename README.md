@@ -18,7 +18,11 @@ We used several modes of communication to maintain efficient communication throu
 Finding correlation of the higher income areas would received a better health inspection grade.
 
 ## Database
- A database containing the data from a restaurant inspection dataset and a income level dataset was created using postgreSQL. The dataset was generated with the following specific attributes pulled from the original datasets: Borough, income level, DBA, street, grade date, latitude, longitude, and income level.
+ After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid Restaurant Data'] using Python and Jupyter Notebook, the datasets were connected over to pgAdmin4 via SQLAlchemy to be stored in postgreSQL. 
+ 
+ *A database containing 'NYC Restaurant Inspection' data was created with the following columns: 'DBA', 'BOROUGH', 'STREET', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and "GRADE'. 
+ *A second database using the 'NYC-Precovid Restaurant' dataset was created with the following columns: 'DBA', 'STREET', and 'INCOME_LEVEL'.  The two databases were then inner joined via the 'DBA' and 'STREET' columns as presented in the ERD diagram. After the merge, duplicate rows were removed. 
+ *The final dataset was generated with the following specific attributes: 'DBA', 'STREET', 'INCOME_LEVEL', 'BOROUGH', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and 'GRADE'.
 
 ## Machine learning model:
 
@@ -69,7 +73,7 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 
 ### Google slides link :
-[Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db848aba_0_10)
+[Google Slides](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit?usp=sharing)
 
 
 ### Tableau link : 
