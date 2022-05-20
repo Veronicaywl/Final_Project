@@ -18,11 +18,11 @@ We used several modes of communication to maintain efficient communication throu
 Finding correlation of the higher income areas would received a better health inspection grade.
 
 ## Database
- After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid Restaurant Data'] using Python and Jupyter Notebook, the datasets were connected over to pgAdmin4 via SQLAlchemy to be stored in postgreSQL. 
+After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid Restaurant Data'] using Python and Jupyter Notebook, the datasets were connected over to pgAdmin4 via SQLAlchemy to be stored in postgreSQL. 
  
- *A database containing 'NYC Restaurant Inspection' data was created with the following columns: 'DBA', 'BOROUGH', 'STREET', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and "GRADE'. 
- *A second database using the 'NYC-Precovid Restaurant' dataset was created with the following columns: 'DBA', 'STREET', and 'INCOME_LEVEL'.  The two databases were then inner joined via the 'DBA' and 'STREET' columns as presented in the ERD diagram. After the merge, duplicate rows were removed. 
- *The final dataset was generated with the following specific attributes: 'DBA', 'STREET', 'INCOME_LEVEL', 'BOROUGH', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and 'GRADE'.
+* A database containing 'NYC Restaurant Inspection' data was created with the following columns: 'DBA', 'BOROUGH', 'STREET', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and "GRADE'. 
+* A second database using the 'NYC-Precovid Restaurant' dataset was created with the following columns: 'DBA', 'STREET', and 'INCOME_LEVEL'.  The two databases were then inner joined via the 'DBA' and 'STREET' columns as presented in the ERD diagram. After the merge, duplicate rows were removed. 
+* The final dataset was generated with the following specific attributes: 'DBA', 'STREET', 'INCOME_LEVEL', 'BOROUGH', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and 'GRADE'.
 
 ## Machine learning model:
 
