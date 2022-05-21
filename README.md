@@ -95,7 +95,7 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 
 ### Tableau link : 
-[Average Score by Grades](https://public.tableau.com/app/profile/yawen.liang/viz/NYCRestaurantAnalysis_16524727144810/AvgScorebyGrades#1)
+[Dashboard](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Dashboard1)
 
 [GeoMap based on Income](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/GeoMap)
 
