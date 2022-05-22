@@ -57,10 +57,8 @@ This will rank the features, starting with those that have the highest impact do
 Plot some useful maps based on income level in the areas and showing the grades that spreading amoung in the local area. 
 - Creating a heatmap showing the average scores by cuisine in different borough.
 - Plot a Geo map to indicate the grades that restaurants received in five borough.
-- Visualized the code with html, javascript and css. 
-- Ploting graph to show the correlations between income level and health inspection grades. 
 - An interactive dashboard using javascript , html, css , bootstrap where we can filter New York city restaurant  data by zip code, income level, grade, borough and cuisine, separately and also in different combination. 
-- Use plotly and javascript to make interactive graph to visualize mean grading by cuisine in different zip code.
+- Use plotly and javascript to make interactive graph to visualize mean grading score by cuisine in different zip code.
 
 
 ## Tools:
@@ -76,8 +74,8 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 #### Machine Learning
 - Imbalanced-learn
-- Scikit-Learn
-- Tensorflow
+- sklearn
+
 
 #### Dashboard
 - Tableau
@@ -91,7 +89,10 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 
 ### Google slides link :
-[Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_20)
+[Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_64)
+
+### Dashboard link :
+[Dashboard](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit#slide=id.g11c86ef9d0d_0_0)
 
 
 ### Tableau link : 
