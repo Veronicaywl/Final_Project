@@ -69,7 +69,7 @@ function init() {
       var firstSample = selectIdSample[0];
       console.log(firstSample);
   
-      // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
+      // 6. Create variables that hold the zipcode, score, and cuisine.
       var Zipcode = firstSample.zipcode;
       var Score = firstSample.score;
       var Cuisine= firstSample.cuisine;
@@ -77,8 +77,7 @@ function init() {
       console.log(Score);
       console.log(Cuisine);
       // 7. Create the yticks for the bar chart.
-      // Hint: Get the the top 10 otu_ids and map them in descending order  
-      //  so the otu_ids with the most bacteria are last. 
+  
   
       var yticks = Score.slice(0,10).map(score => "score:" + score).reverse();
       console.log(yticks);
@@ -124,7 +123,7 @@ function init() {
   //d3.json("samples.json").then((data) => {
     
 
-    // Deliverable 1 Step 10. Use Plotly to plot the data with the layout. 
+    
     //Plotly.newPlot(); 
 
     // 1. Create the trace for the bubble chart.
@@ -170,22 +169,11 @@ function init() {
 
     // Create a variable that holds the first sample in the array.
   
-
     // 2. Create a variable that holds the first sample in the metadata array.
-    
-
-    // Create variables that hold the otu_ids, otu_labels, and sample_values.
-
 
     // 3. Create a variable that holds the washing frequency.
     var cuisineScore = +metadata_SelId[0].score;
     // Create the yticks for the bar chart.
-
-    // Use Plotly to plot the bar data and layout.
-    //Plotly.newPlot();
-    
-    // Use Plotly to plot the bubble data and layout.
-    //Plotly.newPlot();
    
     
     // 4. Create the trace for the gauge chart.
