@@ -96,6 +96,8 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 [Click here to checkout our NYC Restaurant Analysis Webpage](https://veronicaywl.github.io/NYC_Dashboard/)
 
+[Click here for NYC Restaurant Dashboard](https://veronicaywl.github.io/NYC_Restaurant_Plotly/)
+
 ### Tableau link : 
 [Dashboard](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Dashboard1)
 
