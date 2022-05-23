@@ -94,8 +94,6 @@ Plot some useful maps based on income level in the areas and showing the grades 
 - Heroku
 
 
-### Google slides link :
-[Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_64)
 
 ### Dashboard link :
 [Dashboard](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit#slide=id.g11c86ef9d0d_0_0)
@@ -104,8 +102,10 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 [Click here for NYC Restaurant Dashboard](https://veronicaywl.github.io/NYC_Restaurant_Plotly/)
 
-![Dashboard_1]()
-![plotly_Dashboard]()
+![Dashboard_1](https://github.com/Veronicaywl/Final_Project/blob/main/Dashboard/Dashboard_1/static/images/Dashboard_1.png)
+
+
+![plotly_Dashboard](https://github.com/Veronicaywl/Final_Project/blob/main/Dashboard/plotly_dashboard/plotly_dashboard.png)
 
 ### Tableau link : 
 
