@@ -34,12 +34,18 @@ After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid R
 
 ### Preliminary data preprocessing, feature engineering and feature selection:
 
+The dataset has been preprocessed, split, and has been used to train and test supervised machine learning models in [ML_model_NormalizedStandardized](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/ML_model_NormalizedStandardized.ipynb).
+
 The data has categorical and numerical variables. The categorical variables include ‘DBA’, ‘STREET’, INCOME_LEVEL’, ‘BOROUGH’, ‘CUISINE_DESCRIPTION’, and ‘GRADE’. ‘ZIPCODE’ was converted into a ‘string’ data type, and hence became a categorical variable too. ‘SCORE’ is a numerical variable. The ‘GRADE’ variable consists of ‘A’, ‘B’, ‘C’, ‘N’, ‘P’, and ‘Z’ unique values. However, since we do not know what ‘N’ and ‘Z’ signify and ‘P’ signifies ‘pending’, we have dropped ‘N’, ‘P’, and ‘Z’ from our dataset to prepare a more reliable model.
 
 Our features variables are as follows: ‘DBA’, ‘STREET’, INCOME_LEVEL’, ‘BOROUGH’, ‘CUISINE_DESCRIPTION’, ‘ZIPCODE’, and ‘SCORE’. Our target variable is ‘GRADE’. 
 The features variables we chose signify geographical locality, income level of the area, and cuisine types. We are trying to build a model that can predict whether or not a restaurant will get a ‘high’ grade given these features variables. 
 
 The preliminary data preprocessing included normalization of the categorical variables ‘DBA’, ‘STREET’, ‘ZIPCODE’, and ‘CUISINE_DESCRIPTION’. These specific categorical variables were picked out from the rest since these have rare (or uncommon) unique values enough that if left as is, would make the dataset to wide to work with. A density plot was used for each of these variables, to identify where the value counts ‘fall off’ and the threshold thus set in that particular region. The thresholds selected for these variables are as follows: 5 for ‘DBA’, 30 for ‘STREET’, 200 for ‘ZIPCODE’, and 250 for ‘CUISINE_DESCRIPTION’. The rare values were bucketed into the ‘other’ category, to help normalize the uneven distribution. A categorical variable ‘CUISINE_DESCRITPION’s rare values and density plot prior to normalization is shown below:
+
+!['CUISINE_DESCRIPTION' variable has rare unique values](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/CUISINE_DESC_rare_values.png)
+
+!['CUISINE_DESCRIPTION' variable has an uneven distribution prior to normalization](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/CUSINE_DESC_uneven_distribution.png)
 
 The encoding process included encoding the ‘GRADE’ variable into a ‘high’ and ‘low’ grade: grade ‘high’ comprised grades ‘A’ and ‘B’, whereas grade ‘low’ comprised grade ‘C’. This was followed by running a OneHotEncoder on all the categorical variables in our data.
 
@@ -55,6 +61,7 @@ Naive Random Oversampling and SMOTE Oversampling ‘oversample’ the minority c
 
 From among these models, the best model turns out to be the Random Forest Classifier, which has an accuracy score of 0.96 (as compared to scores of about 0.43 to 0.69 for all the other models tried). A Random Forest Classifier  involves training each weak learner on a subset of the data and then bases its result on the consensus reached by these weak learners together. A Random Forest Classifier model can, however, miss out the variability in the data. However, if the model’s number of estimators and tree depth is sufficient, it should perform quite well. The confusion matrix for this model can be seen below:
 
+![Confusion matrix for Random Forest Classifier](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/RFC_confusion_matrix.png)
 
 ## Visualization
 Plot some useful maps based on income level in the areas and showing the grades that spreading amoung in the local area. 
