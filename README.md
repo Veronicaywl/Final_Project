@@ -32,31 +32,28 @@ After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid R
 
 ## Machine learning model:
 
-# THIS will be updated SOOONNNNN.
+### Preliminary data preprocessing, feature engineering and feature selection:
 
-* Description of preliminary data preprocessing :
+The data has categorical and numerical variables. The categorical variables include ‘DBA’, ‘STREET’, INCOME_LEVEL’, ‘BOROUGH’, ‘CUISINE_DESCRIPTION’, and ‘GRADE’. ‘ZIPCODE’ was converted into a ‘string’ data type, and hence became a categorical variable too. ‘SCORE’ is a numerical variable. The ‘GRADE’ variable consists of ‘A’, ‘B’, ‘C’, ‘N’, ‘P’, and ‘Z’ unique values. However, since we do not know what ‘N’ and ‘Z’ signify and ‘P’ signifies ‘pending’, we have dropped ‘N’, ‘P’, and ‘Z’ from our dataset to prepare a more reliable model.
 
-* Description of preliminary feature engineering and the preliminary feature selection including their decision making process:
+Our features variables are as follows: ‘DBA’, ‘STREET’, INCOME_LEVEL’, ‘BOROUGH’, ‘CUISINE_DESCRIPTION’, ‘ZIPCODE’, and ‘SCORE’. Our target variable is ‘GRADE’. 
+The features variables we chose signify geographical locality, income level of the area, and cuisine types. We are trying to build a model that can predict whether or not a restaurant will get a ‘high’ grade given these features variables. 
 
-* Description of how data was split into test and train sets:
+The preliminary data preprocessing included normalization of the categorical variables ‘DBA’, ‘STREET’, ‘ZIPCODE’, and ‘CUISINE_DESCRIPTION’. These specific categorical variables were picked out from the rest since these have rare (or uncommon) unique values enough that if left as is, would make the dataset to wide to work with. A density plot was used for each of these variables, to identify where the value counts ‘fall off’ and the threshold thus set in that particular region. The thresholds selected for these variables are as follows: 5 for ‘DBA’, 30 for ‘STREET’, 200 for ‘ZIPCODE’, and 250 for ‘CUISINE_DESCRIPTION’. The rare values were bucketed into the ‘other’ category, to help normalize the uneven distribution. A categorical variable ‘CUISINE_DESCRITPION’s rare values and density plot prior to normalization is shown below:
 
-* Explanation of model choice including limitations and benefit:
+The encoding process included encoding the ‘GRADE’ variable into a ‘high’ and ‘low’ grade: grade ‘high’ comprised grades ‘A’ and ‘B’, whereas grade ‘low’ comprised grade ‘C’. This was followed by running a OneHotEncoder on all the categorical variables in our data.
 
+### Description of how data was split into training and testing data, and data standardization:
 
+The data was then split into training and testing data (75% training and 25% testing data). About 75% of the data (i.e. the training data) was used for training (or ‘fitting’) the models, and the remaining 25% data (i.e. the testing data) was used for testing each model. After the data split, the numerical variables in the data were standardized. We standardize after we split the data, and not before, because we do not want to include the testing values into the scale. 
+The data we are working with is tabular and not raw (i.e. has no natural language data or images therein), so supervised machine learning models run well on it. 
 
-* Train a machine learning model with the merged dataset to observe if there is a correlation between the inspection grade of restaurants with the income level of the neighborhoods.
-* This is a supervised machine learning model.
+### Explanation of model choice, including limitations and benefits:
 
+The different supervised machine learning models tried on our data include resampling and ensemble learning models. The resampling models used on the data include: Naive Random Oversampling, SMOTE Oversampling, Cluster Centroids Undersampling, and SMOTEENN which combines over- and under-sampling techniques. 
+Naive Random Oversampling and SMOTE Oversampling ‘oversample’ the minority class so the data values are on par with the majority class. The resample gives us 5598 ‘high’ and 5598 ‘low’ grades to run the ML model on. We experimented with Cluster Centroids Undersampling as well, which ‘undersamples’ the majority class down to equal the number of values in the minority class: this gives us 159 ‘high’ and 159 ‘low’ grades to run the ML model on. The SMOTEENN resampling method combines over and under sampling techniques by ‘oversampling’ the minority class to equate the number of data values in the majority class, followed by ‘undersampling’ by eliminating the data values that happen to fall in the neighborhood of both classes. This technique gave us 5008 ‘high’ and 5043 ‘low’ grades to run the ML model on. The ensemble learning models used on the data include: Random Forest Classifier, Balanced Random Forest Classifier, and Easy Ensemble AdaBoost Classifier.
 
-We will determine which features have the most impact on the outcome by ranking the features using the feature_importances_ attribute, and then sorting them in a descending order. 
-This will rank the features, starting with those that have the highest impact down to those which have the lowest or no impact on our outcome variable.
-
-
-* The data will be split into training and test data using the train_test_split function. We will use the default 75% to 25% split.
- 
-
- Our sample size, as of yet, is small at 310. In order to overcome the issues that may arise out of a small sample size during our analysis, we will run a SMOTEENN resampling model on it. SMOTEENN oversamples the data points (via the SMOTE algorithm), before undersampling (via the EEN algorithm)to reach a sizeable sample size. The SMOTE (Synthetic Minority Oversampling Technique) algorithm oversamples the minority class in our dataset. The EEN (Edited Nearest Neighbors) algorithm undersamples by editing out the data points that happen to fall into both classes in our dataset. This should give us a good sample size. 
- Next, we run the fitting process on the training data (75% of our resampled data) to create our machine learning model. This is followed by a testing of this model, using the testing data (25% of our resampled data).
+From among these models, the best model turns out to be the Random Forest Classifier, which has an accuracy score of 0.96 (as compared to scores of about 0.43 to 0.69 for all the other models tried). A Random Forest Classifier  involves training each weak learner on a subset of the data and then bases its result on the consensus reached by these weak learners together. A Random Forest Classifier model can, however, miss out the variability in the data. However, if the model’s number of estimators and tree depth is sufficient, it should perform quite well. The confusion matrix for this model can be seen below:
 
 
 ## Visualization
