@@ -1,5 +1,9 @@
 # Final_Project
 ### Selected topic: NYC Restaurant Analysis
+
+### Google slides link :
+[Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_64)
+
 ### Reason for selected topic: 
 In this project, we came out with a hypothesis that if there are any correlation with the higher income areas should received a better health inspection grade. We would like to find out if the incomes level within an area may effect the the health inspection grade for the local restaurant. 
 
@@ -23,6 +27,8 @@ After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid R
 * A database containing 'NYC Restaurant Inspection' data was created with the following columns: 'DBA', 'BOROUGH', 'STREET', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and "GRADE'. 
 * A second database using the 'NYC-Precovid Restaurant' dataset was created with the following columns: 'DBA', 'STREET', and 'INCOME_LEVEL'.  The two databases were then inner joined via the 'DBA' and 'STREET' columns as presented in the ERD diagram. After the merge, duplicate rows were removed. 
 * The final dataset was generated with the following specific attributes: 'DBA', 'STREET', 'INCOME_LEVEL', 'BOROUGH', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and 'GRADE'.
+#### ERD
+![ERD](https://github.com/Veronicaywl/Final_Project/blob/main/SQL_database/SQL_images/ERD_NYC_restaurants_final.png)
 
 ## Machine learning model:
 
@@ -98,7 +104,12 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 [Click here for NYC Restaurant Dashboard](https://veronicaywl.github.io/NYC_Restaurant_Plotly/)
 
+![Dashboard_1]()
+![plotly_Dashboard]()
+
 ### Tableau link : 
+
+
 [Dashboard](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Dashboard1)
 
 [GeoMap based on Income](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/GeoMap)
