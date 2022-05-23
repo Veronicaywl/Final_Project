@@ -27,6 +27,8 @@ After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid R
 * A database containing 'NYC Restaurant Inspection' data was created with the following columns: 'DBA', 'BOROUGH', 'STREET', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and "GRADE'. 
 * A second database using the 'NYC-Precovid Restaurant' dataset was created with the following columns: 'DBA', 'STREET', and 'INCOME_LEVEL'.  The two databases were then inner joined via the 'DBA' and 'STREET' columns as presented in the ERD diagram. After the merge, duplicate rows were removed. 
 * The final dataset was generated with the following specific attributes: 'DBA', 'STREET', 'INCOME_LEVEL', 'BOROUGH', 'ZIPCODE', 'CUISINE_DESCRIPTION', 'SCORE', and 'GRADE'.
+* We use sqlAlchemy to connect our database in postgres and pull the joined data frame to use in  machine learning model .
+
 #### ERD
 ![ERD](https://github.com/Veronicaywl/Final_Project/blob/main/SQL_database/SQL_images/ERD_NYC_restaurants_final.png)
 
