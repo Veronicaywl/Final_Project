@@ -104,8 +104,10 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 [Click here for NYC Restaurant Dashboard](https://veronicaywl.github.io/NYC_Restaurant_Plotly/)
 
-![Dashboard_1]()
-![plotly_Dashboard]()
+![Dashboard_1](https://github.com/Veronicaywl/Final_Project/blob/main/Dashboard/Dashboard_1/static/images/Dashboard_1.png)
+
+
+![plotly_Dashboard](https://github.com/Veronicaywl/Final_Project/blob/main/Dashboard/plotly_dashboard/plotly_dashboard.png)
 
 ### Tableau link : 
 
