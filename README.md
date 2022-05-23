@@ -114,8 +114,6 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 [Story](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1?publish=yes)
 
-![Heatmap](https://user-images.githubusercontent.com/94089680/169725146-3d9ebcf2-24c6-4f7f-8105-4ef39c5200f6.png)
-
 ### Reference Resources
 [Letter Grading for Restaurant](https://www1.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page) ; 
 [Inspection Cycle Overview](https://www1.nyc.gov/assets/doh/downloads/pdf/rii/inspection-cycle-overview.pdf) ; 
