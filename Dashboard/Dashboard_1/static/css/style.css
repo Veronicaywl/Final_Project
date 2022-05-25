@@ -1,9 +1,33 @@
 body {
+  color: #000000;
+}
 
-    color: #f7f7f7;
-  }
-  .jumbotron {
-    background-image: url("../images/rivercafe-nyc-2020.jpeg");
-    background-size: 100% 100%;
-    text-align: center;
-  }
+.jumbotron {
+  color:#ffffff;
+  background-image: url("../images/rivercafe-nyc-2020.jpeg");
+  background-size: 100%;
+  background-position: center;
+  height: 300px;
+  text-align: center;
+}
+
+table{
+  overflow-y:scroll;
+  height:800px;
+  display:block;
+}
+
+td {
+  border: 1px solid rgb(0, 0, 0);
+}
+
+tr td:last-child {
+  width: 1%;
+  white-space: nowrap;
+}
+
+th {
+  background: rgb(9, 192, 183);
+  position: sticky;
+  top: 0;
+}
