@@ -1,7 +1,6 @@
-var data = 
-
- [
-  {
+data =
+[
+    {
     DBA: "PATHOS",
     street: "1 AVENUE",
     income_level: "high income",
