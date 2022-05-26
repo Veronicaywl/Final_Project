@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYC Restaurants</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body class="bg-secondary">
+    <div class="wrapper">
+        <!-- Navigation Bar -->
+        <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+            <a class="navbar-brand" href="index.html">NYC Restaurants</a>
+            <a href="index.html"><img src="static/images/Grades.jpeg" alt="nyc_res_image_nav" width="75" height="auto"></a>
+        </nav>
+
+        <!-- Page Header -->
+        <div class="jumbotron">
+            <h1 class="display-4">NYC Restaurant Analysis</h1>
+        </div>
+        
+        <!-- Article Title | Article Paragraph -->
+        <div class="container-fluid">
+            <div class="row">
+                <!-- Article Title -->
+                <div class="col-md-4">
+                    <h3>NYC Restaurant Analysis: Ratings vs Income?<br><small>NYC Restaurant Analysis</small></h3>
+                </div>
+                <!-- Article Paragraph -->
+                <div class="col-md-8">
+                    <p>
+                        To determine if there are any correlation between higher income areas and likelihood of receiving 
+                        a better health inspection grade.
+                        To determine if the income level within an area may affect the the health inspection grade for the local restaurant.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filter | Table -->
+        <div class="container-fluid">
+            <div class="row">
+                <!-- Filter -->
+                <div class="col-md-3">
+                    <form class="bg-warning" action="">
+                        <p>Filter Search</p>
+                        <ul class="list-group bg-light">
+                            <!-- Input -->
+                            <li class="list-group-item bg-success">
+                                <label for="date">Enter zipcode </label>
+                                <input type="text" class="form-control" placeholder="10001" id="zipcode">
+                            </li>
+                            <!-- Income level-->
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter a income_level </label>
+                                <input type="text" class="form-control" placeholder="high income" id="income_level">
+                            </li>
+                            <!-- Grade -->
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter a grade</label>
+                                <input type="int" class="form-control" placeholder="A" id="grade">
+                            </li>
+                            <!-- Borough-->
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter a borough</label>
+                                <input type="text" class="form-control" placeholder="MANHATTAN" id="borough">
+                            </li>
+                            <!-- Cuisine -->
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter cuisine_description</label>
+                                <input type="text" class="form-control" placeholder="American" id="cuisine_description">
+                            </li>
+                            <!-- Remove Button -->
+                          <!-- <li class="list-group-item bg-dark text-center">
+                                <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button>
+                            </li>-->
+                        </ul>
+                    </form>
+                </div>
+                <!-- Table -->
+                <div class="col-md-9">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>DBA</th>
+                                <th>street</th>
+                                <th>income_level</th>
+                                <th>borough</th>
+                                <th>zipcode</th>
+                                <th>cuisine_description</th>
+                                <th>score</th>
+                                <th>grade</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="static/js/data.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+</html>
