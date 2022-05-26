@@ -1,0 +1,1242 @@
+{"names":[10001, 10002, 10003, 10004,10006,10007,10009,10010,10012,10013,10016,10017,10018,10019,
+10021,10022,10023,10024,10025,10028,10029,10031,10032,10033,10034,10035,10036,10038,10044],
+"metadata":
+[{
+    "zipcode": 10001,
+    "score": 6.62
+  },
+  {
+    "zipcode": 10003,
+    "score": 6.75
+  },
+  {
+    "zipcode": 10004,
+    "score": 7.62
+  },
+  {
+    "zipcode": 10006,
+    "score": 4.5
+  },
+  {
+    "zipcode": 10007,
+    "score": 13.68
+  },
+  {
+    "zipcode": 10009,
+    "score": 12.28
+  },
+  {
+    "zipcode": 10010,
+    "score": 9.5
+  },
+  {
+    "zipcode": 10012,
+    "score": 9.7
+  },
+  {
+    "zipcode": 10013,
+    "score": 12.27
+  },
+  {
+    "zipcode": 10016,
+    "score": 7.57
+  },
+  {
+    "zipcode": 10017,
+    "score": 11.56
+  },
+  {
+    "zipcode": 10018,
+    "score": 8.68
+  },
+  {
+    "zipcode": 10019,
+    "score": 18.66
+  },
+  {
+    "zipcode": 10021,
+    "score": 14.04
+  },
+  {
+    "zipcode": 10022,
+    "score": 14.61
+  },
+  {
+    "zipcode": 10023,
+    "score": 13.01
+  },
+  {
+    "zipcode": 10024,
+    "score": 13.2
+  },
+  {
+    "zipcode": 10025,
+    "score": 9.58
+  },
+  {
+    "zipcode": 10028,
+    "score": 13.7
+  },
+  {
+    "zipcode": 10029,
+    "score": 8.95
+  },
+  {
+    "zipcode": 10031,
+    "score": 8.83
+  },
+  {
+    "zipcode": 10032,
+    "score": 5.96
+  },
+  {
+    "zipcode": 10033,
+    "score": 11.5
+  },
+  {
+    "zipcode": 10034,
+    "score": 7.5
+  },
+  {
+    "zipcode": 10035,
+    "score": 8.83
+  },
+  {
+    "zipcode": 10036,
+    "score": 8
+  },
+  {
+    "zipcode": 10038,
+    "score": 9.5
+  },
+  {
+    "zipcode": 10044,
+    "score": 9.69
+  },
+  {
+    "zipcode": 10065,
+    "score": 11.2
+  },
+  {
+    "zipcode": 10075,
+    "score": 12.83
+  },
+  {
+    "zipcode": 10119,
+    "score": 3.67
+  },
+  {
+    "zipcode": 10128,
+    "score": 10.1
+  },
+  {
+    "zipcode": 10172,
+    "score": 11.5
+  },
+  {
+    "zipcode": 10173,
+    "score": 8
+  },
+  {
+    "zipcode": 10279,
+    "score": 9.67
+  },
+  {
+    "zipcode": 10309,
+    "score": 10.92
+  },
+  {
+    "zipcode": 10312,
+    "score": 8.67
+  },
+  {
+    "zipcode": 10451,
+    "score": 12.1
+  },
+  {
+    "zipcode": 10452,
+    "score": 16.76
+  },
+  {
+    "zipcode": 10453,
+    "score": 15.47
+  },
+  {
+    "zipcode": 10454,
+    "score": 15.95
+  },
+  {
+    "zipcode": 10455,
+    "score": 13.02
+  },
+  {
+    "zipcode": 10456,
+    "score": 12.89
+  },
+  {
+    "zipcode": 10457,
+    "score": 11.58
+  },
+  {
+    "zipcode": 10458,
+    "score": 8
+  },
+  {
+    "zipcode": 10459,
+    "score": 10.72
+  },
+  {
+    "zipcode": 10460,
+    "score": 13.64
+  },
+  {
+    "zipcode": 10461,
+    "score": 15.75
+  },
+  {
+    "zipcode": 10462,
+    "score": 5
+  },
+  {
+    "zipcode": 10463,
+    "score": 8.75
+  },
+  {
+    "zipcode": 10464,
+    "score": 9.51
+  },
+  {
+    "zipcode": 10465,
+    "score": 10.17
+  },
+  {
+    "zipcode": 10467,
+    "score": 9.47
+  },
+  {
+    "zipcode": 10468,
+    "score": 5.84
+  },
+  {
+    "zipcode": 10472,
+    "score": 13.2
+  },
+  {
+    "zipcode": 10473,
+    "score": 7
+  },
+  {
+    "zipcode": 10474,
+    "score": 11.04
+  },
+  {
+    "zipcode": 11101,
+    "score": 13.12
+  },
+  {
+    "zipcode": 11104,
+    "score": 7.88
+  },
+  {
+    "zipcode": 11106,
+    "score": 6.12
+  },
+  {
+    "zipcode": 11206,
+    "score": 12
+  },
+  {
+    "zipcode": 11207,
+    "score": 6.5
+  },
+  {
+    "zipcode": 11208,
+    "score": 13
+  },
+  {
+    "zipcode": 11209,
+    "score": 8.93
+  },
+  {
+    "zipcode": 11211,
+    "score": 5.5
+  },
+  {
+    "zipcode": 11220,
+    "score": 4
+  },
+  {
+    "zipcode": 11221,
+    "score": 7.25
+  },
+  {
+    "zipcode": 11233,
+    "score": 6
+  },
+  {
+    "zipcode": 11238,
+    "score": 12.38
+  },
+  {
+    "zipcode": 11354,
+    "score": 5
+  },
+  {
+    "zipcode": 11355,
+    "score": 12.59
+  },
+  {
+    "zipcode": 11357,
+    "score": 10.75
+  },
+  {
+    "zipcode": 11360,
+    "score": 11.28
+  },
+  {
+    "zipcode": 11373,
+    "score": 10.17
+  },
+  {
+    "zipcode": 11375,
+    "score": 12.91
+  },
+  {
+    "zipcode": 11385,
+    "score": 6.5
+  },
+  {
+    "zipcode": 11435,
+    "score": 12.5
+  },
+  {
+    "zipcode": 11694,
+    "score": 12.12
+  }
+ ],
+ "samples":[ 
+      {"zipcode":"10001", "score":[
+      9.0,
+      4.25
+      ], "cuisine":
+      [
+      "American",
+      "Coffee/Tea"
+      ]
+    },
+    {"zipcode":10003, "score":[
+      
+      4.0,
+      4.5,
+      6.0,
+      5.0,
+      11.0,
+      6.5,
+      6.67,
+      2.5,
+      14.56
+      ], "cuisine":
+      [
+      "Coffee/Tea",
+      "Frozen Desserts",
+      "Hamburgers",
+      "Hotdogs/Pretzels",
+      "Mexican",
+      "Soups/Salads/Sandwiches",
+      "Tex-Mex",
+      "Coffee/Tea",
+      "Japanese"
+      ]
+    },
+    {"zipcode":10004, "score":
+      [
+      4.0,
+      12.0,
+      4.5,
+      10.0
+      ],
+      "cuisine":
+      [
+      "Coffee/Tea",
+      "Sandwiches",
+      "Soups/Salads/Sandwiches",
+      "Tex-Mex"
+      ]
+    },
+    {"zipcode":10006, "score":
+      [
+      4.5
+      ], "cuisine":
+      [
+      "Coffee/Tea"
+      ]},
+      {"zipcode":10007, "score":
+      [
+      13.5,
+      15.75,
+      10.75,
+      24.0,
+      13.0,
+      26.0,
+      15.1,
+      8.56,
+      11.5,
+      4.72,
+      15.34,
+      17.0,
+      20.67,
+      10.0,
+      9.0,
+      7.67,
+      18.66,
+      7.5,
+      20.38,
+      10.25,
+      8.14,
+      9.83,
+      19.0,
+      12.0
+      ], "cuisine":
+      [
+      "American",
+      "Asian/Asian Fusion",
+      "Bagels/Pretzels",
+      "Bakery Products/Desserts",
+      "Bangladeshi",
+      "Chicken",
+      "Coffee/Tea",
+      "French",
+      "Hamburgers",
+      "Indian",
+      "Italian",
+      "Japanese",
+      "Juice, Smoothies, Fruit Salads",
+      "Korean",
+      "Mediterranean",
+      "Other",
+      "Pizza",
+      "Salads",
+      "Sandwiches",
+      "Sandwiches/Salads/Mixed Buffet",
+      "Soups/Salads/Sandwiches",
+      "Steakhouse",
+      "Tex-Mex",
+      "Vegan"
+      ]},
+      {"zipcode":10007, "score":
+      [
+      6.0,
+      24.69,
+      11.37,
+      9.0,
+      10.25,
+      7.78,
+      14.33,
+      8.5,
+      10.39,
+      7.97,
+      13.86,
+      9.0,
+      12.0,
+      6.0,
+      11.0,
+      15.5,
+      4.5,
+      10.0,
+      8.93,
+      15.5,
+      23.67,
+      22.16,
+      29.72,
+      3.96,
+      10.0,
+      12.96,
+      7.61,
+      8.0,
+      23.17,
+      11.0,
+      9.33,
+      18.7,
+      9.5,
+      4.5,
+      9.19,
+      9.5,
+      12.0,
+      11.0,
+      27.5,
+      9.17,
+      20.12,
+      15.75,
+      7.25,
+      8.18
+      ], "cuisine":
+      [
+      "Coffee/Tea",
+      "American",
+      "Asian/Asian Fusion",
+      "Bagels/Pretzels",
+      "Bakery Products/Desserts",
+      "Bottled Beverages",
+      "Brazilian",
+      "Caribbean",
+      "Chicken",
+      "Chinese",
+      "Coffee/Tea",
+      "Continental",
+      "Eastern European",
+      "Ethiopian",
+      "Filipino",
+      "French",
+      "Frozen Desserts",
+      "Greek",
+      "Hamburgers",
+      "Indian",
+      "Irish",
+      "Italian",
+      "Japanese",
+      "Juice, Smoothies, Fruit Salads",
+      "Korean",
+      "Latin American",
+      "Mediterranean",
+      "Mexican",
+      "Middle Eastern",
+      "Moroccan",
+      "Other",
+      "Pizza",
+      "Portuguese",
+      "Russian",
+      "Sandwiches",
+      "Sandwiches/Salads/Mixed Buffet",
+      "Seafood",
+      "Southeast Asian",
+      "Spanish",
+      "Tapas",
+      "Tex-Mex",
+      "Thai",
+      "Vegan",
+      "Vegetarian"
+      ]}
+      ,
+      {"zipcode":10010, "score":
+      [
+      10.0,
+      9.0
+      ],
+      "cuisine":
+      [
+      "Coffee/Tea",
+      "Other"
+      ]
+    },{"zipcode":10012, "score":
+      [
+      12.4,
+      7.0
+      ], "cuisine":
+      [
+      "Coffee/Tea",
+      "Tex-Mex"
+      ]
+    },
+  {"zipcode":10013, "score":[
+        15.83,
+        11.67,
+        9.5,
+        13.17,
+        12.84,
+        11.0,
+        7.75,
+        15.74,
+        24.6,
+        10.0,
+        8.0,
+        19.19,
+        14.84,
+        11.8,
+        9.67,
+        7.25,
+        18.51,
+        13.24,
+        9.15,
+        10.56,
+        7.28,
+        3.0,
+        15.45,
+        16.63,
+        10.0,
+        10.33,
+        25.0,
+        7.58,
+        9.17,
+        9.68,
+        13.0,
+        9.44,
+        6.33,
+        11.0,
+        11.5,
+        9.5,
+        10.0,
+        11.67,
+        11.88,
+        15.62,
+        10.5,
+        26.48
+        ], "cuisine":
+        [
+        "American",
+        "Asian/Asian Fusion",
+        "Australian",
+        "Bakery Products/Desserts",
+        "Barbecue",
+        "Californian",
+        "Chicken",
+        "Chinese",
+        "Coffee/Tea",
+        "Continental",
+        "Donuts",
+        "French",
+        "Frozen Desserts",
+        "Greek",
+        "Hamburgers",
+        "Indian",
+        "Italian",
+        "Japanese",
+        "Juice, Smoothies, Fruit Salads",
+        "Korean",
+        "Latin American",
+        "Lebanese",
+        "Mediterranean",
+        "Mexican",
+        "Middle Eastern",
+        "Other",
+        "Peruvian",
+        "Pizza",
+        "Salads",
+        "Sandwiches",
+        "Sandwiches/Salads/Mixed Buffet",
+        "Seafood",
+        "Soups/Salads/Sandwiches",
+        "Southeast Asian",
+        "Spanish",
+        "Steakhouse",
+        "Tapas",
+        "Tex-Mex",
+        "Thai",
+        "Turkish",
+        "Vegan",
+        "Vegetarian"
+        ]},
+    {"zipcode":10016, "score":[
+      7.0,
+      6.82,
+      6.0,
+      8.67,
+      11.33,
+      6.0,
+      6.0,
+      8.75
+      ],"cuisine":
+      [
+      "American",
+      "Coffee/Tea",
+      "Hamburgers",
+      "Salads",
+      "Sandwiches",
+      "Soups/Salads/Sandwiches",
+      "Hamburgers",
+      "Pizza"
+      ]},
+      {"zipcode":10017, "score":[
+        16.06,
+        22.66,
+        9.29,
+        12.5,
+        11.67,
+        11.27,
+        18.32,
+        7.25,
+        7.0,
+        12.0,
+        13.75,
+        8.5,
+        10.38,
+        11.2,
+        9.0,
+        9.5,
+        21.97,
+        10.5,
+        19.64,
+        8.82,
+        9.81,
+        20.84,
+        7.71,
+        8.33,
+        10.5,
+        3.67,
+        17.76,
+        11.67,
+        12.02,
+        7.78,
+        6.8,
+        11.25,
+        8.17,
+        16.67,
+        10.06,
+        9.2,
+        13.88,
+        16.0,
+        2.0,
+        7.0
+        ], "cuisine":
+        [
+        "American",
+        "Asian/Asian Fusion",
+        "Bakery Products/Desserts",
+        "Caribbean",
+        "Chicken",
+        "Chinese",
+        "Coffee/Tea",
+        "Continental",
+        "Donuts",
+        "French",
+        "Frozen Desserts",
+        "German",
+        "Greek",
+        "Hamburgers",
+        "Hawaiian",
+        "Hotdogs",
+        "Indian",
+        "Irish",
+        "Italian",
+        "Japanese",
+        "Jewish/Kosher",
+        "Juice, Smoothies, Fruit Salads",
+        "Mediterranean",
+        "Mexican",
+        "Middle Eastern",
+        "Other",
+        "Pizza",
+        "Salads",
+        "Sandwiches",
+        "Sandwiches/Salads/Mixed Buffet",
+        "Scandinavian",
+        "Seafood",
+        "Soups/Salads/Sandwiches",
+        "Spanish",
+        "Steakhouse",
+        "Tex-Mex",
+        "Thai",
+        "Turkish",
+        "Vegan",
+        "Sandwiches"
+        ]},
+      {"zipcode":10018, "score":[
+        6.33,
+        10.0,
+        12.0,
+        7.67,
+        7.4
+        ],"cuisine":
+        [
+        "Bakery Products/Desserts",
+        "Coffee/Tea",
+        "Donuts",
+        "Juice, Smoothies, Fruit Salads",
+        "Sandwiches"
+        ]},
+      {"zipcode":10019, "score":[
+        49.0,
+        7.43,
+        10.0,
+        8.2
+        ],"cuisine":
+        [
+        "Bakery Products/Desserts",
+        "Coffee/Tea",
+        "Hamburgers",
+        "Soups/Salads/Sandwiches"
+        ]},
+      {"zipcode":10021, "score":[
+        7.0,
+        11.46,
+        9.0,
+        8.5,
+        22.0,
+        24.43,
+        21.43,
+        8.33,
+        10.67,
+        23.8,
+        11.0,
+        11.0,
+        12.0,
+        16.34,
+        27.75,
+        24.96,
+        26.51,
+        8.5,
+        14.39,
+        14.17,
+        8.67,
+        11.0,
+        13.0,
+        12.0,
+        9.85,
+        8.8,
+        18.3,
+        12.45,
+        8.5,
+        19.5,
+        9.0,
+        11.0,
+        10.0,
+        12.0
+        ],"cuisine":
+        [
+        "Afghan",
+        "American",
+        "Asian/Asian Fusion",
+        "Bagels/Pretzels",
+        "Barbecue",
+        "Chinese",
+        "Coffee/Tea",
+        "Donuts",
+        "English",
+        "French",
+        "Frozen Desserts",
+        "Greek",
+        "Hamburgers",
+        "Indian",
+        "Irish",
+        "Italian",
+        "Japanese",
+        "Jewish/Kosher",
+        "Juice, Smoothies, Fruit Salads",
+        "Latin American",
+        "Mediterranean",
+        "Mexican",
+        "Other",
+        "Peruvian",
+        "Pizza",
+        "Salads",
+        "Sandwiches",
+        "Soups/Salads/Sandwiches",
+        "Tex-Mex",
+        "Thai",
+        "Turkish",
+        "Vegetarian",
+        "Coffee/Tea",
+        "Hamburgers"
+        ]},
+      {"zipcode":10022, "score":[
+        19.82,
+        12.59,
+        11.0,
+        17.04,
+        9.67,
+        21.99,
+        26.92,
+        6.25,
+        10.67,
+        8.5,
+        17.15,
+        8.0,
+        23.58,
+        14.6,
+        4.0,
+        17.75,
+        22.25,
+        11.61,
+        19.41,
+        8.1,
+        22.39,
+        30.22,
+        16.67,
+        18.95,
+        16.42,
+        10.0,
+        14.52,
+        8.71,
+        16.99,
+        17.5,
+        8.0,
+        17.5,
+        6.25,
+        17.38,
+        9.0,
+        10.0,
+        11.0,
+        20.42,
+        19.0,
+        10.0,
+        7.25
+        ],"cuisine":
+        [
+        "American",
+        "Asian/Asian Fusion",
+        "Bagels/Pretzels",
+        "Bakery Products/Desserts",
+        "Bottled Beverages",
+        "Chinese",
+        "Chinese/Japanese",
+        "Coffee/Tea",
+        "Continental",
+        "Donuts",
+        "French",
+        "Frozen Desserts",
+        "Greek",
+        "Hamburgers",
+        "Hawaiian",
+        "Indian",
+        "Irish",
+        "Italian",
+        "Japanese",
+        "Jewish/Kosher",
+        "Juice, Smoothies, Fruit Salads",
+        "Latin American",
+        "Mediterranean",
+        "Mexican",
+        "Middle Eastern",
+        "Other",
+        "Pizza",
+        "Salads",
+        "Sandwiches",
+        "Sandwiches/Salads/Mixed Buffet",
+        "Scandinavian",
+        "Seafood",
+        "Soups/Salads/Sandwiches",
+        "Southeast Asian",
+        "Spanish",
+        "Steakhouse",
+        "Tex-Mex",
+        "Thai",
+        "Turkish",
+        "Vegan",
+        "Hamburgers"
+        ]},
+      {"zipcode":10023, "score":[
+        19.07,
+        10.67,
+        10.0,
+        21.92,
+        15.75,
+        13.0,
+        9.5,
+        9.13,
+        35.34,
+        10.12,
+        9.5,
+        13.0,
+        10.6,
+        22.34,
+        16.36,
+        19.25,
+        7.91,
+        10.11,
+        9.6,
+        10.0,
+        9.42,
+        7.8,
+        7.0,
+        11.0,
+        9.0,
+        18.25,
+        9.5,
+        9.67,
+        12.5
+        ],"cuisine":
+        [
+        "American",
+        "Asian/Asian Fusion",
+        "Bagels/Pretzels",
+        "Bakery Products/Desserts",
+        "Chinese",
+        "Chinese/Cuban",
+        "Chinese/Japanese",
+        "Coffee/Tea",
+        "French",
+        "Frozen Desserts",
+        "Hamburgers",
+        "Indian",
+        "Irish",
+        "Italian",
+        "Japanese",
+        "Jewish/Kosher",
+        "Juice, Smoothies, Fruit Salads",
+        "Mediterranean",
+        "Mexican",
+        "Middle Eastern",
+        "Pizza",
+        "Salads",
+        "Sandwiches",
+        "Soups",
+        "Southeast Asian",
+        "Steakhouse",
+        "Tex-Mex",
+        "Thai",
+        "Turkish"
+        ]},
+      {"zipcode":10024, "score":[
+        22.72,
+        9.17,
+        11.17,
+        26.08,
+        7.67,
+        12.0,
+        11.57,
+        11.0,
+        7.05,
+        22.96,
+        4.8,
+        10.0,
+        12.0,
+        21.81,
+        6.14,
+        19.64,
+        12.84,
+        12.96,
+        28.25,
+        8.33,
+        13.66,
+        13.5,
+        15.17,
+        13.0,
+        10.5,
+        9.33,
+        8.0,
+        12.03,
+        9.5
+        ],"cuisine":
+        [
+        "American",
+        "Asian/Asian Fusion",
+        "Australian",
+        "Bagels/Pretzels",
+        "Bakery Products/Desserts",
+        "Chicken",
+        "Chinese",
+        "Chinese/Japanese",
+        "Coffee/Tea",
+        "French",
+        "Frozen Desserts",
+        "Greek",
+        "Hamburgers",
+        "Indian",
+        "Irish",
+        "Italian",
+        "Japanese",
+        "Jewish/Kosher",
+        "Juice, Smoothies, Fruit Salads",
+        "Latin American",
+        "Mediterranean",
+        "Mexican",
+        "Pizza",
+        "Salads",
+        "Sandwiches",
+        "Seafood",
+        "Tex-Mex",
+        "Thai",
+        "Vegetarian"
+        ]},
+      {"zipcode":10025, "score": [
+        8.5,
+        12.0,
+        17.25,
+        4.5,
+        8.0,
+        11.0,
+        7.5,
+        7.5,
+        10.0
+        ],"cuisine":
+        [
+        "Bakery Products/Desserts",
+        "Chinese",
+        "Coffee/Tea",
+        "Frozen Desserts",
+        "Hamburgers",
+        "Sandwiches",
+        "Soups/Salads/Sandwiches",
+        "Tex-Mex",
+        "Thai"
+        ]},
+      {"zipcode":10028, "score":[
+        31.15,
+        13.38,
+        14.12,
+        7.78,
+        17.6,
+        15.62,
+        22.84,
+        10.98,
+        12.75,
+        2.0,
+        40.0,
+        8.04,
+        5.5,
+        9.25,
+        10.75,
+        12.63,
+        24.43,
+        16.02,
+        19.13,
+        10.62,
+        13.0,
+        12.5,
+        13.33,
+        8.67,
+        9.8,
+        9.25,
+        9.3,
+        8.5,
+        13.0,
+        13.94,
+        23.7,
+        10.33,
+        9.0,
+        7.0
+        ],"cuisine":
+        [
+        "American",
+        "Asian/Asian Fusion",
+        "Bagels/Pretzels",
+        "Bakery Products/Desserts",
+        "Chicken",
+        "Chinese",
+        "Chinese/Japanese",
+        "Coffee/Tea",
+        "Continental",
+        "Donuts",
+        "Eastern European",
+        "French",
+        "Frozen Desserts",
+        "German",
+        "Hamburgers",
+        "Indian",
+        "Irish",
+        "Italian",
+        "Japanese",
+        "Jewish/Kosher",
+        "Juice, Smoothies, Fruit Salads",
+        "Korean",
+        "Latin American",
+        "Mexican",
+        "Pizza",
+        "Salads",
+        "Sandwiches",
+        "Seafood",
+        "Soups",
+        "Tex-Mex",
+        "Thai",
+        "Turkish",
+        "Hamburgers",
+        "Coffee/Tea"
+        ]},
+      {"zipcode":10029, "score": [
+        8.0,
+        9.0,
+        9.75,
+        11.25,
+        10.5,
+        5.0,
+        9.75,
+        8.33
+        ], "cuisine":
+        [
+        "Coffee/Tea",
+        "Donuts",
+        "Hamburgers",
+        "Sandwiches",
+        "Tex-Mex",
+        "Chicken",
+        "Hamburgers",
+        "Pizza"
+        ]},
+      {"zipcode":10031, "score":[
+        9.0,
+        8.66
+        ],"cuisine":
+        [
+        "Hamburgers",
+        "Sandwiches"
+        ]},
+      {"zipcode":10032, "score":[
+        5.0,
+        5.5,
+        6.66,
+        6.67
+        ],"cuisine":
+        [
+        "Coffee/Tea",
+        "Hamburgers",
+        "Sandwiches",
+        "Tex-Mex"
+        ]},
+      {"zipcode":10033, "score": [
+        8.5,
+        14.5
+        ],"cuisine":
+        [
+        "Hamburgers",
+        "Sandwiches"
+        ]},
+      {"zipcode":10034, "score":[
+        7.5
+        ],"cuisine":
+        [
+        "Coffee/Tea"
+        ]},
+        {"zipcode":10035, "score":
+        [
+        8.0,
+        10.5,
+        8.0
+        ],"cuisine":
+        [
+        "Hamburgers",
+        "Italian",
+        "Hamburgers"
+        ]
+      },
+      {"zipcode":10036, "score": 
+        [
+        7.0,
+        9.0
+        ],"cuisine":
+        [
+        "Coffee/Tea",
+        "Hamburgers"
+        ]
+      },
+      {"zipcode":10038, "score":
+        [
+        11.0,
+        8.0
+        ],"cuisine":
+        [
+        "Hamburgers",
+        "Soups/Salads/Sandwiches"
+        ]
+      },
+      {"zipcode":10044, "score":
+        [
+        5.0,
+        12.5,
+        11.0,
+        8.0,
+        13.0,
+        10.0,
+        8.33
+        ],"cuisine":
+        [
+        "Coffee/Tea",
+        "American",
+        "Chinese",
+        "Coffee/Tea",
+        "Japanese",
+        "Pizza",
+        "Sandwiches"
+        ]}
+        
+    ]}
+  
+      

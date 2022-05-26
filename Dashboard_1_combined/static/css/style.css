@@ -7,7 +7,25 @@ body {
     background-size: 100% 100%;
     text-align: center;
   }
-  /*.wrapper{
-    height: 200px;
-    width: 300px;
-  }
+
+  table{
+  overflow-y:scroll;
+  height:800px;
+  display:block;
+}
+
+td {
+  border: 1px solid rgb(0, 0, 0);
+}
+
+tr td:last-child {
+  width: 1%;
+  white-space: nowrap;
+}
+
+th {
+  background: rgb(9, 192, 183);
+  position: sticky;
+  top: 0;
+}
+
