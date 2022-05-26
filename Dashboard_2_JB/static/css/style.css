@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(182, 244, 202)!important;
+    color: rgb(234, 233, 233);
+  }
+
+  .jumbotron {
+    background-image: url("../images/rivercafe-nyc-2020.jpeg");
+    background-color: black;
+    max-width: 2000px;
+    height: 330px;
+    opacity: 0.6;
+
+  }
+
+th {
+  background: rgb(222, 160, 47);
+  position: sticky;
+  top: 0;
+  }
+    
+    
