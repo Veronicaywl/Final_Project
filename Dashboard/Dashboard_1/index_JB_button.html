@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYC Restaurants</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+   
+  
+
+<body class="">
+    <div class="wrapper">
+        <!-- Navigation Bar -->
+        <nav class="navbar navbar-expand-lg">
+            <a class="navbar-brand" href="index_JB.html">NYC Restaurants</a>
+            <a href="index_JB.html"><img src="static/images/Grades.jpeg" alt="nyc_res_image_nav"  width="75" height="auto"> </a>
+        </nav>
+
+        <!--Title header -->
+        <div class="container">
+         <h1 class="text-block"> &#128509; NYC Restaurant Analysis &#128509;</h1> 
+          <style>
+            h1 {   
+            margin-left: -40%;  
+            color:rgb(248, 249, 251);  
+            text-shadow: 5px 5px 5px rgba(223, 48, 9, 0.996);
+            width: 1000px;
+            height: 90px;
+            white-space: nowrap;
+            animation: mymove 5s ease-in-out;
+            }
+            @keyframes mymove {
+              90% {font-size: 20px;}
+            }
+            </style>             
+       </div>    
+
+        <!-- Jumbotron -->
+        <div class="jumbotron"></div>
+         
+                  
+        <!-- Article Title | Article Paragraph -->
+        <div class="container-fluid">
+          <div class="row">
+
+              <!-- Article Title -->
+              <div class="col-md-12">
+                  <h3> Health Inspection Grades and Neighborhood Income </h3>
+                    <h5>To determine if there are any correlations between higher income neighborhoods and the likelihood of receiving 
+                    a better health inspection grade.
+                    To determine if the income level within an area may affect the the health inspection grade for the local restaurant. </h5> <br>
+                    
+                  <style>
+                    h3 {
+                      margin: auto;  
+                      padding: 10px;
+                      text-align: center;
+                    }
+                    h5 {
+                      outline-color: red;
+                      outline-style: double;
+                      margin: auto;  
+                      padding: 10px;
+                      text-align: center;
+                    }
+                    </style>
+                  
+                </div>
+              </div>
+          </div>
+      </div>
+
+<!-- Button to plotly -->
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <style>
+          .container {
+            position: relative;
+            width: 200%;
+            max-width: 400px;
+          }
+
+          .container img {
+            width: 80%;
+            height: 300px;
+          }
+
+          .container .btn {
+            position: absolute;
+            top: 63%;
+            left: 42%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: rgb(253, 253, 75);
+            color: rgb(5, 0, 0);
+            font-size: 12px;
+            padding: 12px 24px;
+            border: solid;
+            cursor: pointer;
+            border-radius: 3px;
+            text-align: center;
+
+          }
+          .container .btn:hover {
+            background-color: rgb(104, 167, 244);
+          }  
+          </style>
+
+              <div class="container">
+                <img src="C:/Users/16462/Desktop/BootCamp/CU_Final_Project/Final_Project_B/Final_Project/Dashboard/plotly_dashboard/plotly_dashboard.png" style="width: 80%"; >
+                <a href='https://veronicaywl.github.io/NYC_Restaurant_Plotly/'><button class="btn">Go to Plotly for more information</button></a>
+                <br>
+              </div>
+
+                    <!--
+                    
+                    <input type="submit" value="Go to Plotly for more information" />
+                    -->
+
+
+      <!-- Filter | Table -->
+      <div class="container-fluid">
+          <div class="row">
+
+              <!-- Filter -->
+              <div class="col-md-3">
+                  <form class="gray" action="">
+                      <p>Filter Search</p>
+                      <style>
+                        p {
+                          background-color: rgb(249, 152, 48);
+                          font-size: 25px;
+                          margin: auto;  
+                          text-align: center;
+                        }
+                        </style>
+                     
+
+                          <!-- Input -->
+
+                          <li class="list-group-item bg-light">
+                              <label for="date">Enter zipcode </label>
+                              <input type="text" class="form-control" placeholder="10001" id="zipcode">
+                          </li>
+                          <!-- Income level-->
+                          <li class="list-group-item bg-light">
+                              <label for="date">Enter a income_level </label>
+                              <input type="text" class="form-control" placeholder="high income" id="income_level">
+                          </li>
+                          <!-- Grade -->
+                          <li class="list-group-item bg-light">
+                              <label for="date">Enter a grade</label>
+                              <input type="int" class="form-control" placeholder="A" id="grade">
+                          </li>
+                          <!-- Borough-->
+                          <li class="list-group-item bg-light">
+                              <label for="date">Enter a borough</label>
+                              <input type="text" class="form-control" placeholder="MANHATTAN" id="borough">
+                          </li>
+                          <!-- Cuisine -->
+                          <li class="list-group-item bg-light">
+                              <label for="date">Enter cuisine_description</label>
+                              <input type="text" class="form-control" placeholder="American" id="cuisine_description">
+                          </li>
+                          <!-- Remove Button -->
+                        <!-- <li class="list-group-item bg-dark text-center">
+                              <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button>
+                          </li>-->
+                      </ul>
+                  </form>
+              </div>
+        
+                <!-- Table -->
+                <div class="col-md-9">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>DBA</th>
+                                <th>street</th>
+                                <th>income_level</th>
+                                <th>borough</th>
+                                <th>zipcode</th>
+                                <th>cuisine_description</th>
+                                <th>score</th>
+                                <th>grade</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="static/js/data.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+</html>
