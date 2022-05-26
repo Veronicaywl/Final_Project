@@ -125,7 +125,7 @@ function init() {
 
     
     //Plotly.newPlot(); 
-  
+
     // 1. Create the trace for the bubble chart.
     var bubbleData = [{
       x: Cuisine,
@@ -139,8 +139,7 @@ function init() {
       }
     }];
     console.log(bubbleData);
-    
-    
+
 
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
