@@ -33,11 +33,11 @@
               </div>
               <!-- Article Paragraph -->
               <div class="col-md-8">
-                  <p>
-                      To determine if there are any correlation between higher income areas and likelihood of receiving 
-                      a better health inspection grade.
+                  <h2>
+                      <!--To determine if there are any correlation between higher income areas and likelihood of receiving 
+                      a better health inspection grade.-->
                       To determine if the income level within an area may affect the the health inspection grade for the local restaurant.
-                  </p>
+                  </h2>
               </div>
           </div>
       </div>
@@ -103,8 +103,15 @@
           </div>
       </div>
   </div>
+  <!--Adding header caption for plotly section.-->
+  <div class="container-fluid">
+  <div class="row">
+    <h3>Visualization of mean cuisine score by selected zip code using different plotly graph</h3>
+</div>
+
+</div>
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-4">
         <div class="well">
           <h5>Zip code:</h5>
           <!-- <select id="selDataset"></select> -->
@@ -117,7 +124,15 @@
           <div id="sample-metadata" class="panel-body"></div>
         </div>
       </div>
-      <div class="col-md-5">
+      <div class="row">
+        <!-- <div class="col-md-10"> -->
+        <h3>
+            <!--Adding description of  plotly section.-->
+            Bar chart and bubble chart was made to visualize if there is any <br>correlation between high income zipcode and mean cuisine score.<br>
+            Gauge chart was created based on mean score by zip code.
+        </h3>
+      </div>
+      <div class="col-md-6">
         <div id="bar"></div>
       </div>
       <div class="col-md-4">
@@ -125,7 +140,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-9">
+      <div class="col-md-10">
         <div id="bubble"></div>
       </div>
     </div>
