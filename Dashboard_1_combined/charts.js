@@ -92,7 +92,7 @@ function init() {
       }];
       // 9. Create the layout for the bar chart. 
       var barLayout = {
-        title: "Top 10 Cuisine by score for selected Zip code",
+        title: "Top 10 Cuisine by mean score for selected Zip code",
         yaxis: {
           tickmode: "array",
           tickvals: [0,1,2,3,4,5,6,7,8,9],
@@ -105,7 +105,7 @@ function init() {
           xanchor: 'center',
           y: -0.25,
           yanchor: 'center',
-          text: 'The bar chart displays Top 10 Cuisine by score ',
+          //text: 'The bar chart displays Top 10 Cuisine by score ',
           showarrow: false
         }]
       };
@@ -136,7 +136,7 @@ function init() {
       mode: 'markers',
       marker:{
         size: Score,
-        sizeref: 0.2,
+        sizeref: 0.3,
         color: Score,
         colorscale: "Earth"
       },
@@ -150,10 +150,10 @@ function init() {
 
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
-      title: 'Cuisine by score for selected Zip code',
+      title: 'Mean cuisine score for selected Zip code',
       showlegend: false,
-      xaxis: {title: "Cuisine", automargin: true},
-      yaxis: {title: "Score",automargin: true},
+      xaxis: {title: "Cuisine Type ", automargin: true},
+      yaxis: {title: "Mean Cuisine Score",automargin: true},
       hovermode:'closest' 
     };
     console.log(bubbleLayout);
@@ -188,7 +188,7 @@ function init() {
       {
         domain: { x: [0, 1], y: [0, 1] },
         value: cuisineScore,
-        title: { text: "Cuisine score for <b>selected Zip code"},
+        title: { text: "Mean cuisine score for <b>selected Zip code"},
         type: "indicator",
         mode: "gauge+number",
         gauge: {
@@ -219,7 +219,7 @@ function init() {
         xanchor: 'center',
         y: 0,
         yanchor: 'center',
-        text: "The gauge displays cuisine score for<br> selected Zip code",
+        text: "The gauge displays mean cuisine score for<br> selected Zip code",
         showarrow: false
       }]
      
