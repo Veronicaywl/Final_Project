@@ -1,5 +1,22 @@
-# Final_Project
-### Selected topic: NYC Restaurant Analysis
+# NYC Restaurant Analysis
+
+## Table of Contents  
+- [Google slides link](#google-slides-link)
+- [Reason for selected topic](#reason-for-selected-topic) 
+- [Description of the source of data](#description-of-the-source-of-data) 
+- [Description of the communication process](#description-of-the-communication-process) 
+- [Questions to Answer with the Data](#questions-to-answer-with-the-data)
+- [Database](#database)
+- [ERD](#erd)
+- [Machine learning model](#machine-learning-model)
+    - [Preliminary data preprocessing, feature engineering and feature selection](#preliminary-data-preprocessing,-feature-engineering-and-feature-selection)
+    - [Description of how data was split into training and testing data, and data standardization](#description-of-how-data-was-split-into-training-and-testing-data,-and-data-standardization)
+    - [Explanation of model choice, including limitations and benefits](#explanation-of-model-choice,-including-limitations-and-benefits)
+- [Tools](#tools)
+- [Dashboard link](#dashboard-link)
+- [Tableau link](#tableau-link)
+- [Reference Resources](#reference-resources)
+
 
 ### Google slides link :
 [Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_64)
