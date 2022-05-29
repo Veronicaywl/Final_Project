@@ -139,7 +139,7 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 ## Summary 
 
-![ML_Accuracy]()
+![ML_Accuracy](https://github.com/Veronicaywl/Final_Project/blob/Nishat_2/ML_model/Images/ML_Accuracy.png)
 
 Accuracy score was obtained and visualize to compared which Machine Learning Model performs best with our data. Random Forest Classifier was the best model to predict grade from a specific zip code and income level.
 
