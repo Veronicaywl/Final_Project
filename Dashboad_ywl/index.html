@@ -216,6 +216,32 @@
       <a href="https://www1.nyc.gov/assets/doh/downloads/pdf/rii/inspection-cycle-overview.pdf">Resources of the grading scales</a>
     </div>
   </div>
+  <div class="container-fluid">
+    <div class="row">
+      <!-- Section Title -->
+      <!-- <div class="col-md-4"> -->
+        <h2>Visualization of different Machine learning model's accuracy score</h2>
+      <!-- </div> -->
+      <!-- Section  Paragraph -->
+    <div class="row">
+      <div class="col-md-5">
+        <h4>
+          We tried different ML model to see which model give us the better accuracy score.Our best model is Random Forest Classifier with an accuracy score of  0.97.
+        </h4>
+      </div>
+    </div>
+    <div class="row">
+        <div class="col-md-5">
+          <div id="barPlot">
+      </div>
+    </div>
+    <div class="col-md-4"> 
+      <h4 style="outline-style: ridge; outline-color: salmon;">Summary of Analysis</h4><br>
+      <p><strong style="color:darkred"><u>Accuracy scores</u></strong> was obtained and visualize to compared  which machine learning model perform best with our data. <br>
+      <strong style="color: darkred;"><u>Random Forest Classifier</u></strong> was the best model to predict grade from a spefic zip code and income level.</p>
+    </div>
+  </div>
+</div>
   <div id="about" class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -244,6 +270,7 @@
   <script src="charts.js"></script>
   <script src="static/js/data.js"></script>
   <script src="static/js/app.js"></script>
+  <script src="static/js/plot.js"></script>
 
 </body>
 
