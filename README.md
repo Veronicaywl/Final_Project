@@ -15,6 +15,7 @@
 - [Dashboard link](#dashboard-link)
 - [Tableau link](#tableau-link)
 - [Reference Resources](#reference-resources)
+- [Summary ](#Summary )
 
 
 ### Google slides link :
@@ -137,6 +138,8 @@ Plot some useful maps based on income level in the areas and showing the grades 
 [Story](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1?publish=yes)
 
 ## Summary 
+
+![ML_Accuracy]()
 
 Accuracy score was obtained and visualize to compared which Machine Learning Model performs best with our data. Random Forest Classifier was the best model to predict grade from a specific zip code and income level.
 
