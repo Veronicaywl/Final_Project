@@ -5,7 +5,7 @@ var barData_2 = [{
     type: "bar"
   }];
   var barLayout_2 = {
-    title: 'Accuracy Score',
+    title: 'ML_Model Accuracy Score',
     font: {
         family: 'Raleway, sans-serif'
     },
