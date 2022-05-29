@@ -91,6 +91,7 @@ Plot some useful maps based on income level in the areas and showing the grades 
 - Plot a Geo map to indicate the grades that restaurants received in five borough.
 - An interactive dashboard using javascript , html, css , bootstrap where we can filter New York city restaurant  data by zip code, income level, grade, borough and cuisine, separately and also in different combination. 
 - Use plotly and javascript to make interactive graph to visualize mean grading score by cuisine in different zip code.
+- Using plotly we visualize different ML model to see which model give us the better accuracy score.
 
 
 ## Tools:
