@@ -4,7 +4,6 @@
 - [Google slides link](#google-slides-link)
 - [Reason for selected topic](#reason-for-selected-topic) 
 - [Description of the source of data](#description-of-the-source-of-data) 
-- [Description of the communication process](#description-of-the-communication-process) 
 - [Questions to Answer with the Data](#questions-to-answer-with-the-data)
 - [Database](#database)
 - [ERD](#erd)
@@ -16,6 +15,7 @@
 - [Dashboard link](#dashboard-link)
 - [Tableau link](#tableau-link)
 - [Reference Resources](#reference-resources)
+- [Summary ](#Summary )
 
 
 ### Google slides link :
@@ -29,9 +29,6 @@ We looked at datasets on NYC DOH Restaurant Inspections provided by Kaggle. We s
 
 Data Resources: [NYC Restaurant Inspection](https://www.kaggle.com/datasets/new-york-city/nyc-inspections?select=DOHMH_New_York_City_Restaurant_Inspection_Results.csv) & 
 [NYC- Precovid Restaurant Data](https://www.kaggle.com/datasets/nathaliekelley/nyc-precovid-restaurant-data?select=Pre_restaurants.csv)
-
-## Description of the communication process:
-We used several modes of communication to maintain efficient communication throughout. We used an initial meeting on Zoom to lay out our base plan for the project (potential topics, division of roles and responsibilities, ways to communicate as the project progresses) and created a shared Google Drive, where we shared potential datasets, word documents to jot down our initial plans, and related files. We used Slack to troubleshoot and communicate in between our Zoom meetings.
 
 
 ## Questions to Answer with the Data
@@ -78,9 +75,16 @@ The data we are working with is tabular and not raw (i.e. has no natural languag
 The different supervised machine learning models tried on our data include resampling and ensemble learning models. The resampling models used on the data include: Naive Random Oversampling, SMOTE Oversampling, Cluster Centroids Undersampling, and SMOTEENN which combines over- and under-sampling techniques. 
 Naive Random Oversampling and SMOTE Oversampling ‘oversample’ the minority class so the data values are on par with the majority class. The resample gives us 5598 ‘high’ and 5598 ‘low’ grades to run the ML model on. We experimented with Cluster Centroids Undersampling as well, which ‘undersamples’ the majority class down to equal the number of values in the minority class: this gives us 159 ‘high’ and 159 ‘low’ grades to run the ML model on. The SMOTEENN resampling method combines over and under sampling techniques by ‘oversampling’ the minority class to equate the number of data values in the majority class, followed by ‘undersampling’ by eliminating the data values that happen to fall in the neighborhood of both classes. This technique gave us 5008 ‘high’ and 5043 ‘low’ grades to run the ML model on. The ensemble learning models used on the data include: Random Forest Classifier, Balanced Random Forest Classifier, and Easy Ensemble AdaBoost Classifier.
 
-From among these models, the best model turns out to be the Random Forest Classifier, which has an accuracy score of 0.96 (as compared to scores of about 0.43 to 0.69 for all the other models tried). A Random Forest Classifier  involves training each weak learner on a subset of the data and then bases its result on the consensus reached by these weak learners together. A Random Forest Classifier model can, however, miss out the variability in the data. However, if the model’s number of estimators and tree depth is sufficient, it should perform quite well. The confusion matrix for this model can be seen below:
+From among these models, the best model turns out to be the Random Forest Classifier, which has an accuracy score of 0.96 (as compared to scores of about 0.43 to 0.69 for all the other models tried). A Random Forest Classifier  involves training each weak learner on a subset of the data and then bases its result on the consensus reached by these weak learners together. A Random Forest Classifier model can, however, miss out the variability in the data. However, if the model’s number of estimators and  the depth is sufficient, it should perform quite well. The confusion matrix for this model can be seen below:
 
 ![Confusion matrix for Random Forest Classifier](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/RFC_confusion_matrix.png)
+
+### Explanation of changes in model choice:
+
+### Description of how we have trained the model and the additional training:
+
+### Description of current accuracy score:
+Our best model is Random Forest Classifier with an accuracy score of  0.97.
 
 ## Visualization
 Plot some useful maps based on income level in the areas and showing the grades that spreading amoung in the local area. 
@@ -88,6 +92,7 @@ Plot some useful maps based on income level in the areas and showing the grades 
 - Plot a Geo map to indicate the grades that restaurants received in five borough.
 - An interactive dashboard using javascript , html, css , bootstrap where we can filter New York city restaurant  data by zip code, income level, grade, borough and cuisine, separately and also in different combination. 
 - Use plotly and javascript to make interactive graph to visualize mean grading score by cuisine in different zip code.
+- Using plotly we visualize different ML model to see which model give us the better accuracy score.
 
 
 ## Tools:
@@ -110,11 +115,9 @@ Plot some useful maps based on income level in the areas and showing the grades 
 - Tableau
 - Javascript
 - Plotly
-- Flask
 - HTML
 - CSS
 - Bootstrap
-- Heroku
 
 
 
@@ -135,6 +138,11 @@ Plot some useful maps based on income level in the areas and showing the grades 
 [Story](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1?publish=yes)
 
 ## Summary 
+
+![ML_Accuracy](https://github.com/Veronicaywl/Final_Project/blob/Nishat_2/ML_model/Images/ML_Accuracy.png)
+
+Accuracy score was obtained and visualize to compared which Machine Learning Model performs best with our data. Random Forest Classifier was the best model to predict grade from a specific zip code and income level.
+
 
 
 ### Reference Resources
