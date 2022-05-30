@@ -9,24 +9,22 @@
 - [Database](#database)
 - [ERD](#erd)
 - [Machine learning model](#machine-learning-model)
-    - [Preliminary data preprocessing, feature engineering and feature selection](#preliminary-data-preprocessing,-feature-engineering-and-feature-selection)
-        - [About the data]()
-        - [Feature engineering, selection, and model tweaking:]()
-        - [Data preprocessing:]()
-    - [Description of how data was split into training and testing data, and data standardization](#description-of-how-data-was-split-into-training-and-testing-data,-and-data-standardization)
-    - [Explanation of model choice, including limitations and benefits](#explanation-of-model-choice,-including-limitations-and-benefits)
+    - [Preliminary data preprocessing, feature engineering and feature selection](#preliminary-data-preprocessing-feature-engineering-and-feature-selection)
+        - [About the data](#about-the-data)
+        - [Feature engineering, selection, and model tweaking](#feature-engineering-selection-and-model-tweaking)
+        - [Data preprocessing](#data-preprocessing)
+    - [Description of how data was split into training and testing data, and data standardization](#description-of-how-data-was-split-into-training-and-testing-data-and-data-standardization)
+    - [Explanation of model choice, including limitations and benefits](#explanation-of-model-choice-including-limitations-and-benefits)
     - [Explanation of changes in model choice](#explanation-of-changes-in-model-choice)
-    - [Description of how we have trained the model and the additional training](#description-of-how-we-have-trained-the-model-and-the-additional-training#)
+    - [Description of how we have trained the model and the additional training](#description-of-how-we-have-trained-the-model-and-the-additional-training)
     - [Description of current accuracy score](#description-of-current-accuracy-score)
-
-  
 - [Tools](#tools)
 - [Dashboard link](#dashboard-link)
 - [Tableau link](#tableau-link)
 - [Reference Resources](#reference-resources)
 - [Summary ](#Summary )
 
-**Team Members**
+### Team Members
 
 * Jessica Berrios | [GitHub](https://github.com/jwhberrios) | [LinkedIn](https://www.linkedin.com/in/jwhberrios/)
 
