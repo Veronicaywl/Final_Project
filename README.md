@@ -94,7 +94,7 @@ Naive Random Oversampling and SMOTE Oversampling ‘oversample’ the minority c
 
 From among these models, the best model turns out to be the Random Forest Classifier, which has an accuracy score of 0.97. A Random Forest Classifier involves training each weak learner on a subset of the data and then bases its result on the consensus reached by these weak learners together. A Random Forest Classifier model can, however, miss out the variability in the data. However, if the model’s number of estimators and  the depth is sufficient, it should perform quite well. The confusion matrix for this model can be seen below:
 
-![Confusion matrix for Random Forest Classifier]()
+![Confusion matrix for Random Forest Classifier](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/confusion_matrix.png)
 
 ### Explanation of changes in model choice:
 Our model chosen is the same as last week's - Random Forest Classifier - which yields the best results. However, there is some change in the features variables used in this model: we re-selected our features variables down to only two: 'INCOME_LEVEL’ and ‘ZIPCODE’. The target variable remains same as before: 'GRADE'.
