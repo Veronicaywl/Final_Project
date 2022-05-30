@@ -115,13 +115,9 @@ From among these models, the best model turns out to be the Random Forest Classi
 ![Confusion matrix for Random Forest Classifier](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/confusion_matrix.png)
 
 ### Explanation of changes in model choice:
-
-We previously used ‘DBA’, ‘STREET’, 'INCOME_LEVEL’, ‘BOROUGH’, ‘CUISINE_DESCRIPTION’, ‘ZIPCODE’, and ‘SCORE’ as the features variables. In our new analysis we have used  different combination of features to try all of our models and finally decided to use 'INCOME_LEVEL’ and ‘ZIPCODE’ as the features variables.
-
 Our model chosen is the same as last week's - Random Forest Classifier - which yields the best results. However, there is some change in the features variables used in this model: we re-selected our features variables down to only two: 'INCOME_LEVEL’ and ‘ZIPCODE’. The target variable remains same as before: 'GRADE'.
 Initially we were working with ‘DBA’, ‘STREET’, 'INCOME_LEVEL’, ‘BOROUGH’, ‘CUISINE_DESCRIPTION’, ‘ZIPCODE’, and ‘SCORE’ as features variables, and ‘GRADE’ as our target variable. The re-selection of features variables is explained in detail above in the section titled "Feature engineering, selection, and model tweaking".
 [ML_model_NormalizedStandardized_2](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/ML_experiments/ML_model_NormalizedStandardized_2.ipynb) contains our model from this week. 
-
 
 ### Description of how we have trained the model and the additional training:
 In order to improve this model, we can try binning 'GRADE' another way: instead of placing 'A' and 'B' in 'high' grade and 'C' only in 'low' grade, we can bin 'A' into 'high' grade and 'B' and 'C' into 'low' grade. Yet another way to refine our results is to use 'SCORE' instead of 'GRADE' and make multiple classes out of the target variable of 'SCORE', and then run our models against that target variable. 
