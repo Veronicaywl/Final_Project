@@ -1,6 +1,7 @@
 # NYC Restaurant Analysis
 
-## Table of Contents  
+## Table of Contents
+- [Team Members](#team-members)
 - [Google slides link](#google-slides-link)
 - [Reason for selected topic](#reason-for-selected-topic) 
 - [Description of the source of data](#description-of-the-source-of-data) 
@@ -9,19 +10,35 @@
 - [ERD](#erd)
 - [Machine learning model](#machine-learning-model)
     - [Preliminary data preprocessing, feature engineering and feature selection](#preliminary-data-preprocessing,-feature-engineering-and-feature-selection)
+        - [About the data]()
+        - [Feature engineering, selection, and model tweaking:]()
+        - [Data preprocessing:]()
     - [Description of how data was split into training and testing data, and data standardization](#description-of-how-data-was-split-into-training-and-testing-data,-and-data-standardization)
     - [Explanation of model choice, including limitations and benefits](#explanation-of-model-choice,-including-limitations-and-benefits)
     - [Explanation of changes in model choice](#explanation-of-changes-in-model-choice)
     - [Description of how we have trained the model and the additional training](#description-of-how-we-have-trained-the-model-and-the-additional-training#)
     - [Description of current accuracy score](#description-of-current-accuracy-score)
+
+  
 - [Tools](#tools)
 - [Dashboard link](#dashboard-link)
 - [Tableau link](#tableau-link)
 - [Reference Resources](#reference-resources)
 - [Summary ](#Summary )
 
+**Team Members**
 
-### Google slides link :
+* Jessica Berrios | [GitHub](https://github.com/jwhberrios) | [LinkedIn](https://www.linkedin.com/in/jwhberrios/)
+
+* Joon Su Choi | [GitHub](https://github.com/Joon-Su-Choi) | [LinkedIn](https://www.linkedin.com/in/joon-su-choi-498b87227/)
+
+* Nishat Sultana | [GitHub](https://github.com/NishatSultana3538) | [LinkedIn](https://www.linkedin.com/in/nishat78/)
+
+* Soha Tariq | [GitHub](https://github.com/SohaT7) | [LinkedIn](https://www.linkedin.com/in/soha-tariq-5226143b/)
+
+* Yawen Veronica Liang | [GitHub](https://github.com/Veronicaywl) | [LinkedIn](https://www.linkedin.com/in/yawen-liang/)
+
+### Google slides link:
 [Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_64)
 
 ### Reason for selected topic: 
