@@ -24,7 +24,7 @@
 - [Reference Resources](#reference-resources)
 - [Summary ](#Summary )
 
-**Team Members**
+### Team Members
 
 * Jessica Berrios | [GitHub](https://github.com/jwhberrios) | [LinkedIn](https://www.linkedin.com/in/jwhberrios/)
 
