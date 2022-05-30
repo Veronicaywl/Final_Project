@@ -1,6 +1,7 @@
 # NYC Restaurant Analysis
 
-## Table of Contents  
+## Table of Contents
+- [Team Members](#team-members)
 - [Google slides link](#google-slides-link)
 - [Reason for selected topic](#reason-for-selected-topic) 
 - [Description of the source of data](#description-of-the-source-of-data) 
@@ -17,8 +18,19 @@
 - [Reference Resources](#reference-resources)
 - [Summary ](#Summary )
 
+**Team Members**
 
-### Google slides link :
+* Jessica Berrios | [GitHub](https://github.com/jwhberrios) | [LinkedIn](https://www.linkedin.com/in/jwhberrios/)
+
+* Joon Su Choi | [GitHub](https://github.com/Joon-Su-Choi) | [LinkedIn](https://www.linkedin.com/in/joon-su-choi-498b87227/)
+
+* Nishat Sultana | [GitHub](https://github.com/NishatSultana3538) | [LinkedIn](https://www.linkedin.com/in/nishat78/)
+
+* Soha Tariq | [GitHub](https://github.com/SohaT7) | [LinkedIn](https://www.linkedin.com/in/soha-tariq-5226143b/)
+
+* Yawen Veronica Liang | [GitHub](https://github.com/Veronicaywl) | [LinkedIn](https://www.linkedin.com/in/yawen-liang/)
+
+### Google slides link:
 [Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_64)
 
 ### Reason for selected topic: 
