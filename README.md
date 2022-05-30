@@ -11,6 +11,9 @@
     - [Preliminary data preprocessing, feature engineering and feature selection](#preliminary-data-preprocessing,-feature-engineering-and-feature-selection)
     - [Description of how data was split into training and testing data, and data standardization](#description-of-how-data-was-split-into-training-and-testing-data,-and-data-standardization)
     - [Explanation of model choice, including limitations and benefits](#explanation-of-model-choice,-including-limitations-and-benefits)
+    - [Explanation of changes in model choice](#explanation-of-changes-in-model-choice)
+    - [Description of how we have trained the model and the additional training](#description-of-how-we-have-trained-the-model-and-the-additional-training#)
+    - [Description of current accuracy score](#description-of-current-accuracy-score)
 - [Tools](#tools)
 - [Dashboard link](#dashboard-link)
 - [Tableau link](#tableau-link)
@@ -80,6 +83,7 @@ From among these models, the best model turns out to be the Random Forest Classi
 ![Confusion matrix for Random Forest Classifier](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/RFC_confusion_matrix.png)
 
 ### Explanation of changes in model choice:
+We previously used ‘DBA’, ‘STREET’, 'INCOME_LEVEL’, ‘BOROUGH’, ‘CUISINE_DESCRIPTION’, ‘ZIPCODE’, and ‘SCORE’ as the features variables. In our new analysis we have used  different combination of features to try all of our models and finally decided to use 'INCOME_LEVEL’ and ‘ZIPCODE’ as the features variables.
 
 ### Description of how we have trained the model and the additional training:
 
