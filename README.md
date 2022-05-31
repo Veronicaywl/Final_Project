@@ -4,9 +4,10 @@
 - [Team Members](#team-members)
 - [Google slides link](#google-slides-link)
 - [Reason for selected topic](#reason-for-selected-topic) 
-- [Description of the source of data](#description-of-the-source-of-data) 
-- [Questions to Answer with the Data](#questions-to-answer-with-the-data)
+- [Description of the source of data](#description-of-the-source-of-data)
 - [Database](#database)
+- [Questions to Answer with the Data](#questions-to-answer-with-the-data)
+- [Data Exploration](#data-exploration)
 - [ERD](#erd)
 - [Machine learning model](#machine-learning-model)
     - [Preliminary data preprocessing, feature engineering and feature selection](#preliminary-data-preprocessing-feature-engineering-and-feature-selection)
@@ -22,7 +23,7 @@
 - [Dashboard link](#dashboard-link)
 - [Tableau link](#tableau-link)
 - [Reference Resources](#reference-resources)
-- [Summary ](#Summary )
+- [Summary](#Summary )
 
 ### Team Members
 
@@ -47,6 +48,10 @@ We looked at datasets on NYC DOH Restaurant Inspections provided by Kaggle. We s
 
 Data Resources: [NYC Restaurant Inspection](https://www.kaggle.com/datasets/new-york-city/nyc-inspections?select=DOHMH_New_York_City_Restaurant_Inspection_Results.csv) & 
 [NYC- Precovid Restaurant Data](https://www.kaggle.com/datasets/nathaliekelley/nyc-precovid-restaurant-data?select=Pre_restaurants.csv)
+
+## Data Exploration
+Utilizing pandas, we read in the two CSV files we would be using for our analysis and dropped any columns that were not necessary for our data visualization, analysis, and machine learning. We then dropped any null values and exported the cleaned data into CSV files. The two cleaned datasets were joined to see what it would potentially look like when we joined them in our PostgreSQL database. We then drop duplicates from the database.
+After joining the two datasets in PostgreSQL we exported the final dataset we would be using for the rest of our analysis. This dataset was similar to the one we created through pandas and contained no null values or duplicates.
 
 
 ## Questions to Answer with the Data
