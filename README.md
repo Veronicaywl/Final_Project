@@ -166,20 +166,21 @@ Plot some useful maps based on income level in the areas and showing the grades 
 
 
 ### Dashboard link :
-[Dashboard](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit#slide=id.g11c86ef9d0d_0_0)
+The [Dashboard](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4VvVU2djwglDEqmNtXrU/edit#slide=id.g11c86ef9d0d_0_0)
+ provides detail about the tools and elements that we used to create the dashboad.
 
-[Click here for NYC Restaurant Analysis Dashboard](https://veronicaywl.github.io/dashboard/)
+This is the webpage that we build after data analysit [NYC Restaurant Analysis Dashboard](https://veronicaywl.github.io/dashboard/).
 
 
 ### Tableau link : 
 
 [Dashboard](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Dashboard1)
 
-[GeoMap based on Income](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/GeoMap)
+[GeoMap based on Income](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1)
 
 [Heat Map](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/HeatMapbyCuisine?publish=yes)
 
-[Story](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1?publish=yes)
+[Story](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1)
 
 ## Summary 
 
