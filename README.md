@@ -1,7 +1,6 @@
 # NYC Restaurant Analysis
 
 ## Table of Contents
-- [Team Members](#team-members)
 - [Google slides link](#google-slides-link)
 - [Reason for selected topic](#reason-for-selected-topic) 
 - [Description of the source of data](#description-of-the-source-of-data)
@@ -24,18 +23,8 @@
 - [Tableau link](#tableau-link)
 - [Reference Resources](#reference-resources)
 - [Summary](#Summary )
+- [Team Members](#team-members)
 
-### Team Members
-
-* Jessica Berrios | [GitHub](https://github.com/jwhberrios) | [LinkedIn](https://www.linkedin.com/in/jwhberrios/)
-
-* Joon Su Choi | [GitHub](https://github.com/Joon-Su-Choi) | [LinkedIn](https://www.linkedin.com/in/joon-su-choi-498b87227/)
-
-* Nishat Sultana | [GitHub](https://github.com/NishatSultana3538) | [LinkedIn](https://www.linkedin.com/in/nishat78/)
-
-* Soha Tariq | [GitHub](https://github.com/SohaT7) | [LinkedIn](https://www.linkedin.com/in/soha-tariq-5226143b/)
-
-* Yawen Veronica Liang | [GitHub](https://github.com/Veronicaywl) | [LinkedIn](https://www.linkedin.com/in/yawen-liang/)
 
 ### Google slides link:
 [Google Slides](https://docs.google.com/presentation/d/11oTL0XQdANk1oRAHP2maSfnjSAKa4D0l4QkrQKRJAZk/edit#slide=id.g129db8187be_0_64)
@@ -193,5 +182,15 @@ Accuracy score was obtained and visualize to compared which Machine Learning Mod
 [Letter Grading for Restaurant](https://www1.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page) ; 
 [Inspection Cycle Overview](https://www1.nyc.gov/assets/doh/downloads/pdf/rii/inspection-cycle-overview.pdf) ; 
 
+### Team Members
 
+* Jessica Berrios | [GitHub](https://github.com/jwhberrios) | [LinkedIn](https://www.linkedin.com/in/jwhberrios/)
+
+* Joon Su Choi | [GitHub](https://github.com/Joon-Su-Choi) | [LinkedIn](https://www.linkedin.com/in/joon-su-choi-498b87227/)
+
+* Nishat Sultana | [GitHub](https://github.com/NishatSultana3538) | [LinkedIn](https://www.linkedin.com/in/nishat78/)
+
+* Soha Tariq | [GitHub](https://github.com/SohaT7) | [LinkedIn](https://www.linkedin.com/in/soha-tariq-5226143b/)
+
+* Yawen Veronica Liang | [GitHub](https://github.com/Veronicaywl) | [LinkedIn](https://www.linkedin.com/in/yawen-liang/)
 
