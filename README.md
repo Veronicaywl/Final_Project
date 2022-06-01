@@ -117,7 +117,10 @@ Initially we were working with ‘DBA’, ‘STREET’, 'INCOME_LEVEL’, ‘BOR
 In order to improve this model, we can try binning 'GRADE' another way: instead of placing 'A' and 'B' in 'high' grade and 'C' only in 'low' grade, we can bin 'A' into 'high' grade and 'B' and 'C' into 'low' grade. Yet another way to refine our results is to use 'SCORE' instead of 'GRADE' and make multiple classes out of the target variable of 'SCORE', and then run our models against that target variable. 
 
 ### Description and explanation of model's confusion matrix including final accuracy score:
-Our best model is Random Forest Classifier with an accuracy score of  0.97.
+Our best model is Random Forest Classifier with an accuracy score of 0.97. 
+The model's precision to predict 'high' grades is X, whereas its precision to predict 'low' grades is X.
+The model's precision to predict 'low' grades is:
+
 
 ## Visualization
 Plot some useful maps based on income level in the areas and showing the grades that spreading amoung in the local area. 
