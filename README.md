@@ -58,6 +58,7 @@ After cleaning the two datasets ['NYC Restaurant Inspection' and 'NYC-Precovid R
 #### ERD
 ![ERD](https://github.com/Veronicaywl/Final_Project/blob/main/SQL_database/SQL_images/ERD_NYC_restaurants_final.png)
 
+
 ## Machine learning model:
 
 ### Preliminary data preprocessing, feature engineering and feature selection:
@@ -104,9 +105,11 @@ The different supervised machine learning models tried on our data include resam
 
 Naive Random Oversampling and SMOTE Oversampling ‘oversample’ the minority class so the data values are on par with the majority class. The resample gives us 5598 ‘high’ and 5598 ‘low’ grades to run the ML model on. We experimented with Cluster Centroids Undersampling as well, which ‘undersamples’ the majority class down to equal the number of values in the minority class: this gives us 159 ‘high’ and 159 ‘low’ grades to run the ML model on. The SMOTEENN resampling method combines over and under sampling techniques by ‘oversampling’ the minority class to equate the number of data values in the majority class, followed by ‘undersampling’ by eliminating the data values that happen to fall in the neighborhood of both classes. This technique gave us 1780 ‘high’ and 773 ‘low’ grades to run the ML model on. The ensemble learning models used on the data include Random Forest Classifier, Balanced Random Forest Classifier, and Easy Ensemble AdaBoost Classifier, each utilizing 5598 'high' and 159 'low'.
 
-From among these models, the best model turns out to be the Random Forest Classifier, which has an accuracy score of 0.97. A Random Forest Classifier involves training each weak learner on a subset of the data and then bases its result on the consensus reached by these weak learners together. A Random Forest Classifier model can, however, miss out the variability in the data. However, if the model’s number of estimators and  the depth is sufficient, it should perform quite well. The classification report for this model can be seen below:
+
+From among these models, the best model turns out to be the Random Forest Classifier, which has an accuracy score of 0.97. 
 
 ![Classification Report for Random Forest Classifier](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/confusion_matrix.png)
+
 
 ### Explanation of changes in model choice:
 Our model chosen is the same as last week's - Random Forest Classifier - which yields the best results. However, there is some change in the features variables used in this model: we re-selected our features variables down to only two: 'INCOME_LEVEL’ and ‘ZIPCODE’. The target variable remains same as before: 'GRADE'.
@@ -117,13 +120,14 @@ Initially we were working with ‘DBA’, ‘STREET’, 'INCOME_LEVEL’, ‘BOR
 In order to improve this model, we can try binning 'GRADE' another way: instead of placing 'A' and 'B' in 'high' grade and 'C' only in 'low' grade, we can bin 'A' into 'high' grade and 'B' and 'C' into 'low' grade. Yet another way to refine our results is to use 'SCORE' instead of 'GRADE' and make multiple classes out of the target variable of 'SCORE', and then run our models against that target variable. 
 
 ### Description and explanation of model's confusion matrix including final accuracy score:
-Our best model is Random Forest Classifier with an accuracy score of 0.97 (shown in the classification report above). 
-The confusion matrix for the model can be seen below:
 
-![Confusion Matrix for the model]()
+Our best model is Random Forest Classifier with an accuracy score of  0.97. A Random Forest Classifier involves training each weak learner on a subset of the data and then bases its result on the consensus reached by these weak learners together. A Random Forest Classifier model can, however, miss out the variability in the data. However, if the model’s number of estimators and  the depth is sufficient, it should perform quite well. The confusion matrix for this model can be seen below:
+
+![Confusion matrix for Random Forest Classifier](https://github.com/Veronicaywl/Final_Project/blob/main/ML_model/Images/confusion_matrix.png)
 
 The model's precision to predict 'high' grades is 0.97, whereas its precision to predict 'low' grades is 0.00.
 The model's recall (or sensitivity) for 'high' grades is 1.00, whereas recall for 'low' grades is 0.00.
+
 
 
 ## Visualization
