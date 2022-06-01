@@ -20,7 +20,7 @@
     - [Description of current accuracy score](#description-of-current-accuracy-score)
 - [Tools](#tools)
 - [Dashboard link](#dashboard-link)
-- [Tableau link](#tableau-link)
+- [Tableau Analysis](#tableau-analysis)
 - [Reference Resources](#reference-resources)
 - [Summary](#Summary )
 - [Team Members](#team-members)
@@ -172,15 +172,10 @@ The [Dashboard](https://docs.google.com/presentation/d/1pMOhrs9x0gpjzY27lDiT6kX4
 This is the webpage that we build after data analysit [NYC Restaurant Analysis Dashboard](https://veronicaywl.github.io/dashboard/).
 
 
-### Tableau link: 
+### Tableau Analysis: 
+- Based on the [Dashboard](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Dashboard1#1) we could see that majority of high income neighborhoods are located in the borough of Manhattan. And some of the minority cuisine such as Afghan, Ethiopian and Filipino cuisines are only located in Manhattan. 
 
-[Dashboard](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Dashboard1)
-
-[GeoMap based on Income](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1)
-
-[Heat Map](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/HeatMapbyCuisine?publish=yes)
-
-[Story](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1)
+- We could also tell from the [Heat Map](https://public.tableau.com/app/profile/yawen.liang/viz/GeoMapbasedonincome/HeatMapbyCuisine?publish=yes) that the African cuisine located in Brooklyn and the Eastern cuisine located in Manhattan has the lowerest inspection grade among the neighborhood. All analysis are including in the [Story](https://public.tableau.com/app/profile/yawen.liang/viz/NYC_Restaurant_Analysis/Story1#2). We also found out that the zip code 10119 has the lowest points among all zip codes from five boroughs. In which mean the zip code has the highest inspection grade in high income level neighborhood located in Manhattan. The zip code 10461 has the lowerest inspection grade in low income level neighborhood located in the Bronx. 
 
 ## Summary 
 
