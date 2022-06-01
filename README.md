@@ -119,7 +119,7 @@ In order to improve this model, we can try binning 'GRADE' another way: instead 
 ### Description and explanation of model's confusion matrix including final accuracy score:
 Our best model is Random Forest Classifier with an accuracy score of 0.97. 
 The model's precision to predict 'high' grades is X, whereas its precision to predict 'low' grades is X.
-The model's precision to predict 'low' grades is:
+The model's recall (or sensitivity) for 'high' grades is Y, whereas recall for 'low' grades is Y.
 
 
 ## Visualization
