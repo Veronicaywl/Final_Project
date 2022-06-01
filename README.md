@@ -122,8 +122,8 @@ The confusion matrix for the model can be seen below:
 
 ![Confusion Matrix for the model]()
 
-The model's precision to predict 'high' grades is X, whereas its precision to predict 'low' grades is X.
-The model's recall (or sensitivity) for 'high' grades is Y, whereas recall for 'low' grades is Y.
+The model's precision to predict 'high' grades is 0.97, whereas its precision to predict 'low' grades is 0.00.
+The model's recall (or sensitivity) for 'high' grades is 1.00, whereas recall for 'low' grades is 0.00.
 
 
 ## Visualization
